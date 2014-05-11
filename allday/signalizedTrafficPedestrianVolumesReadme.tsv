@@ -1,0 +1,16 @@
+Signalized Intersection Traffic and Pedestrian Volume Data		
+		
+Column Name	Description	Comments
+PX2	Switch unique id	
+Main	Main street name	
+Midblock Route	Mid block description	
+Side 1 Route	Side street name one	
+Side 2 Route	Side street name two	
+Activation Date	Date of activation	
+Latitude	Latitude geo-coordinate	
+Longitude	Longitude geo-coordinate	
+Count Date	Date of count	
+8HrPedVol	8 hour pedestrian volume	Count taken approx. 7:30 a.m. to 6:30 p.m. with breaks
+8HrVehVol	8 hour vehicle volume	
+24HrPedVol	24 hour pedestrian volume	
+24HrVehVol	24 hour vehicle volume	
