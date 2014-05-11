@@ -1,3 +1,4 @@
 #!/bin/sh
 
 ./extract toronto/*.txt > counts-toronto.csv
+./extrapolate > counts-toronto-extrapolated.csv

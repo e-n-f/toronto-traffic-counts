@@ -1,0 +1,40 @@
+#!/usr/bin/perl
+
+$drivescale = 0.198933;
+$walkscale = 0.209617;
+$usualtime = "17:00-18:00";
+
+# cat ../*-traffic-counts/counts*csv | ./accumulate-hour | ./get-walk-peak | ./get-turn | awk '{right += $4; left += $5; thru += $6; sum += $4 + $5 + $6} END {print right/sum, left/sum, thru/sum, sum}'
+$right = 0.129794;
+$left = 0.126032;
+$thru = 0.744174;
+
+open(IN, "allday/signalizedTrafficPedestrianVolumes20120216.tsv");
+while (<IN>) {
+	s/,//g;
+	($id, $name1, $mid, $name2, $name3, $since, $lat, $lon, $date, $walk, $drive) = split(/\t */);
+
+	$drive = $drive * $drivescale;
+	$walk = $walk * $walkscale;
+
+	print "toronto-extrapolated,$name1 AT ";
+	if ($mid ne "") {
+		print "$mid ";
+	}
+	print "$name2";
+	if ($name3 ne "") {
+		print " AND $name3";
+	}
+	print ",$id,$date,$usualtime,";
+
+	for ($i = 0; $i < 4; $i++) {
+		printf("%d,%d,%d,", $drive / 4 * $right, $drive / 4 * $thru, $drive / 4 * $left);
+	}
+
+	for ($i = 0; $i < 4; $i++) {
+		printf("%d,", $walk / 4);
+	}
+
+	print ",,,,$lat,$lon";
+	print "\n";
+}
