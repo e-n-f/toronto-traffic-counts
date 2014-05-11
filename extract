@@ -41,7 +41,7 @@ while (<>) {
 				$time = $1;
 			}
 
-			if (/([NSEW]) +(\d+) +(\d+) +(\d+) *$/) {
+			if (/([NSEW]) +([0-9,]+) +([0-9,]+) +([0-9,]+) *$/) {
 				$count{$1}{"Peds"} = $2;
 				$count{$1}{"Bike"} = $3;
 			}
@@ -82,6 +82,7 @@ while (<>) {
 				for $dir ('N', 'E', 'S', 'W') {
 					my $turn;
 					for $turn ('R', 'T', 'L') {
+						$count{$dir}{$turn} =~ s/,//g;
 						print "$count{$dir}{$turn},";
 					}
 				}
@@ -89,6 +90,7 @@ while (<>) {
 				my $mode;
 				for $mode ('Peds', 'Bike') {
 					for $dir ('N', 'E', 'S', 'W') {
+						$count{$dir}{$mode} =~ s/,//g;
 						print "$count{$dir}{$mode},";
 					}
 				}
