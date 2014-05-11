@@ -1,0 +1,51 @@
+                                                                City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                               TURNING MOVEMENT COUNT SUMMARY REPORT
+ Printed on:         02-MAR-2004                                                                                            Survey Date:               2004-JAN-29               (Thursday)
+ INTERSECTION OF BURTON ROAD AT KILBARRY ROAD AND SPADINA R                                                                 Survey Type:               Routine Hours
+
+  Time         Vehicle          NORTHBOUND                               EASTBOUND                            SOUTHBOUND                                   WESTBOUND
+ Period         Type Exits     Left Thru Right         Total Exits    Left Thru Right      Total   Exits     Left Thru Right       Total       Exits     Left Thru Right           Total       Peds Bike Other
+  07:30-08:30 CAR       427     14      391       35    440     172      7     71     47     125       612     66    549       4      619         46        16       28     29       73 N          1         0   0
+              TRK          2     0           2     3       5      4      0      0      1       1        11      1     10       1       12          2         0         1     0        1    S      11         0   0
+  AM PEAK
+              BUS          4     1           3     0       4      1      1      1      0       2         4      0      4       0           4       2         0         1     0        1    E       8         0   0
+       TOTAL            433     15      396       38    449     177      8     72     48     128       627     67     563      5      635         50        16       30     29       75 W          8         0   0
+
+  17:00-18:00 CAR       569     41      525       23    589      67      8     23     19      50       406     21    353    11        385        141        34       89     36      159 N          0         0   0
+              TRK          6     0           6     0       6      0      0      0      0       0         3      0      3       0           3       0         0         0     0        0    S      20         0   0
+  PM PEAK
+              BUS          4     0           4     0       4      0      0      0      0       0         3      0      2       0           2       0         1         0     0        1    E      14         0   0
+       TOTAL            579     41      535       23    599      67      8     23     19      50       412     21     358   11        390        141        35       89     36      160 W          6         0   0
+
+               CAR      364     25      327       22    374      83      8     35     40      83       407     26    336    10        372         64        31       29     29       89 N          0         0   0
+               TRK        9      1           7     1       9      3      0      1      1       2        13      1     11       1       13          2         1         0     2        3    S      11         0   0
+   OFF HR
+    AVG    BUS             4     1           4     0       5      1      0      0      0       0         4      1      4       0           5       1         0         0     0        0    E      25         0   0
+      TOTAL             377     27      338       23    388      87      8     36     41      85       424     28     351   11        390         67        32       29     31       92 W          7         0   0
+
+  07:30-09:30 CAR       845     41      747       78    866     371     24    179     95     298   1,129      114    986    23      1,123        120        48       56     74      178 N          1         0   0
+              TRK        11      0           9     3     12       4      0      0      1       1        18      1     15     1         17          4         2         3     2        7    S      45         0   0
+   2 HR AM
+              BUS          6     2           5     0       7      2      1      1      1       3         9      1      8       0           9       3         0         1     0        1    E      46         0   0
+       TOTAL            862     43      761       81    885     377     25    180     97     302   1,156      116   1,009   24       1,149       127        50       60     76      186 W         15         0   0
+
+  16:00-18:00 CAR      1,083    85      984       58   1,127    153     15     53     44     112       762     42    648    23        713        256        70    148       84      302 N          0         0   0
+              TRK        13      0       13        1      14      3      0      1      0       1        10      1      8       1       10          3         2         2     0        4    S      36         0   0
+   2 HR PM
+              BUS          9     0           8     0       8      0      0      0      0       0         7      0      6       1           7       3         1         2     1        4    E      20         0   0
+       TOTAL           1,105    85     1,005      59   1,149    156     15     54     44     113       779     43     662   25        730        262        73    152       85      310 W         11         0   0
+
+  07:30-18:00 CAR      3,383   226     3,038     224   3,488    855     71    371    298     740   3,516      260   2,976   85      3,321        629       242    318      274      834 N          1         0   0
+              TRK        60      2       50        9     61      16      1      3      4       8        77      4     66       5       75         12         7         5     9       21    S     123         0   0
+ 8 HR SUMM
+              BUS        31      4       28        0     32       5      2      2      1       5        32      3     30       1       34          8         1         3     1        5    E     164         0   0
+       TOTAL           3,474   232     3,116     233   3,581    876     74    376    303     753   3,625      267   3,072   91       3,430       649       250    326      284      860 W         53         0   0
+
+Total 8 Hour Vehicle Volume:         8,624                              Total 8 Hour Bicycle Volume:     0                                 Total 8 Hour Intersection Volume:         8,624
+Comment:
+
+
+                                                                                                                                                                                               Page 1 of 1
+

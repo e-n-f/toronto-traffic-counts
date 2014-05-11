@@ -1,0 +1,1190 @@
+                                                    -.~
+
+                                                          L
+                                                           ,I   ..
+                                                                      .
+                                                                     ~-
+                                                                          -=---   _ _ __ _   ____   ~:'.,.
+                                                                                                             -
+
+
+
+
+Environmental Noise Feasibility Study
+
+         333 King Street East
+
+       Proposed Mixed Use Development
+Southwest Corner of King Street East and Berkeley Street
+                     City of Toronto
+
+
+                      March 28, 2012
+                      Project: 111-354
+
+
+
+
+                       Prepared for
+
+
+           First Gulf King Street Inc.
+
+
+                        Prepared by
+
+
+
+
+                       Reviewed by
+
+
+
+
+                                  Canada Ltd.
+VALCOUSTICS CANADA LTD.                                                                                         333 King Street East/Toronto ­ Noise Feasibility
+File: 111-354
+
+
+
+
+                                                      TABLE OF CONTENTS
+
+
+
+EXECUTIVE SUMMARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 1
+
+1.0        INTRODUCTION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 1
+
+2.0        NOISE SOURCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 2
+
+3.0        ENVIRONMENTAL NOISE GUIDELINES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 2
+           3.1   INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 2
+           3.2   MOE PUBLICATION LU-131 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 2
+
+4.0        NOISE IMPACT ASSESSMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 3
+
+5.0        NOISE      CONTROL REQUIREMENTS .                        .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+3
+           5.1        INDOORS. . . . . . . . . . . . . . . . .      .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+3
+           5.2        OUTDOORS . . . . . . . . . . . . . .          .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+4
+           5.3        W ARNING CLAUSES . . . . . . .                .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+4
+
+6.0        THE EFFECT OF THE PROJECT ON THE NEIGHBOURHOOD. . . . . . . . . . . . . . . . . . . . . . . . . 
+ 4
+
+7.0        CONCLUSIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 4
+
+8.0        REFERENCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 5
+
+                                                              LIST OF TABLES
+
+TABLE 1               YEAR 2022 ROAD TRAFFIC DATA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 6
+
+TABLE 2               PREDICTED SOUND ENERGY EXPOSURES AT BUILDING FACADE
+                      APPLICABLE TO THE YEAR 2022 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 7
+
+TABLE 3               MINIMUM NOISE ABATEMENT MEASURES .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 8
+
+                                                              LIST OF FIGURES
+
+FIGURE 1              KEY PLAN
+
+FIGURE 2              SITE PLAN
+
+                                                          LIST OF APPENDICES
+
+APPENDIX A            ROAD TRAFFIC DATA
+
+APPENDIX B            SUMMARY OF MOE NOISE GUIDELINES
+
+APPENDIX C            SAMPLE SOUND EXPOSURE CALCULATION
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9               Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                    333 King Street East/Toronto ­ Noise Feasibility 
+
+File: 111-354                                                                                                      Page 1 
+
+
+
+
+
+              Environmental Noise Feasibility Study
+
+                               333 King Street East
+
+
+                            Proposed Mixed Use Development
+              Southwest Corner of King Street East and Berkeley Street
+
+                                                     City of Toronto
+
+
+
+
+
+EXECUTIVE SUMMARY
+
+Valcoustics Canada Ltd. was retained to prepare this report in support of the Re-zoning application to the City
+of Toronto for the proposed m ixed-use developm ent at 333 King Street East at the southwest corner of King
+Street East and Berkeley Street. The proposed developm ent will consist of a 24-storey residential tower along
+King Street East and a 16-storey office building along King Street East with a one-storey podium as well as
+a 19-storey office building at the northeast corner of Princess Street and Front Street East. The existing
+buildings on the site will rem ain.
+
+The road traffic noise source with potential for adverse noise im pact on the proposed developm ent is road
+traffic on King Street, Front Street, Sherbourne Street and Parliam ent Street.
+
+The sound exposures on site have been determ ined and com pared with the applicable Ministry of the
+Environm ent (MOE) and City of Toronto noise guidelines to determ ine the need for noise m itigation.
+
+To m eet the applicable transportation noise source guideline lim its:
+
+·        All residential suites require m andatory air conditioning.
+
+·        To m eet the applicable indoor noise guidelines, windows m eeting the m inim um non-acoustical
+         standards of the Ontario Building Code (OBC) will allow the applicable indoor MOE noise guidelines
+         be m et, assum ing STC 54 exterior wall construction will be used. Final requirem ents should be
+         checked when detailed building plans are available.
+
+1.0      INTRODUCTION
+
+This report has been prepared in support of the Re-zoning application to the City of Toronto for the proposed
+m ixed use developm ent at 333 King Street East at the southwest corner of King Street East and Berkeley
+Street. The potential sound exposures and noise m itigation m easures needed for the proposed developm ent
+to com ply with the MOE road noise guidelines are outlined herein.
+
+The site is bounded by:
+
+·        King Street East, with existing com m ercial/office buildings, to the north;
+·        existing com m ercial/office buildings, with Berkeley Street and Parliam ent Street beyond, to the east;
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9   Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                       333 King Street East/Toronto ­ Noise Feasibility 
+
+File: 111-354                                                                                                         Page 2 
+
+
+
+
+·        Front Street, with existing com m ercial buildings beyond, to the south; and
+·        existing com m ercial buildings, with Princess Street and Sherbourne Street beyond, to the west.
+
+Figure 1 shows a Key Plan.
+
+This report is based on the Site Plan, received March 13, 2012, prepared by Diam ond and Schm itt Architects.
+Figure 2 shows the Site Plan in reduced form .
+
+2.0      NOISE SOURCES
+
+The m ain road traffic noise sources with potential for im pact on the proposed developm ent are road traffic on
+King Street, Front Street, Sherbourne Street and Parliam ent Street, including Toronto Transit Com m ission
+(TTC) streetcar m ovem ents on King Street. Road traffic on other local streets is m inor and therefore is not
+expected to create adverse noise im pact on the proposed developm ent.
+
+Road traffic volum es applicable to the year 2011 for Front Street and Parliam ent Street, and applicable to the
+year 2010 for King Street and Sherbourne Street were obtained from the City of Toronto Traffic Data Centre
+and Safety Bureau. Daily (24-hour) volum es were obtained by m ultiplying the 8-hour turning m ovem ent counts
+by a factor of 2.2. A day/night split of 90%/10% was used as is typical for well travelled roadways. A growth
+rate of 2%, com pounded annually, was applied to obtain future (year 2022) traffic volum es. Truck
+percentages were also obtained from the turning m ovem ent counts. The ratio of heavy trucks to m edium
+trucks was assum ed to be 60%/40%. Buses were considered as m edium trucks.
+
+The road traffic data is sum m arized in Table 1.                 Correspondence regarding road data is included as
+Appendix A.
+
+Streetcar traffic on King Street East was obtained from the TTC web site, which indicates vehicle frequencies
+at different tim e periods throughout the day. The day/night split used was derived from this data. A growth
+rate of 2.0%, com pounded annually, was applied to the daily streetcar volum es (2012) to obtain future (year
+2022) traffic volum es.
+
+Due to the close proxim ity to the arterial roadways in the area, the existing background am bient sound level
+at the site is anticipated to be relatively high, which is typical of an urban area (downtown). The existing
+com m ercial (retail) and office uses in the area are not expected to create adverse noise im pact on the
+proposed developm ent and therefore is not considered further in this report.
+
+3.0      ENVIRONMENTAL NOISE GUIDELINES
+
+3.1      INTRODUCTION
+
+The applicable noise guidelines for new residential developm ent are those in MOE Publication LU-131, "Noise
+Assessment Criteria in Land Use Planning" and are discussed briefly below and sum m arized in Appendix B.
+
+3.2      M OE PUBLICATION LU-131
+
+In accordance with the MOE practice, if the daytim e sound energy exposure, L eq Day(1), at the exterior face of
+living/dining room s is greater than 65 dBA, or if the nighttim e sound energy exposure, L eq Night(2), at the exterior
+face of bedroom s is greater than 60 dBA, m eans m ust be provided so that windows can be kept closed for
+noise control purposes and central air conditioning is required. For daytim e sound exposures between 56 and
+65 dBA inclusive, or for nighttim e sound exposures between 51 and 60 dBA inclusive, there need only be the
+
+
+
+
+(1)      Le q D a y :   16-hour energy equivalent sound level (0700-2300 hours).
+(2)      Leq N ight :   8-hour energy equivalent sound level (2300-0700 hours).
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9      Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                    333 King Street East/Toronto ­ Noise Feasibility 
+
+File: 111-354                                                                                                      Page 3 
+
+
+
+
+provision for adding air conditioning at a later date. A warning clause advising the occupants of the potential
+interference with som e activities is also required.
+
+For indoor areas, the daytim e guideline for living and dining room s is L eq Day = 45 dBA for road traffic sound
+sources. The nighttim e guideline for bedroom s is L eq Night = 40 dBA for road traffic sound sources.
+
+For outdoor am enity areas ("Outdoor Living Areas" ­ O LA), the guideline is 55 dBA L eq Day (0700 to
+2300 hours), with an excess not exceeding 5 dBA considered acceptable if it is technically not practicable to
+achieve the 55 dBA objective, provided warning clauses are registered on title. Note that for road traffic
+sources a balcony is not considered an OLA, unless it is the only OLA for the occupant and it is:
+
+·        at least 4 m in depth;
+·        outside the building facade; and
+·        unenclosed.
+
+4.0      NOISE IMPACT ASSESSMENT
+
+Using the road traffic data in Table 1, the sound energy exposures, in term s of L eq Day and L eq Night, were
+determ ined using STAMSON V5.04 ­ ORNAMENT, the com puterized road traffic noise prediction m odel of
+the MOE.
+
+Traffic congestion during the day in urban areas m ay result in speeds below the lim it while decreased traffic
+at night allows speeds at or above the lim it. To be conservative, the traffic flow speed has been assum ed to
+be at the posted speed throughout the 24-hour day.
+
+Table 2 sum m arizes the predicted environm ental sound exposures at locations on the building faces,
+applicable to the year 2022. A sam ple sound exposure calculation is included in Appendix C.
+
+The daytim e/nighttim e sound exposures were taken at top storey windows (worst case locations). Inherent
+screening of building face due to orientation relative to the noise source was taken into account.
+
+The highest unm itigated daytim e/nighttim e sound exposures of 71 dBA/65 dBA are predicted to occur at the
+south facade of the residential tower.
+
+5.0      NOISE CONTROL REQUIREMENTS
+
+The noise control m easures can generally be classified into two categories which are interrelated, but which
+can be treated separately for the m ost part:
+
+         (a)       Architectural elem ents to achieve acceptable indoor noise levels;
+         (b)       Design features to protect the OLA's.
+
+Noise abatem ent requirem ents are sum m arized in Table 3 and the notes to Table 3, as well as in Figure 2.
+
+5.1      INDOORS
+
+To determ ine the sound isolation requirem ents of the architectural elem ents, wall and window areas were
+assumed to be 80% and 30% of the associated floor area, respectively, on the facades exposed directly, or
+at an angle, to the road traffic noise sources, for both living/dining areas and sleeping quarters in the
+residential tower. For the office buildings, wall and window areas were assum ed to be 50% and 50% of the
+associated floor area.
+
+Based on the above assum ptions, window construction m eeting the m inim um non-acoustical standards of
+the OBC will allow the applicable indoor MOE noise guidelines for transportation sources to be m et and thus,
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9   Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                    333 King Street East/Toronto ­ Noise Feasibility 
+
+File: 111-354                                                                                                      Page 4 
+
+
+
+
+provide adequate sound isolation for all the units in the developm ent for the residential tower and office
+buildings. This assum es that STC 54 exterior wall construction will be provide for the proposed developm ent.
+
+Since the analysis is based upon assum ed wall and window areas and exterior wall STC rating, the window
+STC requirem ents should be reviewed once building plans are available. This is usually done as part of the
+building perm it application.
+
+Based on the predicted daytim e and nighttim e sound exposures, all residential suites require m andatory
+central air conditioning.
+
+5.2      OUTDOORS
+
+As m entioned in Section 3.2, balconies do not qualify as OLA's since they are generally less than 4 m in depth.
+Therefore, sound barriers are not required for the balconies.
+
+5.3      W ARNING CLAUSES
+
+W here applicable under the MOE noise guidelines, appropriate warning clauses should be registered on
+Offers of Purchase and Sale and/or Lease for residential suites, to advise future occupants of any potential
+noise issues. Locations requiring warning clauses and the appropriate wording are provided in Table 3.
+
+6.0      THE EFFECT OF THE PROJECT ON THE NEIGHBOURHOOD
+
+The m ain source of noise associated with this developm ent, with the potential for adverse im pact on
+surrounding buildings, is the m echanical equipm ent. These system s are not yet designed.
+
+Mechanical equipm ent interfacing to the outdoors m ust com ply with Chapter 591 of the City of Toronto
+Municipal Code. By proper engineering design, all requirem ents can be m et and no adverse noise im pact
+would be created for surrounding uses. Appropriate choice of location, equipm ent type, and noise control
+features, such as silencers and sound barriers should be considered during detailed design.
+
+For em ergency power (diesel or natural gas) generators, in excess of 700 kW , an Environm ental Com pliance
+Approval (ECA) is required from the MOE, under Part 9 of the Environm ental Protection Act (EPA), addressing
+noise and air quality. For standby power generators of 700 kW or less, the installation m ust be filed with the
+MOE Registry and m ust com ply with Ontario Regulation (O.Reg) 245/11, prom ulgated in June 2011. For
+generators within a building, am ongst other requirem ents O.Reg. 245/11 sets out m inim um silencing
+requirem ents for cooling and exhaust air paths and engine exhaust m uffler system s. By these various m eans,
+it is possible and practicable to ensure that noise em issions from any level of the building will not adversely
+affect neighbouring developm ents and will com ply with all regulatory requirem ents.
+
+The additional road traffic generated by this project will be sm all relative to existing traffic volum es within the
+general area, and is not expected to create adverse noise im pact.
+
+In accordance with Chapter 363 of the Toronto Municipal Code, a vibration im pact study to determ ine if any
+adverse im pact will be caused by the proposed construction m ethods, will be required. This is typically
+determ ined at the building perm it application stage.
+
+7.0      CONCLUSIONS
+
+The findings of this report indicate that the applicable MOE road noise guidelines can be m et and a suitable
+acoustical environm ent provided for the occupants. The road noise exposures and attendant noise m itigation
+requirem ents are typical of m any other residential developm ents m ajor roadways in the GTA. W ith
+appropriate design of the developm ent, a suitable acoustical environm ent can be provided for the occupants
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9   Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                                     333 King Street East/Toronto ­ Noise Feasibility 
+
+File: 111-354                                                                                                                       Page 5 
+
+
+
+
+and the applicable MOE noise guideline requirem ents m et. Future occupants will be m ade aware of the
+potential noise situation through warning clauses, as per MOE guidelines.
+
+Central air conditioning is required for all residential suites. W indow construction m eeting the m inim um
+non-acoustical standards of the OBC is required assum ing STC 54 exterior wall construction will be provided.
+All requirem ents are considered feasible. The final window and wall requirem ents should be checked once
+detailed designs/building plans are available. This is typically done as a condition for obtaining a building
+perm it.
+
+The approvals and adm inistrative procedures are available to ensure that any acoustical requirem ents are
+im plem ented.
+
+8.0         REFERENCES
+
+1.          "Environm ental Noise Assessm ent in Land-Use Planning", 1987 ISBN 0-7729-2804-5, Ontario
+            Ministry of the Environm ent, February 1987.
+
+2.          "Road and Rail Noise: Effects on Housing", Canada Mortgage and Housing Corporation,
+            Publication NHA 5156, 81/10.
+
+3.          "Noise Assessm ent Criteria in Land Use Planning", Ontario Ministry of the Environm ent,
+            Publication LU-131, October 1997.
+
+4.          PC STAMSON 5.04, "Com puter Program for Road Traffic Noise Assessm ent", Ontario Ministry of the
+            Environm ent.
+
+5.          Building Practice Note No. 56: "Controlling Sound Transm ission into Buildings", by J. D. Quirt, Division
+            of Building Research, National Council of Canada, Septem ber 1985.
+
+6.          City of Toronto Municipal Code, Chapter 591, Noise.
+
+TG\SD\hd
+J:\2011\111354\000\Reports\333 King Street E, Toronto - Noise Feas Fnl.wpd
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9                    Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                         333 King Street East/Toronto ­ Noise Feasibility 
+
+File: 111-354                                                                                                           Page 6 
+
+
+
+
+
+                                                             TABLE 1
+
+
+                                        YEAR 2022 ROAD TRAFFIC DATA
+
+
+                                                                                         % Trucks (2)
+                                                                      (1)                                              Speed Limit
+                      Roadway                                AADT
+                                                                                                                          (kph)
+                                                                               M edium               Heavy
+
+            King Street East (Vehicle)                        13 016               3.8                  2.5                   50
+
+          King Street East (Streetcar) (3)                      609                 ­                    ­                    50
+
+                 Sherbourne Street                            14 704               4.4                  2.9                   50
+
+                 Parliam ent Street                           15 948               6.4                  5.1                   50
+
+                     Front Street                             21 509               4.9                  3.4                   50
+
+
+
+N otes:
+
+(1)       AAD T - Annual Average D aily Traffic.
+(2)       O btained from the C ity of Toronto Traffic D ata Centre and escalated by 2% per year to the year 2022. See text. R atio of heavy
+          to m edium trucks was assum ed to be 60% /40% . Buses are considered as m edium trucks.
+(3)       O btained from TTC website. D ata shown was extrapolated to the Year 2022 design condition using a 2% growth rate,
+          com pounded annually.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9       Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                         333 King Street East/Toronto ­ Noise Feasibility 
+
+File: 111-354                                                                                                           Page 7 
+
+
+
+
+                                                              TABLE 2
+
+
+           PREDICTED SOUND ENERGY EXPOSURES AT BUILDING FACADE(1)
+
+                        APPLICABLE TO THE YEAR 2022
+
+
+       Location                          Source                         Distance (m) (2)      L eq Day (dBA)      L eq Night (dBA)
+                              King Street East (Vehicle)                         10                 64                  58
+        A                   King Street East (Streetcar)                         10                 65                  59
+   NW Corner
+                                  Sherbourne Street                             260                 54                  48
+  W est Facade
+                                       Front Street                              90                 58                  51
+                                          TOTAL                                   ­                 68                  62
+                              King Street East (Vehicle)                         10                 67                  61
+                            King Street East (Streetcar)                         10                 68                  62
+        B
+   NW Corner                      Sherbourne Street                             260                 51                  45
+  North Facade
+                                   Parliam ent Street                           170                 55                  49
+                                          TOTAL                                   ­                 71                  65
+                              King Street East (Vehicle)                         10                 67                  61
+                            King Street East (Streetcar)                         10                 68                  62
+        C
+   NE Corner                      Sherbourne Street                             317                 50                  44
+  North Facade
+                                   Parliam ent Street                           113                 57                  50
+                                          TOTAL                                   ­                 71                  65
+                              King Street East (Vehicle)                         10                 64                  58
+                            King Street East (Streetcar)                         10                 65                  59
+           D
+       NE Corner                   Parliam ent Street                           113                 60                  53
+      East Facade
+                                       Front Street                              90                 58                  51
+                                          TOTAL                                   ­                 69                  63
+                              King Street East (Vehicle)                         90                 55                  48
+                            King Street East (Streetcar)                         90                 55                  50
+           E
+                                   Parliam ent Street                            96                 61                  54
+       SE Corner
+      East Facade                      Front Street                               9                 68                  61
+                                          TOTAL                                   ­                 69                  63
+                                   Parliam ent Street                            96                 58                  51
+
+        F                              Front Street                               9                 71                  64
+   SE Corner                      Sherbourne Street                             334                 50                  44
+  South Facade
+                                          TOTAL                                   ­                 71                  65
+
+N otes:
+
+(1)        D aytim e/nighttim e sound exposures taken at the top storey of the building.
+(2)        D istance from receptor to centreline of roadway.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9       Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                          333 King Street East/Toronto ­ Noise Feasibility
+File: 111-354                                                                                                            Page 8
+
+
+
+
+                                                               TABLE 3
+
+                                 MINIMUM NOISE ABATEMENT MEASURES
+
+
+                              Air Conditioning(1 )      Exterior Wall(2 )        Window STC Rating(3 )           W arning Clause(4 )
+
+
+
+  All residential suites          Mandatory                    STC 54                      OBC                          A+B+C
+
+
+
+Notes:
+
+(1)       Where methods must be provided to allow windows to remain closed for noise control purposes, a commonly used technique
+          is that of air conditioning. All suites will be air conditioned, complying with the minimum requirements. Air conditioning
+          equipment must comply with Chapter 591 (Noise) of the City of Toronto Municipal Code.
+
+(2)       STC 5 4 acoustically equivalent wall construction could be used. The requirement should be checked once building plans
+          are available.
+
+(3)       STC values are based on assumed wall and window areas. Requirements should be checked once floor plans have been
+          finalized and exterior wall construction details are defined.
+
+          O BC indicates that construction m eeting the m inim um non-acoustical requirem ents of the Ontario Building Code will provide
+          adequate sound isolation.
+
+          Window STC requirement should be checked once building plans are available. This is usually done as a condition of
+          obtaining a building permit.
+
+(4)       The warning clauses to be registered on title and be included in Offers of Purchase and Sale and/or Lease for designated
+          suites:
+
+          A.         "Purchasers/occupants are advised that despite the inclusion of noise control features in the development and
+                     within the building units, sound levels due to increasing road traffic, may occasionally interfere with some activities
+                     of the dwelling occupants as the sound level may exceed the noise guidelines of the Municipality and the Ministry
+                     of the Environment."
+
+          B.         "This dwelling unit has been supplied with a central air conditioning system which will allow windows and exterior
+                     doors to remain closed, thereby ensuring that the indoor sound levels are within the Municipality's and the Ministry
+                     of the Environment's noise criteria."
+
+          C.         "Purchasers/occupants are advised due to the proximity of the existing commercial establishments in the vicinity,
+                     sound associated with the uses at these establishments may at times be audible."
+
+
+(5)       All exterior doors shall be fully weatherstripped.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9        Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+                      VALCOUSTICS                    Key Plan                     111-354-{)00   March 27. 2012
+
+
+                     30 We rtheim Court, Unit 25   Project Nom.           Scale
+                     Richmond Hill, Ontario
+1--+----------;--1
+                     Cana da L48 189
+                     Tel: 905- 764- 5223
+                     Fox: 905- 764- 68 13
+                     solutionsOvalcoustics.com
+                                                   333 King Street East
+                                                   Toronto/Noise
+                                                                                  N.T.S.
+                                                                                                   1
+ J L l Jll _l   - - - -- --                                     -
+                                                                            ____ --.J
+                                                                      - -- -- -
+                                                                                --
+l
+                                                                Location
+
+
+
+          ~
+ -- I
+
+J                                                                                                                        E
+
+
+
+
+                                                                -   Site Plan
+                                                                                           _k ,.
+                                                                --
+                                 VALCOU~,TIC,=,
+                                                                                                  111-354-000   March 27, 2012
+
+
+1--+____+---1                  30 w.thelm      Court. Unit 2S
+                               RIchmond Hili. Ontar»
+                                                                                           ....
+1--+-----t---1
+  ::-t-- =
+I-NIl.        =::---t;;:;:-l
+         RwlIIDn,/I..u. Date
+                               ClnHIa L4B 1 .
+                               T.I: 1106-784-522.3
+                               FGIC 110&-7114-l1li13
+                               ..Iyllti:;. $    .... cem
+                                                                    333 King Street East
+                                                                    Toronto/Noise
+                                                                                                  N. T.5.
+                                                                                                                  2
+VALCOUSTICS CANADA LTD.                                                    333 King Street East/Toronto ­ Noise Feasibility
+File: 111-354
+
+
+
+
+                                           APPENDIX A
+
+                                   ROAD TRAFFIC DATA
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9   Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                                        Turning Movement Count Summary Report
+                                                                                                                                                             Survey Date:                2011-Nov-08              (Tuesday)
+ FRONT ST AT PARLIAMENT ST (PX 244)
+                                                                                                                                                             Survey Type:                Routine Hours
+
+   Time            Vehicle                   NORTHBOUND                                   EASTBOUND                                    SOUTHBOUND                                            WESTBOUND
+   Period           Type        Exits       Left   Thru    Right   Total    Exits       Left   Thru    Right    Total   Exits         Left    Thru       Right    Total     Exits         Left   Thru    Right      Total       Peds    Bike   Other
+
+                     CAR              397   106     313     123     542        332        42    189       41      272          400      20      242         55      317         988        117     827      42      986     N     30       0       0
+ 08:00-09:00
+                     TRK               53    10      37      18       65        35         9     17       11       37           46       0       18          5       23             31      17      16       7       40     S     49       0       0
+ AM PEAK             BUS               18     9      10       0       19            6      8      6        7       21           10       0           3       4        7             13       0       0       0        0     E    148       0       0
+                                                                                                                                                                                                                            W     39       0       0
+
+                 TOTAL:               468   125      360    141     626        373        59     212      59     330           456       20     263          64     347        1,032       134     843      49    1,026
+
+                     CAR              289    47     225     121     393        956        53    805      159    1,017          660      30      362         42      434         265        139     176      11      326     N     31       0       0
+ 16:30-17:30
+                     TRK               14     7      10       6       23        40         4     31       10       45           73       3       51          6       60             37      12      24       0       36     S     52       0       0
+ PM PEAK             BUS                9     6       4       0       10            0      5      0        6       11           15       0           9       8       17             14       0       0       0        0     E    115       0       0
+                                                                                                                                                                                                                            W     71       0       0
+
+                 TOTAL:               312    60      239    127     426        996        62     836     175    1,073          748       33     422          56     511         316        151     200      11      362
+
+                     CAR              342    59     282      59     400        308        35    216       46      297          312      33      202         57      292         371         64     255      25      344     N     31       0       0
+ OFF HR
+ AVG                 TRK               23     9      15       7       31        19         6     11       10       27           54       1       34          5       40             24      10      10       2       22     S     58       0       0
+                     BUS                9     5       3       0        8            0      6      0        5       11             7      0           2       6        8             11       0       0       0        0     E     47       0       0
+                                                                                                                                                                                                                            W     55       0       0
+
+                 TOTAL:               374    73      300     66     439        327        47     227      61     335           373       34     238          68     340         406         74     265      27      366
+
+                     CAR              725   190     610     214    1,014       591        57    336       72      465          699      41      427         98      566       1,748        200   1,460      58    1,718     N     56       0       0
+ 07:30-09:30
+                     TRK               92    16      68      33     117         64        13     31       17       61           73       0       35         10       45             61      21      35      11       67     S     78       0       0
+ 2 HR AM             BUS               39    17      23       1       41        14       16      13       14       43           23       0           9      10       19             27       0       0       0        0     E    265       0       0
+                                                                                                                                                                                                                            W     70       0       0
+
+                 TOTAL:               856   223      701    248    1,172       669        86     380     103     569           795       41     471         118     630        1,836       221   1,495      69    1,785
+
+                     CAR              556    82     441     195     718       1,725       90   1,485     272    1,847         1,171     45      671         66      782         490        228     342      25      595     N     46       0       0
+ 16:00-18:00
+                     TRK               23    13      16      11       40        59         7     42       17       66          113       6       76          9       91             54      20      32       0       52     S     90       0       0
+ 2 HR PM             BUS               19    11       8       0       19            0    11       0       12       23           28       0       16         14       30             25       0       0       0        0     E    194       0       0
+                                                                                                                                                                                                                            W    116       0       0
+
+                 TOTAL:               598   106      465    206     777       1,784      108   1,527     301    1,936         1,312      51     763          89     903         569        248     374      25      647
+
+                     CAR          2,649     506    2,178    645    3,329      3,544     288    2,683     526    3,497         3,113    216    1,905        390    2,511       3,719        682   2,823     183    3,688     N    224       0       0
+ 07:30-18:00
+                     TRK              206    64     143      73     280        196        44    115       73      232          400       8      245         39      292         211         82     108      19      209     S    401       0       0
+ 8 HR SUM            BUS               92    49      42       1       92        15       50      14       45      109           79       0       34         46       80             95       0       0       0        0     E    648       0       0
+                                                                                                                                                                                                                            W    407       0       0
+
+                 TOTAL:           2,947     619    2,363    719    3,701      3,755      382   2,812     644    3,838         3,592     224    2,184        475   2,883        4,025       764   2,931     202    3,897
+
+Total 8 Hour Vehicle Volume: 14,319                                                                    Total 8 Hour Bicycle Volume: 0                                                        Total 8 Hour Intersection Volume: 14,319
+Comment:
+
+
+
+                                                                                                                Page 1 of 1                                                                                 Printed On: 06 Dec, 2011 8:46:48AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                                        Turning Movement Count Summary Report
+                                                                                                                                                             Survey Date:                2010-Aug-10              (Tuesday)
+ KING ST AT SHERBOURNE ST (PX 254)
+                                                                                                                                                             Survey Type:                Routine Hours
+
+   Time            Vehicle                   NORTHBOUND                                   EASTBOUND                                    SOUTHBOUND                                            WESTBOUND
+   Period           Type        Exits       Left   Thru    Right   Total    Exits       Left   Thru    Right    Total   Exits         Left    Thru       Right    Total     Exits         Left   Thru    Right      Total       Peds    Bike   Other
+
+                     CAR              345    23     262      30     315        207        17    153       10      180          344      24      327         46      397         374          7     305      66      378     N    244      68       0
+ 08:30-09:30
+                     TRK               22     1      17       1       19        10         0      9        1       10           17       0       15          2       17             18       1      15       5       21     S    218      43       0
+ AM PEAK             BUS                8     0       8       0        8        11         0      6        0        6             8      5           8       0       13              3       0       3       0        3     E    111     112       0
+                                                                                                                                                                                                                            W     47      24       0
+
+                 TOTAL:               375    24      287     31     342        228        17     168      11      196          369       29     350          48     427         395          8     323      71      402
+
+                     CAR              383    27     320      26     373        471         7    412       28      447          444      33      409         66      508         357          7     264      56      327     N    219      78       0
+ 17:00-18:00
+                     TRK                6     0       4       0        4            7      0      5        0        5           11       2       11          0       13              4       0       4       2        6     S    172      60       0
+ PM PEAK             BUS               10     0      10       0       10            8      0      3        0        3             6      5           6       0       11              9       0       9       0        9     E    106      43       0
+                                                                                                                                                                                                                            W     71     102       0
+
+                 TOTAL:               399    27      334     26     387        486         7     420      28      455          461       40     426          66     532         370          7     277      58      342
+
+                     CAR              278    22     206      25     253        211        23    160       15      198          283      26      251         83      360         296         17     191      49      257     N    173      26       0
+ OFF HR
+ AVG                 TRK               16     1      11       3       15        13         2      8        2       12           24       2       21          2       25             15       1      12       3       16     S    188      17       0
+                     BUS                8     0       8       0        8            3      0      1        0        1             7      2           7       0        9              6       0       6       0        6     E    107      30       0
+                                                                                                                                                                                                                            W     74      19       0
+
+                 TOTAL:               302    23      225     28     276        227        25     169      17      211          314       30     279          85     394         317         18     209      52      279
+
+                     CAR              583    46     466      54     566        344        18    255       24      297          640      35      609         86      730         710          7     578      99      684     N    485     128       0
+ 07:30-09:30
+                     TRK               39     2      33       4       39        16         0     12        4       16           30       0       24          3       27             27       2      22       6       30     S    378      75       0
+ 2 HR AM             BUS               22     0      22       0       22        19         0     10        0       10           14       9       14          0       23             11       0      11       0       11     E    221     181       0
+                                                                                                                                                                                                                            W    100      35       0
+
+                 TOTAL:               644    48      521     58     627        379        18     277      28      323          684       44     647          89     780         748          9     611     105      725
+
+                     CAR              719    50     590      50     690        853        11    750       63      824          848      53      774        115      942         659         11     494     118      623     N    379     113       0
+ 16:00-18:00
+                     TRK               15     0      11       0       11        15         0     12        1       13           22       3       21          1       25             10       0       9       4       13     S    353     114       0
+ 2 HR PM             BUS               18     0      18       0       18        17         0      8        0        8           14       9       14          0       23             17       0      17       0       17     E    228      75       0
+                                                                                                                                                                                                                            W    161     165       0
+
+                 TOTAL:               752    50      619     50     719        885        11     770      64      845          884       65     809         116     990         686         11     520     122      653
+
+                     CAR          2,414     182    1,880    204    2,266      2,039     121    1,644     147    1,912         2,619    191    2,385        533    3,109       2,550         87   1,835     413    2,335     N   1,556    345       0
+ 07:30-18:00
+                     TRK              120     7      89      16     112         84         8     56       12       76          146      12      127         10      149             96       7      79      23      109     S   1,484    256       0
+ 8 HR SUM            BUS               73     0      73       0       73        48         0     21        0       21           54      27       54          0       81             50       0      50       0       50     E    876     374       0
+                                                                                                                                                                                                                            W    557     275       0
+
+                 TOTAL:           2,607     189    2,042    220    2,451      2,171      129   1,721     159    2,009         2,819     230    2,566        543   3,339        2,696        94   1,964     436    2,494
+
+Total 8 Hour Vehicle Volume: 10,293                                                                    Total 8 Hour Bicycle Volume: 1,250                                                    Total 8 Hour Intersection Volume: 11,543
+Comment:
+
+
+
+                                                                                                                Page 1 of 1                                                                                 Printed On: 06 Dec, 2011 8:43:49AM
+VALCOUSTICS CANADA LTD.                                                    333 King Street East/Toronto ­ Noise Feasibility
+File: 111-354
+
+
+
+
+                                           APPENDIX B
+
+           SUMMARY OF MOE NOISE GUIDELINES
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9   Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                         333 King Street East/Toronto ­ Noise Feasibility
+File: 111-354
+
+
+
+
+                                                         APPENDIX B
+
+                                   ENVIRONMENTAL NOISE GUIDELINES
+
+
+MINISTRY OF THE ENVIRONMENT (MOE)
+
+Reference:         MOE Publication LU-131, October 1997: "Noise Assessment Criteria in Land
+                   Use Planning".
+
+
+                     SPACE                                      SOURCE                    TIM E PERIOD          CRITERION
+
+
+
+ Living/dining areas of residences,                               Road                    07:00 to 23:00          45 dBA
+ hospitals, schools, nursing/retirem ent                          Rail                    07:00 to 23:00          40 dBA
+ hom es, day-care centres, etc.                                  Aircraft                 24-hour period         NEF/NEP 5
+
+
+
+ Sleeping quarters                                                Road                    23:00 to 07:00          40 dBA
+                                                                  Rail                    23:00 to 07:00          35 dBA
+                                                                 Aircraft                 24-hour period         NEF/NEP 0
+
+
+
+ Outdoor Living Areas                                        Road and Rail                07:00 to 23:00           55 dBA
+
+
+
+ Outdoor Point of Reception                                      Aircraft                 24-hour period       NEF/NEP 30 #
+
+                                                          Stationary     Source
+                                                            Class 1      Area            07:00 to 23:00 (1)        50 * dBA
+                                                            Class 2      Area            07:00 to 19:00 (2)        50 * dBA
+                                                            Class 2      Area            19:00 to 23:00 (2)        45 * dBA
+
+
+
+ Plane of a W indow                                       Stationary Source
+                                                            Class 1 Area                 07:00 to 23:00 (1)        50 * dBA
+                                                            Class 2 Area                 07:00 to 19:00 (2)        50 * dBA
+
+
+
+ Plane of a Bedroom W indow                               Stationary Source               23:00 to 07:00           45 * dBA
+
+
+#        m ay not apply to in-fill or re-developm ent.
+*        or the m inim um hourly background sound exposure L e q (1), due to road traffic, if higher.
+(1)      C lass 1 Area : Urban
+(2)      C lass 2 Area : Urban during day; rural-like evening and night
+                                                                                                                      ....../cont'd.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9      Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                     333 King Street East/Toronto ­ Noise Feasibility
+File: 111-354
+
+
+
+
+Reference:          MOE Publication ISBN 0-7729-2804-5, 1987: "Environmental Noise
+                    Assessment in Land-Use Planning".
+
+
+ EXCESS ABOVE RECOMMENDED                CHANGE IN SUBJECTIVE            MAGNITUDE OF THE           NOISE CONTROL
+ SOUND LEVEL LIMITS (dBA)                LOUDNESS ABOVE                  NOISE PROBLEM              MEASURES (OR ACTION
+                                                                                                    TO BE TAKEN)
+
+ No excess (<55 dBA)                     --                              No expected noise          None
+                                                                         problem
+
+ 1 to 5 inclusive (56 to 60 dBA)         Noticeably louder               Slight noise impact        If no physical measures are
+                                                                                                    taken, then prospective
+                                                                                                    purchasers or tenants
+                                                                                                    should be made aware by
+                                                                                                    suitable warning clauses.
+
+ 6 to 10 inclusive (61 - 65 dBA)         Almost twice as loud            Definite noise impact      Recommended.
+
+ 11 to 15 inclusive (66 - 70 dBA)        Almost three times as loud      Serious noise impact       Strongly Recommended.
+
+ 16 and over (>70 dBA)                   Almost four times as loud       Very serious noise         Strongly Recommended
+                                                                         impact                     (may be mandatory).
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9    Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                    333 King Street East/Toronto ­ Noise Feasibility
+File: 111-354
+
+
+
+
+                                           APPENDIX C
+
+     SAMPLE SOUND EXPOSURE CALCULATION
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9   Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                    333 King Street East/Toronto ­ Noise Feasibility
+File: 111-354
+
+
+
+STAMSON 5.04        NORMAL REPORT        Date: 28-03-2012 10:55:06
+MINISTRY OF THE ENVIRONMENT / NOISE ASSESSMENT
+
+Filename: b.te                            Time Period: Day/Night 16/8 hours
+Description:                 Day/Night Sound Exposures @ Location B
+
+Road data, segment # 1: King (day/night)
+----------------------------------------
+Car traffic volume : 10983/1220 veh/TimePeriod *
+Medium truck volume :   440/49    veh/TimePeriod *
+Heavy truck volume :    291/32    veh/TimePeriod *
+Posted speed limit :     50 km/h
+Road gradient       :     0 %
+Road pavement       :     1 (Typical asphalt or concrete)
+
+* Refers to calculated road volumes based on the following input:
+
+      24 hr Traffic Volume (AADT or SADT):                           10263
+      Percentage of Annual Growth        :                            2.00
+      Number of Years of Growth          :                           12.00
+      Medium Truck % of Total Volume     :                            3.76
+      Heavy Truck % of Total Volume      :                            2.48
+      Day (16 hrs) % of Total Volume     :                           90.00
+
+Data for Segment # 1: King (day/night)
+--------------------------------------
+Angle1   Angle2           : -90.00 deg  90.00 deg
+Wood depth                :      0      (No woods.)
+No of house rows          :      0 / 0
+Surface                   :      1      (Absorptive ground surface)
+Receiver source distance : 15.00 / 15.00 m
+Receiver height           : 70.50 / 70.50 m
+Topography                :      1      (Flat/gentle slope; no barrier)
+Reference angle           :   0.00
+
+Road data, segment # 2: Sherbourne (day/night)
+----------------------------------------------
+Car traffic volume : 12266/1363 veh/TimePeriod *
+Medium truck volume :   578/64    veh/TimePeriod *
+Heavy truck volume :    389/43    veh/TimePeriod *
+Posted speed limit :     50 km/h
+Road gradient       :     0 %
+Road pavement       :     1 (Typical asphalt or concrete)
+
+* Refers to calculated road volumes based on the following input:
+
+      24 hr Traffic Volume (AADT or SADT):                           11594
+      Percentage of Annual Growth        :                            2.00
+      Number of Years of Growth          :                           12.00
+      Medium Truck % of Total Volume     :                            4.37
+      Heavy Truck % of Total Volume      :                            2.94
+      Day (16 hrs) % of Total Volume     :                           90.00
+
+Data for Segment # 2: Sherbourne (day/night)
+--------------------------------------------
+Angle1   Angle2           :   0.00 deg   90.00 deg
+Wood depth                :      0       (No woods.)
+No of house rows          :      0 / 0
+Surface                   :      1       (Absorptive ground surface)
+Receiver source distance : 260.00 / 260.00 m
+Receiver height           : 70.50 / 70.50 m
+Topography                :      1       (Flat/gentle slope; no barrier)
+Reference angle           :   0.00
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9   Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                    333 King Street East/Toronto ­ Noise Feasibility
+File: 111-354
+
+
+
+Road data, segment # 3: Parliament (day/night)
+----------------------------------------------
+Car traffic volume : 12702/1411 veh/TimePeriod *
+Medium truck volume :   914/102   veh/TimePeriod *
+Heavy truck volume :    736/82    veh/TimePeriod *
+Posted speed limit :     50 km/h
+Road gradient       :     0 %
+Road pavement       :     1 (Typical asphalt or concrete)
+
+* Refers to calculated road volumes based on the following input:
+
+      24 hr Traffic Volume (AADT or SADT):                           12826
+      Percentage of Annual Growth        :                            2.00
+      Number of Years of Growth          :                           11.00
+      Medium Truck % of Total Volume     :                            6.37
+      Heavy Truck % of Total Volume      :                            5.13
+      Day (16 hrs) % of Total Volume     :                           90.00
+
+Data for Segment # 3: Parliament (day/night)
+--------------------------------------------
+Angle1   Angle2           : -90.00 deg   0.00 deg
+Wood depth                :      0       (No woods.)
+No of house rows          :      0 / 0
+Surface                   :      1       (Absorptive ground surface)
+Receiver source distance : 170.00 / 170.00 m
+Receiver height           : 70.50 / 70.50 m
+Topography                :      1       (Flat/gentle slope; no barrier)
+Reference angle           :   0.00
+
+Results segment # 1: King (day)
+-------------------------------
+
+Source height = 1.26 m
+
+ROAD (0.00 + 65.58 + 0.00) = 65.58 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+   -90     90   0.00 65.58    0.00   0.00   0.00   0.00   0.00   0.00 65.58
+----------------------------------------------------------------------------
+
+Segment Leq : 65.58 dBA
+
+Results segment # 2: Sherbourne (day)
+-------------------------------------
+
+Source height = 1.31 m
+
+ROAD (0.00 + 51.20 + 0.00) = 51.20 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+     0     90   0.00 66.60    0.00 -12.39 -3.01    0.00   0.00   0.00 51.20
+----------------------------------------------------------------------------
+
+Segment Leq : 51.20 dBA
+
+Results segment # 3: Parliament (day)
+-------------------------------------
+
+Source height = 1.50 m
+
+ROAD (0.00 + 55.09 + 0.00) = 55.09 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+   -90      0   0.00 68.64    0.00 -10.54 -3.01    0.00   0.00   0.00 55.09
+----------------------------------------------------------------------------
+
+Segment Leq : 55.09 dBA
+
+Total Leq All Segments: 66.09 dBA
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9   Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                    333 King Street East/Toronto ­ Noise Feasibility
+File: 111-354
+
+
+
+Results segment # 1: King (night)
+---------------------------------
+
+Source height = 1.25 m
+
+ROAD (0.00 + 59.03 + 0.00) = 59.03 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+   -90     90   0.00 59.03    0.00   0.00   0.00   0.00   0.00   0.00 59.03
+----------------------------------------------------------------------------
+
+Segment Leq : 59.03 dBA
+
+Results segment # 2: Sherbourne (night)
+---------------------------------------
+
+Source height = 1.31 m
+
+ROAD (0.00 + 44.66 + 0.00) = 44.66 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+     0     90   0.00 60.05    0.00 -12.39 -3.01    0.00   0.00   0.00 44.66
+----------------------------------------------------------------------------
+
+Segment Leq : 44.66 dBA
+
+Results segment # 3: Parliament (night)
+---------------------------------------
+
+Source height = 1.51 m
+
+ROAD (0.00 + 48.57 + 0.00) = 48.57 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+   -90      0   0.00 62.12    0.00 -10.54 -3.01    0.00   0.00   0.00 48.57
+----------------------------------------------------------------------------
+
+Segment Leq : 48.57 dBA
+
+Total Leq All Segments: 59.55 dBA
+
+RT/Custom data, segment # 1: Streetcar (day/night)
+--------------------------------------------------
+1 - CLRV:
+Traffic volume    :   530/79    veh/TimePeriod
+Speed             :    50 km/h
+
+Data for Segment # 1: Streetcar (day/night)
+-------------------------------------------
+Angle1   Angle2           : -90.00 deg   90.00 deg
+Wood depth                :      0       (No woods.)
+No of house rows          :      0 / 0
+Surface                   :      1       (Absorptive ground surface)
+Receiver source distance : 15.00 / 15.00 m
+Receiver height           : 70.50 / 70.50 m
+Topography                :      1       (Flat/gentle slope; no barrier)
+Reference angle           :   0.00
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9   Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                    333 King Street East/Toronto ­ Noise Feasibility
+File: 111-354
+
+
+
+Results segment # 1: Streetcar (day)
+------------------------------------
+
+Source height = 0.50 m
+
+RT/Custom (0.00 + 65.87 + 0.00) = 65.87 dBA
+Angle1 Angle2 Alpha RefLeq D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------
+   -90     90   0.00 65.87    0.00   0.00   0.00   0.00   0.00 65.87
+----------------------------------------------------------------------
+
+Segment Leq : 65.87 dBA
+
+Total Leq All Segments: 65.87 dBA
+
+Results segment # 1: Streetcar (night)
+--------------------------------------
+
+Source height = 0.50 m
+
+RT/Custom (0.00 + 60.61 + 0.00) = 60.61 dBA
+Angle1 Angle2 Alpha RefLeq D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------
+   -90     90   0.00 60.61    0.00   0.00   0.00   0.00   0.00 60.61
+----------------------------------------------------------------------
+
+Segment Leq : 60.61 dBA
+
+Total Leq All Segments: 60.61 dBA
+
+
+TOTAL Leq FROM ALL SOURCES (DAY): 68.99
+                         (NIGHT): 63.12
+
+Distance Adjustment for King Street East:                                        1.76 dBA
+
+Daytime Sound Exposure After Adjustment:                                       70.71 dBA
+Nighttime Sound Exposure After Adjustment:                                     64.81 dBA
+
+Distance Adjustment for King Street East:                                        1.76 dBA
+
+Daytime Sound Exposure After Adjustment:                                       70.71 dBA
+Nighttime Sound Exposure After Adjustment:                                     64.81 dBA
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill Ontario L4B 1B9   Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+

@@ -1,0 +1,456 @@
+                                                               City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                    Illustrated Turning Movement Count Summary Report
+ FINCH AVE AT WARDEN AVE
+
+ Site:        0013443837                                                                                    Survey Date:            Tue, Jan 13, 2009
+
+                                                                                                            Survey Type:             Total Summary
+
+                                                                                                                                     7:30 AM to 6:00 PM
+
+
+  North Leg Combined Total:                                                                                                                                                           East Leg Combined Total:
+    (Exiting and Entering)                                                                                                          Other:                   0                          (Exiting and Entering)
+                                            Bikes:                 0                      Peds:           755
+
+
+                                               Entering:                                                                            Exitng:
+Cars:                      11,629                                                                                                                                                 Cars:                 12,502
+                                                  Buses:                         6     129            7          142           Buses:                   106
+Trucks:                      849                                                                                                                                                  Trucks:                  812
+                                                  Trucks:                        52    331         65            448           Trucks:                  401
+
+Buses:                       248                  Cars:                        668    4,665       962           6,295          Cars:                  5,334                       Buses:                  632
+
+                                                     Totals:                   726    5,125    1,034            6,885          Totals:                5,841
+Totals:                  12,726                                                                                                                                                   Totals:               13,946
+
+
+
+
+                                                                                                                                                 Entering:
+Bikes:         Buses:        Trucks:         Cars:             Totals:                                                                                                                                     Bikes:
+
+          2        315           390         5,991                6,696                                                                                                                                             0
+                                                                                                                                                        Cars:      Trucks:    Buses:          Totals:
+ Peds:                                                                                                                                                   903            49        8             960        Peds:
+                                                                                                                                                       4,781           279      306           5,366
+        966                                                                                                                                              511            47        6             564          666
+
+                                                                                                                                                       6,195           375      320           6,890
+
+
+
+
+                  Buses:      Trucks:        Cars:             Totals:
+
+                         6             49         636               691
+                                                                                                                                                                                                           Others:
+Others:              301            322         4,928             5,551                                                                          Exiting:
+                                                                                                                                                                                                                    0
+          0              8             64         426               498                                                                             Cars:          Trucks:    Buses:         Totals:
+
+                     315            435         5,990             6,740                                                                                 6,307          437        312          7,056
+
+
+
+
+                                            Exiting:                                      Entering:
+
+                                              Cars:                      5,602                 Cars:               542      3,795        417                 4,754                South Leg Combined Total:
+   West Leg Combined Total:                                                                                                                                                         (Exiting and Entering)
+    (Exiting and Entering)                    Trucks:                     442                  Trucks:              59       303          50                     412
+
+                                              Buses:                      143                  Buses:                   3     92             4                   99
+Cars:                11,981                                                                                                                                                    Cars:                     10,356
+
+Trucks:                    825               Totals:                   6,187                   Totals:             604      4,190        471                 5,265             Trucks:                     854
+
+Buses:                     630                                                                                                                                                 Buses:                      242
+
+Totals:              13,436                   Bikes:                0                           Peds:            680                                Others:             0       Totals:                  11,452
+
+
+
+Volume Summary:                                         Total Vehicle Volume:                               25,780
+
+                                                       Total Bicycle Volume:                                       2
+
+                                                        Total Intersection Volume:                          25,782
+
+
+
+Comment:
+   PX1035
+
+
+
+
+                                                                                              Page 1 of 5                                                        Printed On: 28 Jan, 2009 12:01:29PM
+                                                                   City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                         Illustrated Turning Movement Count Summary Report
+ FINCH AVE AT WARDEN AVE
+
+ Site:        0013443837                                                                                         Survey Date:            Tue, Jan 13, 2009
+
+                                                                                                                 Survey Type:             AM Period
+
+                                                                                                                                          7:30 AM to 9:30 AM
+
+
+  North Leg Combined Total:                                                                                                                                                                East Leg Combined Total:
+    (Exiting and Entering)                                                                                                               Other:                   0                          (Exiting and Entering)
+                                                Bikes:                  0                      Peds:           171
+
+
+                                                   Entering:                                                                             Exitng:
+Cars:                        3,109                                                                                                                                                     Cars:                 3,373
+                                                      Buses:                          1       40           2            43          Buses:                       38
+Trucks:                       176                                                                                                                                                      Trucks:                 184
+                                                      Trucks:                         6       78        12              96          Trucks:                      80
+
+Buses:                           81                   Cars:                         120    1,512       154           1,786          Cars:                  1,323                       Buses:                 209
+
+                                                         Totals:                    127    1,630       168           1,925          Totals:                1,441
+Totals:                      3,366                                                                                                                                                     Totals:               3,766
+
+
+
+
+                                                                                                                                                      Entering:
+Bikes:         Buses:          Trucks:           Cars:              Totals:                                                                                                                                    Bikes:
+
+          0        113                87         1,967                 2,167                                                                                                                                            0
+                                                                                                                                                             Cars:      Trucks:    Buses:          Totals:
+ Peds:                                                                                                                                                        160             9        2             171       Peds:
+                                                                                                                                                            1,696            72      111           1,879
+        160                                                                                                                                                   112             8        2             122         216
+
+                                                                                                                                                            1,968            89      115           2,172
+
+
+
+
+                  Buses:       Trucks:           Cars:              Totals:
+
+                         1                 11            94              106
+                                                                                                                                                                                                               Others:
+Others:               90                   73       1,176              1,339                                                                          Exiting:
+                                                                                                                                                                                                                        0
+          0              2                 13         106                121                                                                             Cars:         Trucks:     Buses:         Totals:
+
+                      93                   97       1,376              1,566                                                                                 1,405           95         94          1,594
+
+
+
+
+                                                Exiting:                                       Entering:
+
+                                                  Cars:                       1,730                 Cars:               151      1,069        75                  1,295                South Leg Combined Total:
+   West Leg Combined Total:                                                                                                                                                              (Exiting and Entering)
+    (Exiting and Entering)                        Trucks:                       99                  Trucks:                  9     60         10                      79
+
+                                                  Buses:                        44                  Buses:                   1     35             2                   38
+Cars:                    3,343                                                                                                                                                      Cars:                     3,025
+
+Trucks:                    184                   Totals:                    1,873                   Totals:             161      1,164        87                  1,412             Trucks:                    178
+
+Buses:                     206                                                                                                                                                      Buses:                      82
+
+Totals:               3,733                       Bikes:                 0                           Peds:            158                                Others:             0       Totals:                  3,285
+
+
+
+Volume Summary:                                               Total Vehicle Volume:                                  7,075
+
+                                                           Total Bicycle Volume:                                        0
+
+                                                              Total Intersection Volume:                             7,075
+
+
+
+Comment:
+   PX1035
+
+
+
+
+                                                                                                   Page 2 of 5                                                        Printed On: 28 Jan, 2009 12:01:29PM
+                                                                    City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                          Illustrated Turning Movement Count Summary Report
+ FINCH AVE AT WARDEN AVE
+
+ Site:        0013443837                                                                                        Survey Date:           Tue, Jan 13, 2009
+
+                                                                                                                 Survey Type:           AM Peak Hour
+
+                                                                                                                                        8:15 AM to 9:15 AM
+
+
+  North Leg Combined Total:                                                                                                                                                               East Leg Combined Total:
+    (Exiting and Entering)                                                                                                             Other:                   0                           (Exiting and Entering)
+                                                 Bikes:                  0                    Peds:             89
+
+
+                                                    Entering:                                                                          Exitng:
+Cars:                        1,641                                                                                                                                                    Cars:                 1,802
+                                                       Buses:                           0    15           2             17        Buses:                       16
+Trucks:                           87                                                                                                                                                  Trucks:                  99
+                                                       Trucks:                          3    35           7             45        Trucks:                      42
+
+Buses:                            33                   Cars:                           60   742        98              900        Cars:                    741                        Buses:                 105
+
+                                                          Totals:                      63   792       107             962         Totals:                  799
+Totals:                      1,761                                                                                                                                                    Totals:               2,006
+
+
+
+
+                                                                                                                                                    Entering:
+Bikes:         Buses:          Trucks:            Cars:              Totals:                                                                                                                                  Bikes:
+
+          0         57                 51           995                 1,103                                                                                                                                          0
+                                                                                                                                                           Cars:       Trucks:    Buses:          Totals:
+ Peds:                                                                                                                                                          94           4        0              98       Peds:
+                                                                                                                                                               847          42       56             945
+         99                                                                                                                                                     67           5        1              73         118
+
+                                                                                                                                                          1,008             51       57           1,116
+
+
+
+
+                  Buses:       Trucks:            Cars:              Totals:
+
+                         0                   5            57                 62
+                                                                                                                                                                                                              Others:
+Others:               45                    36         649               730                                                                        Exiting:
+                                                                                                                                                                                                                       0
+          0              2                   7            56                 65                                                                        Cars:          Trucks:     Buses:         Totals:
+
+                      47                    48         762                857                                                                                  794          48         48            890
+
+
+
+
+                                                 Exiting:                                     Entering:
+
+                                                   Cars:                       865                 Cars:                 88      590        47                      725               South Leg Combined Total:
+   West Leg Combined Total:                                                                                                                                                             (Exiting and Entering)
+    (Exiting and Entering)                         Trucks:                        47               Trucks:                   6    33            5                    44
+
+                                                   Buses:                         18               Buses:                    1   16             1                    18
+Cars:                    1,757                                                                                                                                                     Cars:                     1,590
+
+Trucks:                      99                   Totals:                      930                 Totals:               95      639        53                      787            Trucks:                     91
+
+Buses:                     104                                                                                                                                                     Buses:                      36
+
+Totals:               1,960                        Bikes:                 0                         Peds:               96                             Others:              0       Totals:                  1,717
+
+
+
+Volume Summary:                                                Total Vehicle Volume:                                 3,722
+
+                                                            Total Bicycle Volume:                                       0
+
+                                                               Total Intersection Volume:                            3,722
+
+
+
+Comment:
+   PX1035
+
+
+
+
+                                                                                                  Page 3 of 5                                                        Printed On: 28 Jan, 2009 12:01:29PM
+                                                                   City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                        Illustrated Turning Movement Count Summary Report
+ FINCH AVE AT WARDEN AVE
+
+ Site:        0013443837                                                                                        Survey Date:            Tue, Jan 13, 2009
+
+                                                                                                                Survey Type:             PM Period
+
+                                                                                                                                         4:00 PM to 6:00 PM
+
+
+  North Leg Combined Total:                                                                                                                                                               East Leg Combined Total:
+    (Exiting and Entering)                                                                                                              Other:                   0                          (Exiting and Entering)
+                                                Bikes:                 0                      Peds:           212
+
+
+                                                   Entering:                                                                            Exitng:
+Cars:                        3,506                                                                                                                                                    Cars:                 3,707
+                                                      Buses:                         0       36           2            38          Buses:                       22
+Trucks:                       244                                                                                                                                                     Trucks:                 201
+                                                      Trucks:                        15      79        21             115          Trucks:                  129
+
+Buses:                           60                   Cars:                        190    1,327       299           1,816          Cars:                  1,690                       Buses:                 171
+
+                                                         Totals:                   205    1,442       322           1,969          Totals:                1,841
+Totals:                      3,810                                                                                                                                                    Totals:               4,079
+
+
+
+
+                                                                                                                                                     Entering:
+Bikes:         Buses:          Trucks:           Cars:             Totals:                                                                                                                                    Bikes:
+
+          2         79                93         1,473                1,645                                                                                                                                            0
+                                                                                                                                                            Cars:      Trucks:    Buses:          Totals:
+ Peds:                                                                                                                                                       283            14        1             298       Peds:
+                                                                                                                                                           1,125            61       78           1,264
+        372                                                                                                                                                  154            19        2             175         185
+
+                                                                                                                                                           1,562            94       81           1,737
+
+
+
+
+                  Buses:       Trucks:           Cars:             Totals:
+
+                         2                 14         203               219
+                                                                                                                                                                                                              Others:
+Others:               87                   72       1,719             1,878                                                                          Exiting:
+                                                                                                                                                                                                                       0
+          0              1                 19         137               157                                                                             Cars:          Trucks:    Buses:         Totals:
+
+                      90               105          2,059             2,254                                                                                 2,145          107         90          2,342
+
+
+
+
+                                                Exiting:                                      Entering:
+
+                                                  Cars:                      1,618                 Cars:               158      1,204        127                 1,489                South Leg Combined Total:
+   West Leg Combined Total:                                                                                                                                                             (Exiting and Entering)
+    (Exiting and Entering)                        Trucks:                     117                  Trucks:              17       101          14                     132
+
+                                                  Buses:                       39                  Buses:                   1     19             1                   21
+Cars:                    3,532                                                                                                                                                     Cars:                     3,107
+
+Trucks:                    198                   Totals:                   1,774                   Totals:             176      1,324        142                 1,642             Trucks:                    249
+
+Buses:                     169                                                                                                                                                     Buses:                      60
+
+Totals:               3,899                       Bikes:                0                           Peds:            230                                Others:             0       Totals:                  3,416
+
+
+
+Volume Summary:                                             Total Vehicle Volume:                                   7,602
+
+                                                           Total Bicycle Volume:                                       2
+
+                                                            Total Intersection Volume:                              7,604
+
+
+
+Comment:
+   PX1035
+
+
+
+
+                                                                                                  Page 4 of 5                                                        Printed On: 28 Jan, 2009 12:01:29PM
+                                                                    City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                          Illustrated Turning Movement Count Summary Report
+ FINCH AVE AT WARDEN AVE
+
+ Site:        0013443837                                                                                        Survey Date:           Tue, Jan 13, 2009
+
+                                                                                                                 Survey Type:           PM Peak Hour
+
+                                                                                                                                        5:00 PM to 6:00 PM
+
+
+  North Leg Combined Total:                                                                                                                                                               East Leg Combined Total:
+    (Exiting and Entering)                                                                                                             Other:                    0                          (Exiting and Entering)
+                                                 Bikes:                  0                    Peds:             86
+
+
+                                                    Entering:                                                                          Exitng:
+Cars:                        1,832                                                                                                                                                    Cars:                 1,926
+                                                       Buses:                          0     22           2             24        Buses:                       12
+Trucks:                       130                                                                                                                                                     Trucks:                 109
+                                                       Trucks:                         11    39        11               61        Trucks:                      69
+
+Buses:                            36                   Cars:                         107    714       141              962        Cars:                    870                        Buses:                   87
+
+                                                          Totals:                  118      775       154            1,047        Totals:                  951
+Totals:                      1,998                                                                                                                                                    Totals:               2,122
+
+
+
+
+                                                                                                                                                    Entering:
+Bikes:         Buses:          Trucks:            Cars:              Totals:                                                                                                                                  Bikes:
+
+          1         43                 55           764                   862                                                                                                                                            0
+                                                                                                                                                           Cars:       Trucks:    Buses:          Totals:
+ Peds:                                                                                                                                                         148           7        1             156       Peds:
+                                                                                                                                                               572          35       42             649
+        180                                                                                                                                                     84           9        1              94             84
+
+                                                                                                                                                               804          51       44             899
+
+
+
+
+                  Buses:       Trucks:            Cars:              Totals:
+
+                         1                   6            96              103
+                                                                                                                                                                                                              Others:
+Others:               41                    40         917               998                                                                        Exiting:
+                                                                                                                                                                                                                         0
+          0              1                  10            75                 86                                                                        Cars:          Trucks:     Buses:         Totals:
+
+                      43                    56       1,088              1,187                                                                              1,122            58         43          1,223
+
+
+
+
+                                                 Exiting:                                     Entering:
+
+                                                   Cars:                        873                Cars:                 85      626        64                      775               South Leg Combined Total:
+   West Leg Combined Total:                                                                                                                                                             (Exiting and Entering)
+    (Exiting and Entering)                         Trucks:                        58               Trucks:                   9    56            7                    72
+
+                                                   Buses:                         24               Buses:                    1   10             0                    11
+Cars:                    1,852                                                                                                                                                     Cars:                     1,648
+
+Trucks:                    111                    Totals:                      955                 Totals:               95      692        71                      858            Trucks:                    130
+
+Buses:                       86                                                                                                                                                    Buses:                      35
+
+Totals:               2,049                        Bikes:                 0                         Peds:             125                              Others:              0       Totals:                  1,813
+
+
+
+Volume Summary:                                                Total Vehicle Volume:                                 3,991
+
+                                                            Total Bicycle Volume:                                       1
+
+                                                               Total Intersection Volume:                            3,992
+
+
+
+Comment:
+   PX1035
+
+
+
+
+                                                                                                  Page 5 of 5                                                        Printed On: 28 Jan, 2009 12:01:29PM
+

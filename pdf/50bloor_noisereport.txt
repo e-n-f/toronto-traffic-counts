@@ -1,0 +1,2563 @@
+                                          ~I--   ....              .             .
+
+                                                 ~--    --' -l.. - __   -'I,",
+
+
+
+
+Environmental Noise Feasibility Study 
+
+
+           50 Bloor West 
+
+
+        Zoning By-law Amendment
+
+
+                March 22, 2012 
+
+                Project: 111-002 
+
+
+
+
+
+                  Prepared for 
+
+
+
+     Marguard Investments Limited
+    agent to Pensionfund Realty Limited
+
+
+                  Prepared by
+
+
+
+
+                 Reviewed by
+
+
+
+
+                             Canada   L~d. 
+
+VALCOUSTICS CANADA LTD.                                                                                                                 50 Bloor West/Toronto ­ Noise Feasibility
+File: 111-002
+
+
+
+
+                                                      TABLE OF CONTENTS
+
+
+
+EXECUTIVE SUMMARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 1
+
+1.0        INTRODUCTION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 1
+
+2.0        NOISE SOURCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 2
+
+3.0        ENVIRONMENTAL NOISE CRITERIA . .                                 .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+2
+           3.1   MOE ­ ROAD TRAFFIC . . . . . .                             .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+2
+                 3.1.1 Indoors . . . . . . . . . . . . .                    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+2
+                 3.1.2 Outdoors . . . . . . . . . . . .                     .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+3
+
+4.0        NOISE IMPACT ASSESSMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 3
+
+5.0        NOISE      ABATEMENT MEASURES . .                    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+3
+           5.1        INDOORS. . . . . . . . . . . . . . .      .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+3
+           5.2        OUTDOORS . . . . . . . . . . . .          .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+4
+           5.3        W ARNING CLAUSES . . . . .                .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+4
+
+6.0        THE EFFECT OF THE PROJECT ON THE NEIGHBOURHOOD. . . . . . . . . . . . . . . . . . . . . . . . . 
+ 4
+
+7.0        CONCLUSIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 5
+
+8.0        REFERENCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 5
+
+                                                              LIST OF TABLES
+
+TABLE 1               ROAD TRAFFIC DATA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 6
+
+TABLE 2               PREDICTED UNMITIGATED SOUND EXPOSURES OUTDOORS ­ ROAD TRAFFIC.                                                                                                                                                                        7
+
+TABLE 3               MINIMUM NOISE ABATEMENT MEASURES .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 8
+
+                                                              LIST OF FIGURES
+
+FIGURE 1              KEY PLAN
+
+FIGURE 2              SITE PLAN AND MEASUREMENT LOCATIONS
+
+                                                          LIST OF APPENDICES
+
+APPENDIX A            ROAD TRAFFIC DATA
+
+APPENDIX B            MINISTRY OF THE ENVIRONMENT NOISE GUIDELINES
+
+APPENDIX C            SAMPLE SOUND EXPOSURE CALCULATION
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                          50 Bloor West/Toronto ­ Noise Feasibility 
+
+File: 111-002                                                                                                     Page 1 
+
+
+
+
+
+              Environmental Noise Feasibility Study
+
+                                         50 Bloor West
+
+
+                                   Zoning By-law Amendment
+
+
+
+
+EXECUTIVE SUMMARY
+
+This report has been prepared as part of the approvals subm ission for the proposed m ixed-use developm ent
+located at 50 Bloor Street W est in the City of Toronto. The project consists of a 75-storey tower rising from
+an 8-storey podium , fronting onto Bloor Street W est, for a total of 83-storeys. The podium building will contain
+com m ercial and office uses. Parts of the podium building rooftop will be available for am enity space for the
+residential use.
+
+The transportation noise sources with potential for adverse noise im pact on the proposed developm ent are
+the road traffic on Bloor Street W est, Bay Street and Yonge Street.
+
+The sound exposures on site have been determ ined and com pared with the applicable Ministry of the
+Environm ent (MOE) and City of Toronto noise guidelines to determ ine the need for noise m itigation. To m eet
+the applicable transportation noise source guideline lim its:
+
+·        All residential dwelling units require m andatory air conditioning.
+
+·        The applicable indoor noise guidelines at all buildings are predicted to be m et without any special
+         window upgrades beyond the m inim um non-acoustical requirem ents of the Ontario Building Code
+         (OBC) based on the assum ption that STC 54 exterior wall construction will be provided. Final
+         requirem ents should be checked when detailed building plans are available.
+
+1.0      INTRODUCTION
+
+Valcoustics Canada Ltd. was retained to prepare an environm ental noise feasibility study for the proposed
+m ixed-use developm ent at 50 Bloor Street W est, in support of an application for zoning by-law am endm ent
+to the City of Toronto. The proposed developm ent will consist of a high-rise residential tower, a podium
+building with com m ercial uses and an underground parking garage.
+
+The surrounding area consists m ainly of existing com m ercial (retail) and office uses, with som e existing and
+anticipated future residential developm ents nearby. The site is bounded by:
+
+·        Bloor Street W est with com m ercial developm ents to the south;
+·        existing com m ercial high-rise with Yonge Street to the east;
+·        existing com m ercial high-rise with Bay Street to the west; and
+·        existing com m ercial developm ent with Mayfair Mews and Cum berland Street to the north.
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                            50 Bloor West/Toronto ­ Noise Feasibility 
+
+File: 111-002                                                                                                       Page 2 
+
+
+
+
+
+A Key Plan is included as Figure 1. This report is based on the drawings by pellow + associates architects
+inc., last revised March 22, 2012. Figure 2 shows the Site Plan.
+
+2.0      NOISE SOURCES
+
+A m ain transportation noise source with potential for im pact on the proposed developm ent will be road traffic
+on Bloor Street W est, Bay Street, and Yonge Street. Road traffic on other streets (such as Cum berland Street
+and Yorkville Avenue) is m inor and therefore is not expected to create adverse noise im pact on the subject
+site.
+
+Road traffic data for Bloor Street W est, Bay Street and Yonge Street was obtained from the City of Toronto
+Traffic Data Centre. A m ultiplication factor of 2.2 was used to convert 8-hour counts 24-hour volum es. A
+day/night split of 90% /10% was used as is typical for arterial roadways. A growth rate of 2% com pounded
+annually was applied to obtain future (Year 2022) traffic volum es. The ratio of heavy trucks to m edium trucks
+was assum ed to be 60%/40%. Buses were considered as m edium trucks.
+
+Table 1 sum m arizes the traffic data used in the assessm ent.
+
+Appendix A contains the correspondence regarding the road traffic data.
+
+Due to the close proxim ity to the arterial roadways in the area, the existing background am bient sound level
+at the site is anticipated to be relatively high, which is typical of an urban area (downtown). The existing
+com m ercial (retail) and office uses in the area are not expected to create adverse noise im pact on the
+proposed developm ent and therefore is not considered further in this report.
+
+The truck lane (Mayfair Mews) along the north side is also a potential noise source. Table 1 sum m arizes
+worst case activity.
+
+3.0      ENVIRONMENTAL NOISE CRITERIA
+
+3.1      M OE ­ ROAD TRAFFIC
+
+The environm ental noise guidelines of the MOE outlined in LU-131, "Noise Assessment Criteria in Land Use
+Planning", are applicable to this site and are sum m arized in Appendix B.
+
+3.1.1    Indoors
+
+In accordance with the MOE practice, if the daytim e sound energy exposure due to road traffic, L eq Day(1), at
+the exterior face of living/dining room s is greater than 65 dBA, or if the nighttim e sound energy exposure (due
+to road traffic), L eq Night(2), at the exterior face of bedroom s is greater than 60 dBA, m eans m ust be provided
+so that windows can be kept closed for noise control purposes and central air conditioning is required. For
+daytim e sound exposures between 56 and 65 dBA inclusive, or for nighttim e sound exposures between
+51 and 60 dBA inclusive, there need only be the provision for adding air conditioning at a later date, at the
+occupant's discretion. A warning clause advising the occupants of the potential interference with som e
+activities is also required.
+
+For indoor areas, the daytim e guidelines for living and dining room s is 45 dBA (L eq Day) for road traffic sound
+sources. The nighttim e guideline for bedroom s is 40 dBA (L eq Night) for road traffic sound sources.
+
+
+
+
+(1)      Le q D a y :   16-hour energy equivalent sound level (0700-2300 hours).
+(2)      Leq N ight :   8-hour energy equivalent sound level (2300-0700 hours).
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                          50 Bloor West/Toronto ­ Noise Feasibility 
+
+File: 111-002                                                                                                     Page 3 
+
+
+
+
+3.1.2    Outdoors
+
+For outdoor am enity areas ("Outdoor Living Areas" ­ OLA), the guideline is 55 dBA L eq Day (0700 to
+2300 hours), with an excess not exceeding 5 dBA considered acceptable. If it is technically not practicable
+to achieve the 55 dBA objective, warning clauses are required to be registered on title. Note that for road
+traffic sources a balcony is not considered an OLA, unless it is the only OLA for the occupant and it is:
+
+·        at least 4 m in depth;
+·        outside the building facade; and
+·        unenclosed.
+
+4.0      NOISE IMPACT ASSESSMENT
+
+Using the road traffic data in Table 1, the sound energy exposures, in term s of L eq Day and L eq Night, were
+determ ined using STAMSON V5.04 ­ ORNAMENT, the com puterized road traffic noise prediction m odel of
+the MOE.
+
+Inherent screening of each building face due to its orientation to the noise source was taken into account.
+To be conservative, screening by the existing intervening buildings was not accounted for.
+
+For the daytim e and nighttim e sound exposures, the receptors were taken at top storey windows (worst case).
+For all practical purposes, these sound levels are representative of traffic noise over the vertical extent of the
+building facades.
+
+Table 2 sum m arizes the predicted sound exposures at various locations as shown on Figure 2. A sam ple
+sound exposure calculation is contained in Appendix C.
+
+The highest sound exposures of 71 dBA daytim e and 65 dBA nighttim e due to road traffic are predicted to
+occur at Locations G and H (south facade).
+
+Truck activity along the northern lane was assessed on a worst case basis using survey data provided by Lea
+Consulting Ltd., resulting in 60 dBA at the closest residential windows.
+
+5.0      NOISE ABATEMENT MEASURES
+
+The noise control m easures can generally be classified into two categories which are interrelated, but which
+can be treated separately for the m ost part:
+
+         (a)       architectural elem ents to achieve acceptable indoor noise guidelines; and
+         (b)       design features to protect the OLA's.
+
+The m inim um noise control requirem ents are sum m arized in Table 3 and the notes to Table 3.
+
+5.1      INDOORS
+
+The indoor noise exposure guidelines can be achieved by using appropriate construction for exterior walls,
+windows and doors.
+
+A corner bedroom and living/dining room were used when determ ining the worst case architectural
+requirem ents. W all and window areas were assumed to be 80% and 30%, respectively, of their associated
+floor area on the facades directly and partially exposed to the noise source(s). It is also assum ed that STC 54
+exterior wall construction will be provided.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                          50 Bloor West/Toronto ­ Noise Feasibility 
+
+File: 111-002                                                                                                     Page 4 
+
+
+
+
+Based on the above assum ptions, window construction m eeting the m inim um non-acoustical standards of
+the OBC will allow the indoor noise guidelines to be m et for all the residential units.
+
+The final requirem ents should be reviewed when the building plans are developed. This is typically required
+by the City at the tim e of applying for a building perm it.
+
+The sound exposure predictions indicate that all residential dwelling units require m andatory air conditioning.
+
+5.2      OUTDOORS
+
+Indoor am enity spaces will be provided for the proposed developm ent. Thus, the outdoor rooftop terraces
+on the podium buildings are not m andatory and are extra am enities. Therefore, sound barriers for the rooftop
+terraces are not considered required for noise control purposes.
+
+As m entioned in Section 3.1.2, balconies do not qualify as OLA's since they are generally less than 4 m in
+depth. Therefore, sound attenuation is not required for the balconies.
+
+5.3      W ARNING CLAUSES
+
+W here applicable under the MOE noise guidelines, appropriate warning clauses should be registered on
+Offers of Purchase and Sale and/or Lease for residential suites, to advise future occupants of any potential
+noise issues. Locations requiring warning clauses and the appropriate wording are provided in Table 3.
+
+6.0      THE EFFECT OF THE PROJECT ON THE NEIGHBOURHOOD
+
+The m ain source of noise associated with this developm ent, with the potential for adverse im pact on
+surrounding buildings, is the m echanical equipm ent. These system s are not yet designed.
+
+Based on prelim inary m echanical concepts prepared by The Mitchell Partnership Inc., received on
+March 8, 2012, m echanical/electrical room s will be located at P6, Mezzanine Level, 8 th floor, 39 th floor and
+Penthouse. Louvres for the generators, ventilation units and cooling towers will be located on the north side
+at Mezzanine Level and 8 th floor.
+
+Garage exhaust fans with openings at grade level are also a potential noise sources.
+
+Mechanical equipm ent interfacing to the outdoors m ust com ply with Chapter 591 of the City of Toronto
+Municipal Code. By proper engineering design, all requirem ents can be met and no adverse noise im pact
+would be created for surrounding uses. Appropriate choice of location, equipm ent type, and noise control
+features, such as silencers and sound barriers should be considered during detailed design.
+
+For exam ple, for cooling towers and fluid coolers (8 th floor), a new generation of very quiet fans are available.
+In addition, the use of energy efficient variable frequency drives is also very useful in m inim izing noise
+generation. Air handling system s, at any level, including exhaust fans, that need to interface to the exterior
+environm ent, can be fitted with silencers. The equipm ent room layouts need to anticipate the space
+requirem ents to accom m odate these devices. Sim ilarly, em ergency power generators need significant
+am ounts of cooling and com bustion air from the outside. Again, accom m odation of potentially large silencers
+on air intakes and exhausts m ust be m ade in the detailed design. In the case of underground garage exhaust
+fans, it m ay be necessary to use centrifugal fans as opposed to the m ore com m only used propeller fans, to
+accom m odate silencers, if necessary. For em ergency power (diesel or natural gas) generators, in excess of
+700 kW , an Environm ental Com pliance Approval is required from the MOE, under Part 9 of the Environm ental
+Protection Act, addressing noise and air quality. For standby power generators of 700 kW or less, the
+installation m ust be filed with the MOE Registry and m ust com ply with Ontario Regulation 245/11, prom ulgated
+in June 2011. For generators within a building, am ongst other requirem ents O.Reg. 245/11 sets out m inim um
+silencing requirem ents for cooling and exhaust air paths and engine exhaust m uffler system s. By these
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                          50 Bloor West/Toronto ­ Noise Feasibility 
+
+File: 111-002                                                                                                     Page 5 
+
+
+
+
+various m eans, it is possible and practicable to ensure that noise em issions from any level of the building will
+not adversely affect neighbouring developm ents and will com ply with all regulatory requirem ents.
+
+The additional road traffic generated by this project will be sm all relative to existing traffic volum es within the
+general area, and is not expected to create adverse noise im pact.
+
+In accordance with Chapter 363 of the Toronto Municipal Code, a vibration im pact study to determ ine if any
+adverse im pact will be caused by the proposed construction m ethods, will be required. This is typically
+determ ined at the building perm it application stage.
+
+7.0         CONCLUSIONS
+
+The findings of this report indicate that the applicable MOE road traffic noise guidelines can be m et and a
+suitable acoustical environm ent provided for the occupants. The road traffic noise exposures and attendant
+noise m itigation requirem ents are typical of m any other m ixed use/residential developm ents adjacent to m ajor
+arterial roadways in the GTA. W ith appropriate design of the developm ent, a suitable acoustical environm ent
+can be provided for the occupants and the applicable MOE noise guideline requirem ents m et. Future
+occupants will be m ade aware of the potential noise situation through warning clauses, as per MOE
+guidelines.
+
+All residential units will be outfitted with central air conditioning. W indow construction m eeting the m inim um
+non-acoustical standards of the OBC will allow the indoor noise guidelines to be m et for all the residential units
+based on assum ed window and wall areas as well as STC 54 exterior wall construction. These aspects
+should be reviewed once the building plans are available. This review is usually done as part of the building
+perm it application process.
+
+The noise sources, such as the m echanical equipm ent and generator, associated with the proposed
+developm ent m ust com ply with Chapter 591 of the City of Toronto Municipal Code. By proper engineering
+design, all requirem ents can be m et and no adverse noise im pact would be created for the surrounding uses.
+
+The approvals and adm inistrative procedures are available to ensure that any acoustical requirem ents are
+im plem ented.
+
+8.0         REFERENCES
+
+1.          PC STAMSON 5.04, "Com puter Program for Road Traffic Noise Assessm ent", Ontario Ministry of the
+            Environm ent.
+
+2.          Building Practice Note No. 56: "Controlling Sound Transm ission into Buildings", by J. D. Quirt, Division
+            of Building Research, National Council of Canada, Septem ber 1985.
+
+3.          "Environm ental Noise Assessm ent in Land-Use Planning 1987", Ontario Ministry of the Environm ent,
+            February 1987, ISBN 0-7729-2804-5.
+
+4.          "Road and Rail Noise: Effects on Housing", Canada Mortgage and Housing Corporation,
+            Publication NHA 5156, 81/10.
+
+5.          "Noise Assessm ent Criteria in Land Use Planning", Ontario Ministry of the Environm ent,
+            Publication LU-131, October 1997.
+
+6.          City of Toronto Municipal Code, Chapter 591, Noise.
+
+CDS\SD\ADL\hd
+J:\2011\111002\000\Reports\50 Bloor West-Noise Fnl.wpd
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                          50 Bloor West/Toronto ­ Noise Feasibility 
+
+File: 111-002                                                                                                     Page 6 
+
+
+
+
+
+                                                         TABLE 1
+
+
+                                                 ROAD TRAFFIC DATA
+
+
+                                                                % Trucks                  Day/Night          Speed Limit
+           Roadway                      AADT (1)
+                                                        M edium           Heavy           Split (%)             (kph)
+
+      Bloor Street W est                 20 688             1                6               90/10                 50
+
+           Bay Street                    23 353             2                4               90/10                 50
+
+          Yonge Street                   16 559             1                4               90/10                 50
+
+
+N otes:
+
+(1)       AAD T ­ Annual Average D aily Traffic.
+(2)       D ata obtained from the City of Toronto.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                                  50 Bloor West/Toronto ­ Noise Feasibility 
+
+File: 111-002                                                                                                             Page 7 
+
+
+
+
+
+                                                               TABLE 2
+
+
+                   PREDICTED UNMITIGATED SOUND EXPOSURES OUTDOORS(1)
+
+                                      ROAD TRAFFIC
+
+
+          Location (2)                        Source                       Distance (m) (3)           L eq Day (dBA)   L eq Night (dBA)
+                                        Bloor Street W est                          16                     68                61
+               A                             Bay Street                            130                     61                54
+                                                Total                               ­                      68                62
+                                        Bloor Street W est                          55                     62                56
+               B                             Bay Street                            128                     61                54
+                                                Total                               ­                      65                58
+                                             Bay Street                            128                     58                51
+               C                           Yonge Street                             97                     57                51
+                                                Total                               ­                      61                54
+                                             Bay Street                            162                     57                50
+               D                           Yonge Street                             63                     59                53
+                                                Total                               ­                      51                55
+                                        Bloor Street W est                          57                     62                55
+               E                           Yonge Street                             63                     62                56
+                                                Total                               ­                      65                58
+                                        Bloor Street W est                          18                     67                60
+               F                           Yonge Street                             63                     62                56
+                                                Total                               ­                      68                62
+                                        Bloor Street W est                          18                     70                64
+                                             Bay Street                            161                     60                53
+               G
+                                           Yonge Street                             63                     62                56
+                                                Total                               ­                      71                65
+                                        Bloor Street W est                          16                     71                64
+                                             Bay Street                            130                     61                54
+               H
+                                           Yonge Street                             95                     61                54
+                                                Total                               ­                      71                65
+
+
+N otes:
+
+(1)         R eceptor heights taken at top storey window s.
+(2)         See Figure 2.
+(3)         D istance indicated is from the centerline of the noise source to the indicated facade.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                                 50 Bloor West/Toronto ­ Noise Feasibility
+File: 111-002                                                                                                            Page 8
+
+
+
+
+                                                               TABLE 3
+
+                                 MINIMUM NOISE ABATEMENT MEASURES
+
+                                                                                                 Window STC              Warning
+                                        Air Conditioning(1 )              Exterior Wall
+                                                                                                   Rating(2 )            Clauses(3 )
+
+      All residential suites                 Mandatory                        STC 54                  OBC                A+B+C
+
+
+
+Notes:
+
+(1)       Where methods must be provided to allow windows to remain closed for noise control purposes, a commonly used technique
+          is that of air conditioning. All suites will be air conditioned, complying with the minimum requirements. Air conditioning
+          equipment must comply with Chapter 591 (Noise) of the City of Toronto Municipal Code.
+
+(2)       OBC indicates that construction meeting the minimum non-acoustical requirements of the Ontario Building Code will provide
+          adequate sound isolation.
+
+          The sound isolation analysis is based upon the assumption that all wall and window areas are 80% and 30%, respectively,
+          of the corresponding room floor area. Requirements should be checked once floor plans have been finalized and exterior
+          wall construction details are defined.
+
+(3)       The warning clauses to be registered on title and be included in Offers of Purchase and Sale and/or Lease for designated
+          suites:
+
+          A.         "Purchasers/occupants are advised that despite the inclusion of noise control features in the development and
+                     within the building units, sound levels due to increasing road and/or air traffic, may occasionally interfere with some
+                     activities of the dwelling occupants as the sound level may exceed the noise guidelines of the Municipality and the
+                     Ministry of the Environment."
+
+          B.         "This dwelling unit has been supplied with a central air conditioning system which will allow windows and exterior
+                     doors to remain closed, thereby ensuring that the indoor sound levels are within the Municipality's and the Ministry
+                     of the Environment's noise criteria."
+
+          C.         "Purchasers/occupants are advised due to the proximity of the existing commercial establishments in the vicinity,
+                     sound associated with the uses at these establishments may at times be audible."
+
+(4)       All exterior doors shall be fully weatherstripped.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+                                                                      ntl.                   Project No.       D,"
+                               V/\LCOU----,TIC--,                     KEY PLAN                       111-002           FEB 23, 2012
+                                                   C.,.. . .   L~·.
+                              30 Wertheim Court, Unit 25
+                              Richmond Hill, Ontario
+                              Canada L4B 189                          Project Nomll          Scale             Rgure
+                              solutionsOvolcoustics.com
+                                                                      50 BLOOR STREET WEST
+N,.   Revision/Issue   Dato
+                              Phone: (905) 764-5223
+                              Fox:   (905) 764-6813
+                                                                      - NOISE
+                                                                                                     N.T.S.
+                                                                                                                       1
+                                C    D
+
+
+                       B                 E
+
+
+
+
+                       A                 F
+
+
+                                H    G
+
+
+
+
+                                             Base Drawing By Morguard Investments Limited
+
+Title                                             Date                        Figure
+Site Plan and Measurement Location                November
+                                                  March 22, 2012
+                                                            07, 2011
+Project Name                                      Project Number:
+                                                          No.                          2
+50
+TTCBloor
+    Spadina  Extension,
+         Street West -Noise
+                        South                     111-187
+                                                  111-002
+VALCOUSTICS CANADA LTD.                                                           50 Bloor West/Toronto­ Noise Feasibility
+File: 111-002
+
+
+
+
+                                           APPENDIX A
+
+                                   ROAD TRAFFIC DATA
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                                        Turning Movement Count Summary Report
+                                                                                                                                                                Survey Date:                 2009-Aug-12              (Wednesday)
+ BLOOR ST AT YONGE ST (PX 40)
+                                                                                                                                                                Survey Type:                 Routine Hours
+
+   Time            Vehicle                   NORTHBOUND                                   EASTBOUND                                    SOUTHBOUND                                                WESTBOUND
+   Period           Type        Exits       Left   Thru    Right   Total    Exits       Left   Thru    Right    Total   Exits         Left       Thru       Right       Total   Exits         Left   Thru    Right      Total       Peds    Bike   Other
+
+                     CAR              324     0     317       3     320        426         0    423        1      424          690       0         689          6        695        583          0     577       7      584     N    721       0       0
+ 08:00-09:00
+                     TRK               24     0      24       0       24        20         0     20        0       20           22       0          22          0         22            20       0      20       0       20     S    514       0       0
+ AM PEAK             BUS                3     0       3       0        3            1      0      1        0        1             4      0              4       0          4            1        0       1       0        1     E    469       0       0
+                                                                                                                                                                                                                                W    248       0       0
+
+                 TOTAL:               351     0      344      3     347        447         0     444       1     445           716           0     715              6    721        604          0     598       7      605
+
+                     CAR              522     0     519       6     525        638         0    632        3      635          584       0         581         10        591        541          0     531       3      534     N   1,236      0       0
+ 17:00-18:00
+                     TRK                6     0       6       0        6        11         0     11        0       11             8      0              8       0          8            10       0      10       0       10     S    982       0       0
+ PM PEAK             BUS                6     0       6       0        6            1      0      1        0        1             2      0              2       0          2            2        0       2       0        2     E   1,342      0       0
+                                                                                                                                                                                                                                W   1,245      0       0
+
+                 TOTAL:               534     0      531      6     537        650         0     644       3     647           594           0     591          10       601        553          0     543       3      546
+
+                     CAR              362     0     334      39     373        433         0    394       25      419          439       0         414         27        441        481          0     454      28      482     N    948       0       0
+ OFF HR
+ AVG                 TRK               19     0      18       1       19        25         0     24        2       26           26       0          24          1         25            17       0      16       1       17     S    635       0       0
+                     BUS                3     0       3       0        3            2      0      2        0        2             3      0              3       0          3            1        0       1       0        1     E    984       0       0
+                                                                                                                                                                                                                                W    642       0       0
+
+                 TOTAL:               384     0      355     40     395        460         0     420      27     447           468           0     441          28       469        499          0     471      29      500
+
+                     CAR              586     0     575      16     591        852         0    836        3      839         1,317      0       1,314         21       1,335     1,102          0   1,081      11    1,092     N   1,237      0       0
+ 07:30-09:30
+                     TRK               41     0      40       1       41        54         0     53        1       54           46       0          45          0         45            42       0      42       1       43     S    846       0       0
+ 2 HR AM             BUS                7     0       7       0        7            3      0      3        0        3             9      0              9       0          9            1        0       1       0        1     E    827       0       0
+                                                                                                                                                                                                                                W    396       0       0
+
+                 TOTAL:               634     0      622     17     639        909         0     892       4     896          1,372          0    1,368         21      1,389      1,145         0   1,124      12    1,136
+
+                     CAR              964     0     957       8     965       1,255        0   1,247       7    1,254         1,063      0       1,056         20       1,076     1,113          0   1,093       7    1,100     N   2,571      0       0
+ 16:00-18:00
+                     TRK               16     0      16       0       16        26         0     26        1       27           20       0          19          0         19            20       0      20       0       20     S   1,912      0       0
+ 2 HR PM             BUS               12     0      12       0       12            2      0      2        0        2             6      0              6       0          6            3        0       3       0        3     E   2,593      0       0
+                                                                                                                                                                                                                                W   2,481      0       0
+
+                 TOTAL:               992     0      985      8     993       1,283        0   1,275       8    1,283         1,089          0    1,081         20      1,101      1,136         0   1,116       7    1,123
+
+                     CAR          2,999       0    2,868    179    3,047      3,839        0   3,660     111    3,771         4,136      0       4,025        148       4,173     4,136          0   3,988     131    4,119     N   7,598      0       0
+ 07:30-18:00
+                     TRK              134     0     129       6     135        182         0    176        9      185          169       0         160          4        164        128          0     124       5      129     S   5,297      0       0
+ 8 HR SUM            BUS               29     0      29       0       29        11         0     11        0       11           28       0          28          0         28            9        0       9       0        9     E   7,355      0       0
+                                                                                                                                                                                                                                W   5,446      0       0
+
+                 TOTAL:           3,162       0    3,026    185    3,211      4,032        0   3,847     120    3,967         4,333          0    4,213        152      4,365      4,273         0   4,121     136    4,257
+
+Total 8 Hour Vehicle Volume: 15,800                                                                    Total 8 Hour Bicycle Volume: 0                                                            Total 8 Hour Intersection Volume: 15,800
+Comment:
+
+
+
+                                                                                                                Page 1 of 2                                                                                     Printed On: 31 Oct, 2011 7:31:34AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                                        Turning Movement Count Summary Report
+                                                                                                                                                             Survey Date:                2009-Jul-30                (Thursday)
+ BAY ST AT BLOOR ST (PX 70)
+                                                                                                                                                             Survey Type:                Routine Hours
+
+   Time            Vehicle                   NORTHBOUND                                   EASTBOUND                                    SOUTHBOUND                                            WESTBOUND
+   Period           Type        Exits       Left   Thru    Right   Total    Exits       Left   Thru    Right    Total   Exits         Left    Thru       Right    Total     Exits         Left   Thru       Right     Total       Peds    Bike   Other
+
+                     CAR              629    22     520      19     561        411        49    359      198      606          756      33      484         68      585         519         74     429         60     563     N    571      13       0
+ 08:30-09:30
+                     TRK               20     4      14       0       18        32         2     27        1       30           32       5       15          4       24             24      16         16       4      36     S    252       0       0
+ AM PEAK             BUS               15     1      15       0       16            1      0      1        1        2           14       0       13          0       13              1       0          0       0       0     E    358      42       0
+                                                                                                                                                                                                                              W   1,061      0       0
+
+                 TOTAL:               664    27      549     19     595        444        51     387     200     638           802       38     512          72     622         544         90     445         64     599
+
+                     CAR          1,076      52     952      25    1,029       803        54    768      125      947          608      10      373         33      416         550        110     465         70     645     N   1,532      0       0
+ 17:00-18:00
+                     TRK               18     2      13       3       18        20         3     13        6       22           70       4           2       0        6             12      62         10       2      74     S    872       0       0
+ PM PEAK             BUS               17     0      17       0       17            1      0      1        3        4           15       0       12          0       12              0       0          0       0       0     E    800      28       0
+                                                                                                                                                                                                                              W   1,625      0       0
+
+                 TOTAL:           1,111      54      982     28    1,064       824        57     782     134     973           693       14     387          33     434         562        172     475         72     719
+
+                     CAR              749    37     637      26     700        558        42    495      106      643          531      37      373         69      479         483         52     377         70     499     N   1,093      1       0
+ OFF HR
+ AVG                 TRK               29     6      20       1       27        28         3     18        5       26           38       9       15          7       31             31      18         18       6      42     S    498       0       0
+                     BUS               14     1      13       0       14            2      0      2        0        2             6      0           6       0        6              2       0          1       1       2     E    493      24       0
+                                                                                                                                                                                                                              W    685       0       0
+
+                 TOTAL:               792    44      670     27     741        588        45     515     111     671           575       46     394          76     516         516         70     396         77     543
+
+                     CAR          1,058      61     863      32     956        802        72    699      327    1,098         1,404     71      938        132    1,141       1,001        139     808        123   1,070     N    846      28       0
+ 07:30-09:30
+                     TRK               42     9      26       0       35        59         6     42        7       55           66      17       26          8       51             51      33         34      10      77     S    533       0       0
+ 2 HR AM             BUS               29     2      29       0       31            2      0      2        1        3           30       0       29          0       29              3       0          1       0       1     E    642      74       0
+                                                                                                                                                                                                                              W   1,882      0       0
+
+                 TOTAL:           1,129      72      918     32    1,022       863        78     743     335    1,156         1,500      88     993         140   1,221        1,055       172     843        133    1,148
+
+                     CAR          2,108     103    1,837     44    1,984      1,466     127    1,387     286    1,800         1,261     35      740         55      830       1,010        235     852        144   1,231     N   3,213      0       0
+ 16:00-18:00
+                     TRK               32     2      22       4       28        38         6     28        9       43          133       6           9       2       17             26     115         22       4     141     S   1,640      0       0
+ 2 HR PM             BUS               32     1      32       0       33            2      0      2        3        5           27       0       24          0       24              1       0          0       0       0     E   1,583     85       0
+                                                                                                                                                                                                                              W   2,830      0       0
+
+                 TOTAL:           2,172     106    1,891     48    2,045      1,506      133   1,417     298    1,848         1,421      41     773          57     871        1,037       350     874        148    1,372
+
+                     CAR          6,162     311    5,248    181    5,740      4,500     366    4,064   1,037    5,467         4,788    255    3,171        462    3,888       3,939        580   3,166        548   4,294     N   8,430     30       0
+ 07:30-18:00
+                     TRK              187    33     128       9     170        208        22    142       34      198          348      57       93         37      187         196        221     126         37     384     S   4,165      0       0
+ 8 HR SUM            BUS              113     6     111       0     117         10         0     10        5       15           83       0       78          0       78             12       0          6       2       8     E   4,198    256       0
+                                                                                                                                                                                                                              W   7,453      0       0
+
+                 TOTAL:           6,462     350    5,487    190    6,027      4,718      388   4,216    1,076   5,680         5,219     312    3,342        499   4,153        4,147       801   3,298        587    4,686
+
+Total 8 Hour Vehicle Volume: 20,546                                                                    Total 8 Hour Bicycle Volume: 286                                                      Total 8 Hour Intersection Volume: 20,832
+Comment:
+
+
+
+                                                                                                                Page 2 of 2                                                                                    Printed On: 31 Oct, 2011 7:31:34AM
+                                              City of Toronto - Traffic Data Centre & Safety Bureau
+
+                                                        Intersection Detailed 15 Minutes Movement Report
+
+ BAY ST AT BLOOR ST (PX 70)                                                                                  Survey Date:          Jul-30-2009 (Thursday)
+
+ Survey Type:           Routine Hours
+
+   Time                                     NORTH BOUND                        EAST BOUND                     SOUTH BOUND                          WEST BOUND
+  Period                                   Thru      Right   Left           Thru    Right   Left            Thru      Right     Left            Thru    Right      Left
+
+07:45           CARS                         78         7       13           68       20            8         89        12             5          94         18            17
+
+                DUALS                         0         0           4         1        2            1          2         0             1           3            1           3
+
+                BUSES                         3         0           0        1         0            0          3         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   3         (0)             5            (0)
+                PEDS                    North Side              35      East Side                  54    South Side                25       West Side                     148
+
+
+08:00           CARS                         83         2       10           89       26            3         96        16             9          97         12            16
+
+                DUALS                         1         0           0         2        2            1          2         4             4           3            2           3
+
+                BUSES                         3         0           0        0         0            0          5         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   4         (0)            10            (0)
+                PEDS                    North Side              68      East Side                  74    South Side                55       West Side                     170
+
+
+08:15           CARS                         91         1       11           87       43            4        112        21         12             90         14            10
+
+                DUALS                         7         0           0         9        0            1          2         0             6           9            3           4
+
+                BUSES                         5         0           0        0         0            0          3         0             0           1            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   2         (0)             3            (0)
+                PEDS                    North Side              82      East Side                  66    South Side               102       West Side                     206
+
+
+08:30           CARS                         91         3           5        96       40            8        157        15         12             98         19            22
+
+                DUALS                         4         0           1         3        2            1          5         0             1           3            0           7
+
+                BUSES                         3         0           1        0         0            0          5         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   6         (0)            14            (0)
+                PEDS                    North Side              90      East Side                  90    South Side                99       West Side                     297
+
+
+08:45           CARS                       126          4           4        74       54           12        134         9             9          94         11            19
+
+                DUALS                         1         0           1         7        0            0          3         1             0           2            1           3
+
+                BUSES                         3         0           0        0         0            0          3         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                  11         (0)             9            (0)
+                PEDS                    North Side            150       East Side              118       South Side                80       West Side                     330
+
+
+09:00           CARS                       125          5           5       111       53           12        105        10             6        118          15            21
+
+                DUALS                         3         0           2         9        0            0          4         1             1           4            1           5
+
+                BUSES                         3         0           0        1         1            0          4         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   1         (0)            18            (0)
+                PEDS                    North Side            110       East Side                  71    South Side                71       West Side                     273
+
+
+09:15           CARS                       130          5           7        91       43           15        133        30             9        112          13            16
+
+                DUALS                         4         0           1         6        0            2          2         1             1           5            0           6
+
+                BUSES                         7         0           1        0         0            0          3         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             8            (0)
+                PEDS                    North Side            130       East Side                  77    South Side                43       West Side                     230
+
+
+
+
+                                                                            Page 1 of 10                                      Printed On: 31 Oct, 2011 7:32:29AM
+                                              City of Toronto - Traffic Data Centre & Safety Bureau
+
+                                                        Intersection Detailed 15 Minutes Movement Report
+
+ BAY ST AT BLOOR ST (PX 70)                                                                                  Survey Date:          Jul-30-2009 (Thursday)
+
+ Survey Type:           Routine Hours
+
+   Time                                     NORTH BOUND                        EAST BOUND                     SOUTH BOUND                          WEST BOUND
+  Period                                   Thru      Right   Left           Thru    Right   Left            Thru      Right     Left            Thru    Right      Left
+
+09:30           CARS                       139          5           6        83       48           10        112        19             9        105          21            18
+
+                DUALS                         6         0           0         5        1            0          6         1             3           5            2           2
+
+                BUSES                         2         0           0        0         0            0          3         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   1         (0)             7            (0)
+                PEDS                    North Side            181       East Side                  92    South Side                58       West Side                     228
+
+
+10:15           CARS                       152         19       11           71       19            8         98        19             8          85         28            15
+
+                DUALS                         4         1           3         5        0            0          9         3             6           2            3           3
+
+                BUSES                         5         0           0        1         0            0          1         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)            13            (0)
+                PEDS                    North Side            144       East Side                  82    South Side                75       West Side                     126
+
+
+10:30           CARS                       144          9           9       119       10            2         76        30             8          87         27             9
+
+                DUALS                         6         0           0         5        0            0          2         1             1           8            4           0
+
+                BUSES                         6         0           0        0         0            0          3         0             0           1            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             6            (0)
+                PEDS                    North Side            124       East Side                  46    South Side                56       West Side                      59
+
+
+10:45           CARS                       167          7           9       113       18            2         71        11             6        116          22            13
+
+                DUALS                         9         0           2         5        0            0          7         1             1           3            0           5
+
+                BUSES                         2         0           0        3         0            0          2         0             0           1            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             7            (0)
+                PEDS                    North Side            155       East Side                  41    South Side                68       West Side                      60
+
+
+11:00           CARS                       177          5           8       148       17            5         65        13             6        102          21             5
+
+                DUALS                         8         0           0         5        0            0          5         3             2           5            1           2
+
+                BUSES                         5         0           0        1         0            0          2         0             0           1            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)            11            (0)
+                PEDS                    North Side            137       East Side                  41    South Side                60       West Side                      80
+
+
+11:15           CARS                       185          4           6       110       37            8         76        15         10             73         17             6
+
+                DUALS                        10         0           0         4        2            2          5         1             0           5            1           4
+
+                BUSES                         2         0           0        0         0            0          1         0             0           0            1           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             1            (0)
+                PEDS                    North Side            125       East Side                  56    South Side                78       West Side                     164
+
+
+11:30           CARS                       156          6           7       171       35            8         74        14             8          90         12             4
+
+                DUALS                         7         0           2         7        2            0          3         1             0           3            1           0
+
+                BUSES                         4         0           1        0         0            0          1         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   1         (0)             5            (0)
+                PEDS                    North Side            188       East Side                  44    South Side               101       West Side                     259
+
+
+
+
+                                                                            Page 2 of 10                                      Printed On: 31 Oct, 2011 7:32:29AM
+                                              City of Toronto - Traffic Data Centre & Safety Bureau
+
+                                                        Intersection Detailed 15 Minutes Movement Report
+
+ BAY ST AT BLOOR ST (PX 70)                                                                                  Survey Date:          Jul-30-2009 (Thursday)
+
+ Survey Type:           Routine Hours
+
+   Time                                     NORTH BOUND                        EAST BOUND                     SOUTH BOUND                          WEST BOUND
+  Period                                   Thru      Right   Left           Thru    Right   Left            Thru      Right     Left            Thru    Right      Left
+
+11:45           CARS                       135          1           8       146       31           14         53        10             1          89         16             3
+
+                DUALS                         1         0           0         4        2            0          8         1             3           5            2           9
+
+                BUSES                         2         0           0        0         0            0          2         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             4            (0)
+                PEDS                    North Side            156       East Side                  60    South Side               175       West Side                     125
+
+
+12:00           CARS                       112          5           9        82       21           15         94        23             6        119          10             3
+
+                DUALS                         4         0           1         4        2            3          2         2             5           4            3           2
+
+                BUSES                         3         0           0        0         0            0          3         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             3            (0)
+                PEDS                    North Side            226       East Side              132       South Side               115       West Side                     161
+
+
+13:15           CARS                         92         9       10          110       11           17         93         9         12             83         20            24
+
+                DUALS                         5         0           2         2        1            0          2         2             1           4            0          11
+
+                BUSES                         1         0           0        0         0            0          1         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             3            (0)
+                PEDS                    North Side            371       East Side              143       South Side               199       West Side                     158
+
+
+13:30           CARS                       120          5           8        79       23           18        119        12         15             79         21            12
+
+                DUALS                         1         0           1         4        1            0          3         1             0           3            1          11
+
+                BUSES                         3         0           0        0         1            0          1         0             0           1            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             7            (0)
+                PEDS                    North Side            476       East Side              310       South Side               184       West Side                     282
+
+
+13:45           CARS                       127          9           9       103       28           14        103        17         15             88         19            17
+
+                DUALS                         2         0           3         6        2            0          4         1             2           6            1           2
+
+                BUSES                         2         0           1        0         0            0          3         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)            13            (0)
+                PEDS                    North Side            448       East Side              245       South Side               136       West Side                     149
+
+
+14:00           CARS                       155          1           7        98       39           14        111        13         10             93         11            19
+
+                DUALS                         8         0           0         5        0            2          2         2             1           3            1           5
+
+                BUSES                         2         0           0        0         0            0          0         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             3            (0)
+                PEDS                    North Side            316       East Side              166       South Side               115       West Side                     253
+
+
+14:15           CARS                       190          2       12          128       23           13        109        17             9          93         17            16
+
+                DUALS                         4         1           3         3        3            0          3         3             6           7            3           8
+
+                BUSES                         5         0           1        0         0            0          1         0             0           0            1           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             7            (0)
+                PEDS                    North Side            433       East Side              208       South Side               173       West Side                     196
+
+
+
+
+                                                                            Page 3 of 10                                      Printed On: 31 Oct, 2011 7:32:29AM
+                                              City of Toronto - Traffic Data Centre & Safety Bureau
+
+                                                        Intersection Detailed 15 Minutes Movement Report
+
+ BAY ST AT BLOOR ST (PX 70)                                                                                  Survey Date:          Jul-30-2009 (Thursday)
+
+ Survey Type:           Routine Hours
+
+   Time                                     NORTH BOUND                        EAST BOUND                     SOUTH BOUND                          WEST BOUND
+  Period                                   Thru      Right   Left           Thru    Right   Left            Thru      Right     Left            Thru    Right       Left
+
+14:30           CARS                       204          8           9       129       33           11        101        18             8        114          14             25
+
+                DUALS                         4         2           2         4        2            3          1         3             4           5            0            2
+
+                BUSES                         3         0           0        0         0            0          2         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             3            (0)
+                PEDS                    North Side            378       East Side              136       South Side               196       West Side                      211
+
+
+14:45           CARS                       208          6       10          182       40           12        118        29         15           106             9           11
+
+                DUALS                         3         0           0         4        1            0          2         2             0           4            0            6
+
+                BUSES                         1         0           0        1         0            0          1         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)            10            (0)
+                PEDS                    North Side            389       East Side              164       South Side                84       West Side                      185
+
+
+15:00           CARS                       224          9       15          189       39            6        132        25         12             89         17             24
+
+                DUALS                         4         1           3         5        0            0          0         0             2           3            2            3
+
+                BUSES                         4         0           0        0         0            0          1         0             0           1            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   1         (0)             1            (0)
+                PEDS                    North Side            305       East Side                  99    South Side               177       West Side                      273
+
+
+16:15           CARS                       217          8       13          134       41           23         81        10             7          99         24             20
+
+                DUALS                         3         0           0         8        1            1          1         0             0           3            0           12
+
+                BUSES                         3         0           0        0         0            0          2         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)            18            (0)
+                PEDS                    North Side            393       East Side              171       South Side               220       West Side                      269
+
+
+16:30           CARS                       228          4       11          171       42           12         84         5             7          89         14             36
+
+                DUALS                         4         0           0         3        0            1          1         2             0           2            2           12
+
+                BUSES                         6         0           0        1         0            0          3         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             5            (0)
+                PEDS                    North Side            415       East Side              208       South Side               223       West Side                      281
+
+
+16:45           CARS                       215          6       12          169       51           23        108         2             2          94         20             29
+
+                DUALS                         1         1           0         1        1            1          3         0             1           3            0           16
+
+                BUSES                         4         0           1        0         0            0          4         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)            21            (0)
+                PEDS                    North Side            449       East Side              197       South Side               262       West Side                      332
+
+
+17:00           CARS                       225          1       15          145       27           15         94         5             9        105          16             40
+
+                DUALS                         1         0           0         3        1            0          2         0             1           4            0           13
+
+                BUSES                         2         0           0        0         0            0          3         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)            13            (0)
+                PEDS                    North Side            424       East Side              207       South Side                63       West Side                      323
+
+
+
+
+                                                                            Page 4 of 10                                      Printed On: 31 Oct, 2011 7:32:29AM
+                                              City of Toronto - Traffic Data Centre & Safety Bureau
+
+                                                        Intersection Detailed 15 Minutes Movement Report
+
+ BAY ST AT BLOOR ST (PX 70)                                                                                  Survey Date:          Jul-30-2009 (Thursday)
+
+ Survey Type:           Routine Hours
+
+   Time                                     NORTH BOUND                        EAST BOUND                     SOUTH BOUND                          WEST BOUND
+  Period                                   Thru      Right   Left           Thru    Right   Left            Thru      Right     Left            Thru    Right       Left
+
+17:15           CARS                       232          2       16          158       43            8         84         6             3        119          20             31
+
+                DUALS                         3         0           0         3        0            0          0         0             2           4            1           15
+
+                BUSES                         2         0           0        0         0            0          2         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             9            (0)
+                PEDS                    North Side            415       East Side              216       South Side               101       West Side                      380
+
+
+17:30           CARS                       237          7       15          187       28           14         86         5             0        102          15             28
+
+                DUALS                         2         3           2         2        1            1          0         0             1           2            0           18
+
+                BUSES                         4         0           0        1         0            0          4         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)            13            (0)
+                PEDS                    North Side            297       East Side              164       South Side               125       West Side                      307
+
+
+17:45           CARS                       240          7           9       208       26           12        100        13             2        115          18             30
+
+                DUALS                         3         0           0         4        3            0          0         0             1           2            1           15
+
+                BUSES                         4         0           0        0         1            0          3         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             1            (0)
+                PEDS                    North Side            414       East Side              214       South Side               337       West Side                      536
+
+
+18:00           CARS                       243          9       12          215       28           20        103         9             5        129          17             21
+
+                DUALS                         5         0           0         4        2            2          2         0             0           2            0           14
+
+                BUSES                         7         0           0        0         2            0          3         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             5            (0)
+                PEDS                    North Side            406       East Side              206       South Side               309       West Side                      402
+
+
+07:45           CARS                         48         1           0       100        0            0        146         4             0        109             0            0
+
+                DUALS                         4         0           0         5        0            0          6         0             0           7            0            0
+
+                BUSES                         1         0           0        1         0            0          1         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side              61      East Side                  40    South Side                59       West Side                       17
+
+
+08:00           CARS                         71         1           0       107        0            0        151         3             0        128             0            0
+
+                DUALS                         6         0           0         9        0            0          2         0             0           4            1            0
+
+                BUSES                         0         0           0        0         0            0          2         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side              77      East Side                  54    South Side                52       West Side                       28
+
+
+08:15           CARS                         67         1           0       118        0            0        168         2             0        154             0            0
+
+                DUALS                         5         0           0        10        0            0          2         0             0           3            0            0
+
+                BUSES                         0         0           0        0         0            0          1         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            111       East Side                  73    South Side                93       West Side                       36
+
+
+
+
+                                                                            Page 5 of 10                                      Printed On: 31 Oct, 2011 7:32:29AM
+                                              City of Toronto - Traffic Data Centre & Safety Bureau
+
+                                                        Intersection Detailed 15 Minutes Movement Report
+
+ BLOOR ST AT YONGE ST (PX 40)                                                                                Survey Date:          Aug-12-2009 (Wednesday)
+
+ Survey Type:           Routine Hours
+
+   Time                                     NORTH BOUND                        EAST BOUND                     SOUTH BOUND                          WEST BOUND
+  Period                                   Thru      Right   Left           Thru    Right   Left            Thru      Right     Left            Thru    Right       Left
+
+08:30           CARS                         89         0           0        97        0           0         175         1             0        143             4           0
+
+                DUALS                         5         0           0         1        0           0           8         0             0           7            0           0
+
+                BUSES                         2         0           0        0         0           0           2         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            168       East Side              133       South Side               175       West Side                      55
+
+
+08:45           CARS                         78         1           0       117        1           0         170         1             0        138             1           0
+
+                DUALS                         8         0           0         3        0           0           9         0             0           5            0           0
+
+                BUSES                         0         0           0        1         0           0           1         0             0           1            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            189       East Side              128       South Side               137       West Side                      65
+
+
+09:00           CARS                         83         1           0        91        0           0         176         2             0        142             2           0
+
+                DUALS                         6         0           0         6        0           0           3         0             0           5            0           0
+
+                BUSES                         1         0           0        0         0           0           0         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            253       East Side              135       South Side               109       West Side                      92
+
+
+09:15           CARS                         69         3           0       111        0           0         163         2             0        139             1           0
+
+                DUALS                         3         0           0        10        1           0           7         0             0           7            0           0
+
+                BUSES                         1         0           0        1         0           0           2         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            186       East Side              146       South Side               132       West Side                      66
+
+
+09:30           CARS                         70         8           0        95        2           0         165         6             0        128             3           0
+
+                DUALS                         3         1           0         9        0           0           8         0             0           4            0           0
+
+                BUSES                         2         0           0        0         0           0           0         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            192       East Side              118       South Side                89       West Side                      37
+
+
+10:15           CARS                         88        12           0        89        4           0         118         6             0        114             5           0
+
+                DUALS                         6         0           0         4        1           0          10         2             0           7            1           0
+
+                BUSES                         0         0           0        1         0           0           1         0             0           1            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            137       East Side              102       South Side                90       West Side                      35
+
+
+10:30           CARS                         59         6           0        91        7           0         126         5             0        115             5           0
+
+                DUALS                         4         0           0        10        0           0           9         1             0           5            0           0
+
+                BUSES                         0         0           0        0         0           0           1         0             0           0            0           0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            136       East Side              148       South Side                85       West Side                      36
+
+
+
+
+                                                                            Page 6 of 10                                      Printed On: 31 Oct, 2011 7:32:29AM
+                                              City of Toronto - Traffic Data Centre & Safety Bureau
+
+                                                        Intersection Detailed 15 Minutes Movement Report
+
+ BLOOR ST AT YONGE ST (PX 40)                                                                                Survey Date:          Aug-12-2009 (Wednesday)
+
+ Survey Type:           Routine Hours
+
+   Time                                     NORTH BOUND                        EAST BOUND                     SOUTH BOUND                          WEST BOUND
+  Period                                   Thru      Right   Left           Thru    Right   Left            Thru      Right     Left            Thru    Right       Left
+
+10:45           CARS                         81        10           0        98        7           0         120         4             0          89            8            0
+
+                DUALS                         5         0           0         4        0           0           9         0             0           4            1            0
+
+                BUSES                         1         0           0        0         0           0           1         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            164       East Side              183       South Side                70       West Side                       25
+
+
+11:00           CARS                         75         9           0        76        7           0         129         9             0        117             6            0
+
+                DUALS                         5         0           0         7        0           0           6         0             0           5            0            0
+
+                BUSES                         1         0           0        1         0           0           1         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            135       East Side              126       South Side                86       West Side                       47
+
+
+11:15           CARS                         88        14           0        86        9           0         131         8             0          94            7            0
+
+                DUALS                         3         2           0         5        0           0           8         0             0           4            0            0
+
+                BUSES                         0         0           0        0         0           0           0         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            177       East Side              111       South Side                82       West Side                       41
+
+
+11:30           CARS                         71         9           0        79        5           0         115         7             0        118             8            0
+
+                DUALS                         5         0           0         3        0           0           8         0             0           1            0            0
+
+                BUSES                         2         0           0        0         0           0           0         0             0           1            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            284       East Side              168       South Side               100       West Side                       20
+
+
+11:45           CARS                         82         7           0        87        3           0         116         4             0        104             6            0
+
+                DUALS                         7         3           0         9        1           0           5         0             0           6            1            0
+
+                BUSES                         0         0           0        0         0           0           1         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            180       East Side              197       South Side               108       West Side                       20
+
+
+12:00           CARS                         86        12           0        82        4           0         124         9             0        115          10              0
+
+                DUALS                         3         0           0         9        0           0           6         0             0           6            1            0
+
+                BUSES                         2         0           0        1         0           0           1         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            312       East Side              211       South Side               128       West Side                       75
+
+
+13:15           CARS                         92        10           0       110        5           0          73         5             0        125          10              0
+
+                DUALS                         5         0           0         7        0           0           3         0             0           3            0            0
+
+                BUSES                         0         0           0        0         0           0           1         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            221       East Side              396       South Side               307       West Side                      309
+
+
+
+
+                                                                            Page 7 of 10                                      Printed On: 31 Oct, 2011 7:32:29AM
+                                              City of Toronto - Traffic Data Centre & Safety Bureau
+
+                                                        Intersection Detailed 15 Minutes Movement Report
+
+ BLOOR ST AT YONGE ST (PX 40)                                                                                Survey Date:          Aug-12-2009 (Wednesday)
+
+ Survey Type:           Routine Hours
+
+   Time                                     NORTH BOUND                        EAST BOUND                     SOUTH BOUND                          WEST BOUND
+  Period                                   Thru      Right   Left           Thru    Right   Left            Thru      Right     Left            Thru    Right       Left
+
+13:30           CARS                         84        16           0       114        5           0          83        10             0        136             2            0
+
+                DUALS                         3         0           0         5        0           0           3         1             0           1            0            0
+
+                BUSES                         1         0           0        0         0           0           0         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            395       East Side              400       South Side               292       West Side                      367
+
+
+13:45           CARS                         67        11           0        99        5           0          76         5             0        121             5            0
+
+                DUALS                         4         0           0         3        1           0           6         0             0           5            0            0
+
+                BUSES                         0         0           0        2         0           0           1         0             0           1            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            219       East Side              406       South Side               268       West Side                      294
+
+
+14:00           CARS                         82         6           0       110        5           0          81         8             0        120          11              0
+
+                DUALS                         4         0           0         6        1           0           5         0             0           2            0            0
+
+                BUSES                         1         0           0        0         0           0           0         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            429       East Side              412       South Side               236       West Side                      331
+
+
+14:15           CARS                         89        11           0       103        8           0          80         6             0        117             7            0
+
+                DUALS                         6         0           0         9        0           0           3         0             0           3            0            0
+
+                BUSES                         1         0           0        0         0           0           1         0             0           1            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            288       East Side              316       South Side               202       West Side                      264
+
+
+14:30           CARS                         97         6           0       111        9           0          92         8             0        113          10              0
+
+                DUALS                         5         0           0         5        0           0           5         0             0           1            0            0
+
+                BUSES                         0         0           0        0         0           0           1         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            226       East Side              312       South Side               190       West Side                      230
+
+
+14:45           CARS                         97        11           0       117       11           0          85         7             0        111          10              0
+
+                DUALS                         4         0           0         4        1           0           6         0             0           6            0            0
+
+                BUSES                         0         0           0        0         0           0           1         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            250       East Side              234       South Side               142       West Side                      227
+
+
+15:00           CARS                         98         5           0       125        7           0         106         6             0        105             3            0
+
+                DUALS                         4         0           0         7        2           0           4         0             0           3            0            0
+
+                BUSES                         1         0           0        1         0           0           2         0             0           1            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            237       East Side              213       South Side               153       West Side                      248
+
+
+
+
+                                                                            Page 8 of 10                                      Printed On: 31 Oct, 2011 7:32:29AM
+                                              City of Toronto - Traffic Data Centre & Safety Bureau
+
+                                                        Intersection Detailed 15 Minutes Movement Report
+
+ BLOOR ST AT YONGE ST (PX 40)                                                                                Survey Date:          Aug-12-2009 (Wednesday)
+
+ Survey Type:           Routine Hours
+
+   Time                                     NORTH BOUND                        EAST BOUND                     SOUTH BOUND                          WEST BOUND
+  Period                                   Thru      Right   Left           Thru    Right   Left            Thru      Right     Left            Thru    Right       Left
+
+16:15           CARS                       102          0           0       156        0           0         123         3             0        147             1            0
+
+                DUALS                         3         0           0         3        0           0           2         0             0           0            0            0
+
+                BUSES                         4         0           0        0         0           0           2         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            318       East Side              325       South Side               245       West Side                      280
+
+
+16:30           CARS                       115          0           0       154        1           0         103         2             0        125             1            0
+
+                DUALS                         2         0           0         4        1           0           2         0             0           3            0            0
+
+                BUSES                         0         0           0        1         0           0           0         0             0           1            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            334       East Side              317       South Side               212       West Side                      342
+
+
+16:45           CARS                       124          2           0       143        2           0         114         2             0        141             2            0
+
+                DUALS                         3         0           0         6        0           0           4         0             0           2            0            0
+
+                BUSES                         1         0           0        0         0           0           2         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            365       East Side              275       South Side               239       West Side                      286
+
+
+17:00           CARS                         97         0           0       162        1           0         135         3             0        149             0            0
+
+                DUALS                         2         0           0         2        0           0           3         0             0           5            0            0
+
+                BUSES                         1         0           0        0         0           0           0         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            318       East Side              334       South Side               234       West Side                      328
+
+
+17:15           CARS                       131          3           0       158        1           0         143         4             0        128             1            0
+
+                DUALS                         2         0           0         5        0           0           1         0             0           4            0            0
+
+                BUSES                         3         0           0        0         0           0           1         0             0           1            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            353       East Side              343       South Side               265       West Side                      328
+
+
+17:30           CARS                       133          2           0       157        1           0         142         2             0        134             0            0
+
+                DUALS                         1         0           0         2        0           0           1         0             0           0            0            0
+
+                BUSES                         1         0           0        0         0           0           0         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            327       East Side              306       South Side               230       West Side                      306
+
+
+17:45           CARS                       126          1           0       158        1           0         144         2             0        128             2            0
+
+                DUALS                         1         0           0         3        0           0           3         0             0           5            0            0
+
+                BUSES                         1         0           0        0         0           0           1         0             0           0            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            266       East Side              396       South Side               243       West Side                      302
+
+
+
+
+                                                                            Page 9 of 10                                      Printed On: 31 Oct, 2011 7:32:29AM
+                                              City of Toronto - Traffic Data Centre & Safety Bureau
+
+                                                        Intersection Detailed 15 Minutes Movement Report
+
+ BLOOR ST AT YONGE ST (PX 40)                                                                                Survey Date:          Aug-12-2009 (Wednesday)
+
+ Survey Type:           Routine Hours
+
+   Time                                     NORTH BOUND                        EAST BOUND                     SOUTH BOUND                          WEST BOUND
+  Period                                   Thru      Right   Left           Thru    Right   Left            Thru      Right     Left            Thru    Right       Left
+
+18:00           CARS                       129          0           0       159        0           0         152         2             0        141             0            0
+
+                DUALS                         2         0           0         1        0           0           3         0             0           1            0            0
+
+                BUSES                         1         0           0        1         0           0           0         0             0           1            0            0
+
+                BIKE (OTHER)                            0       (0)                    0           (0)                   0         (0)             0            (0)
+                PEDS                    North Side            290       East Side              297       South Side               244       West Side                      309
+
+
+
+
+                                                                            Page 10 of 10                                     Printed On: 31 Oct, 2011 7:32:29AM
+                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+                                                                          24-Hour Count Summary Report
+
+                                                    STAT      ARTERY           COUNT                AM              AM       PM               PM      OFF HOUR         OFF HOUR             24 HOUR
+BLOOR ST                                            CODE       CODE                                PEAK        PEAK HOUR                                                                     Total
+                                                                               DATE                                          PEAK       PEAK HOUR       PEAK          PEAK HOUR
+
+Eastbound                    Category: 24 HOUR
+
+BLOOR ST E/B W OF BAY ST                         2153           2153     9/26/06 Tue                   852   07:45 - 08:45     906    16:15 - 17:15          763   14:30 - 15:30              14,391
+
+BLOOR ST E/B W OF YONGE ST                       2236           2236     9/26/06 Tue                   719   07:30 - 08:30     945    16:15 - 17:15          809   14:00 - 15:00              14,058
+
+BLOOR ST E/B W OF BAY ST                         2153           2153     9/27/06 Wed                   852   07:45 - 08:45     876    17:30 - 18:30          816   14:30 - 15:30              14,435
+
+BLOOR ST E/B W OF YONGE ST                       2236           2236     9/27/06 Wed                   654   06:30 - 07:30     944    16:30 - 17:30          833   14:30 - 15:30              13,951
+
+BLOOR ST E/B W OF YONGE ST                       2236           2236     9/28/06 Thu                   715   07:30 - 08:30     899    16:00 - 17:00          764   13:45 - 14:45              14,247
+
+
+                                                                          Eastbound Total:          3,792                    4,570                         3,985                              71,082
+
+                                                                       Eastbound Average:             758                      914                           797                              14,216
+
+
+Westbound                    Category: 24 HOUR
+
+BLOOR ST W/B E OF BAY ST                         2154           2154     9/26/06 Tue                   961   09:15 - 10:15    1,025   17:30 - 18:30        1,011   11:45 - 12:45              15,554
+
+BLOOR ST W/B E OF YONGE ST                       2237           2237     9/26/06 Tue                   956   09:00 - 10:00     905    17:15 - 18:15          908   10:30 - 11:30              15,037
+
+BLOOR ST W/B E OF BAY ST                         2154           2154     9/27/06 Wed                   917   07:45 - 08:45    1,075   17:30 - 18:30          929   09:45 - 10:45              15,797
+
+BLOOR ST W/B E OF YONGE ST                       2237           2237     9/27/06 Wed                   987   07:45 - 08:45     969    17:30 - 18:30          917   12:00 - 13:00              15,555
+
+BLOOR ST W/B E OF BAY ST                         2154           2154     9/28/06 Thu                   880   09:15 - 10:15     998    17:15 - 18:15          888   13:00 - 14:00              15,724
+
+BLOOR ST W/B E OF YONGE ST                       2237           2237     9/28/06 Thu                   968   07:30 - 08:30     982    17:30 - 18:30          899   09:30 - 10:30              15,625
+
+
+                                                                         Westbound Total:           5,669                    5,954                         5,552                              93,292
+
+                                                                       Westbound Average:             945                      992                           925                              15,549
+
+BLOOR ST                                                                                            9,461                    10,524                        9,537                             164,374
+
+Comment:
+
+
+
+
+                                                                                             Page 1 of 1                                               Printed On: 31 Oct, 2011 7:52:34AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                               Graphical 24-Hour Count Summary Report
+
+   BLOOR ST E/B W OF YONGE ST                                                                                  Station Number: 2236
+
+   Eastbound                                                                                                   Artery Code: 2236                 Category: 24 HOUR
+
+
+
+
+                          1000
+
+
+
+
+                               800
+     Number of Vehicles
+
+
+
+
+                               600
+
+
+
+                               400
+
+
+
+
+                               200
+
+
+
+
+                                 0
+                                       0         1    2    3     4     5       6        7    8    9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+                                                                                                        Start Hour
+
+                                                                                                                                   Survey Date: Tue, September 26, 2006
+Start Hour By Hour Volume:
+
+
+          0                1      2         3         4     5     6        7        8        9    10     11    12      13    14      15    16    17     18     19     20    21     22      23
+
+     341                  234    199       150       122   260   497   660         707      547   603    635   684     659   784    825   940   911     814    779   846    745    619     497
+
+
+
+Comment:
+
+
+
+
+                                                                                                        Page 1 of 11                                  Printed On: 31 Oct, 2011 7:53:14AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                               Graphical 24-Hour Count Summary Report
+
+   BLOOR ST E/B W OF YONGE ST                                                                                  Station Number: 2236
+
+   Eastbound                                                                                                   Artery Code: 2236                 Category: 24 HOUR
+
+
+
+
+                          1000
+
+
+
+
+                               800
+     Number of Vehicles
+
+
+
+
+                               600
+
+
+
+                               400
+
+
+
+
+                               200
+
+
+
+
+                                 0
+                                       0         1    2    3     4     5       6        7    8    9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+                                                                                                        Start Hour
+
+                                                                                                                                   Survey Date: Wed, September 27, 2006
+Start Hour By Hour Volume:
+
+
+          0                1      2         3         4     5     6        7        8        9    10     11    12      13    14      15    16   17      18     19     20    21     22      23
+
+     315                  273    207       133       133   238   480   645         649      529   548    639   678     730   776    786   829   908     823    847   849    810    643     483
+
+
+
+Comment:
+
+
+
+
+                                                                                                        Page 2 of 11                                  Printed On: 31 Oct, 2011 7:53:14AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                               Graphical 24-Hour Count Summary Report
+
+   BLOOR ST E/B W OF YONGE ST                                                                                  Station Number: 2236
+
+   Eastbound                                                                                                   Artery Code: 2236                 Category: 24 HOUR
+
+
+
+
+                          1000
+
+
+
+
+                               800
+     Number of Vehicles
+
+
+
+
+                               600
+
+
+
+                               400
+
+
+
+
+                               200
+
+
+
+
+                                 0
+                                       0         1    2    3     4     5       6        7    8    9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+                                                                                                        Start Hour
+
+                                                                                                                                   Survey Date: Thu, September 28, 2006
+Start Hour By Hour Volume:
+
+
+          0                1      2         3         4     5     6        7        8        9    10     11    12      13    14      15    16    17     18     19     20    21     22      23
+
+     343                  346    260       172       114   271   484   675         668      550   597    648   617     686   764    716   886   802     847    779   817    779    713     713
+
+
+
+Comment:
+
+
+
+
+                                                                                                        Page 3 of 11                                  Printed On: 31 Oct, 2011 7:53:14AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                               Graphical 24-Hour Count Summary Report
+
+   BLOOR ST W/B E OF BAY ST                                                                                    Station Number: 2154
+
+   Westbound                                                                                                   Artery Code: 2154                 Category: 24 HOUR
+
+
+
+
+                          1200
+
+
+
+                          1000
+     Number of Vehicles
+
+
+
+
+                               800
+
+
+
+                               600
+
+
+
+                               400
+
+
+
+                               200
+
+
+
+                                 0
+                                       0         1    2    3     4     5       6        7    8    9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+                                                                                                        Start Hour
+
+                                                                                                                                   Survey Date: Tue, September 26, 2006
+Start Hour By Hour Volume:
+
+
+          0                1      2         3         4     5     6        7        8        9    10     11     12     13    14      15    16    17     18     19     20    21     22      23
+
+     286                  209    168       141       113   178   533   768         847      897   890    933   1011    782   990    848   956   914     904    714   654    666    650     502
+
+
+
+Comment:
+
+
+
+
+                                                                                                        Page 4 of 11                                  Printed On: 31 Oct, 2011 7:53:14AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                               Graphical 24-Hour Count Summary Report
+
+   BLOOR ST W/B E OF BAY ST                                                                                    Station Number: 2154
+
+   Westbound                                                                                                   Artery Code: 2154                 Category: 24 HOUR
+
+
+
+
+                          1000
+
+
+
+
+                               800
+     Number of Vehicles
+
+
+
+
+                               600
+
+
+
+                               400
+
+
+
+
+                               200
+
+
+
+
+                                 0
+                                       0         1    2    3     4     5       6        7    8    9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+                                                                                                        Start Hour
+
+                                                                                                                                   Survey Date: Wed, September 27, 2006
+Start Hour By Hour Volume:
+
+
+          0                1      2         3         4     5     6        7        8        9    10     11    12      13    14      15    16   17      18     19     20    21     22      23
+
+     343                  246    209       137       124   192   556   762         917      788   929    915   878     846   848    808   945   925     963    775   736    760    671     524
+
+
+
+Comment:
+
+
+
+
+                                                                                                        Page 5 of 11                                  Printed On: 31 Oct, 2011 7:53:14AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                               Graphical 24-Hour Count Summary Report
+
+   BLOOR ST W/B E OF BAY ST                                                                                    Station Number: 2154
+
+   Westbound                                                                                                   Artery Code: 2154                 Category: 24 HOUR
+
+
+
+
+                          1000
+
+
+
+
+                               800
+     Number of Vehicles
+
+
+
+
+                               600
+
+
+
+                               400
+
+
+
+
+                               200
+
+
+
+
+                                 0
+                                       0         1    2    3     4     5       6        7    8    9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+                                                                                                        Start Hour
+
+                                                                                                                                   Survey Date: Thu, September 28, 2006
+Start Hour By Hour Volume:
+
+
+          0                1      2         3         4     5     6        7        8        9    10     11    12      13    14      15    16    17     18     19     20    21     22      23
+
+     424                  227    205       169       123   204   606   741         869      822   857    822   686     875   773    797   864   916     989    956   763    726    664     646
+
+
+
+Comment:
+
+
+
+
+                                                                                                        Page 6 of 11                                  Printed On: 31 Oct, 2011 7:53:14AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                               Graphical 24-Hour Count Summary Report
+
+   BLOOR ST E/B W OF BAY ST                                                                                    Station Number: 2153
+
+   Eastbound                                                                                                   Artery Code: 2153                 Category: 24 HOUR
+
+
+
+
+                          1000
+
+
+
+
+                               800
+     Number of Vehicles
+
+
+
+
+                               600
+
+
+
+                               400
+
+
+
+
+                               200
+
+
+
+
+                                 0
+                                       0         1    2    3     4     5       6        7    8    9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+                                                                                                        Start Hour
+
+                                                                                                                                   Survey Date: Tue, September 26, 2006
+Start Hour By Hour Volume:
+
+
+          0                1      2         3         4     5     6        7        8        9    10     11    12      13    14      15    16    17     18     19     20    21     22      23
+
+     412                  283    217       177       128   123   316   555         852      787   650    676   706     697   705    789   855   841     872    817   829    820    715     569
+
+
+
+Comment:
+
+
+
+
+                                                                                                        Page 7 of 11                                  Printed On: 31 Oct, 2011 7:53:14AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                               Graphical 24-Hour Count Summary Report
+
+   BLOOR ST E/B W OF BAY ST                                                                                    Station Number: 2153
+
+   Eastbound                                                                                                   Artery Code: 2153                 Category: 24 HOUR
+
+
+
+
+                          1000
+
+
+
+
+                               800
+     Number of Vehicles
+
+
+
+
+                               600
+
+
+
+                               400
+
+
+
+
+                               200
+
+
+
+
+                                 0
+                                       0         1    2    3     4     5       6        7    8    9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+                                                                                                        Start Hour
+
+                                                                                                                                   Survey Date: Wed, September 27, 2006
+Start Hour By Hour Volume:
+
+
+          0                1      2         3         4     5     6        7        8        9    10     11    12      13    14      15    16   17      18     19     20    21     22      23
+
+     416                  313    261       196       124   137   323   549         852      726   685    717   729     730   507    835   822   850     827    780   822    838    716     680
+
+
+
+Comment:
+
+
+
+
+                                                                                                        Page 8 of 11                                  Printed On: 31 Oct, 2011 7:53:14AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                               Graphical 24-Hour Count Summary Report
+
+   BLOOR ST W/B E OF YONGE ST                                                                                  Station Number: 2237
+
+   Westbound                                                                                                   Artery Code: 2237                 Category: 24 HOUR
+
+
+
+
+                          1000
+
+
+
+
+                               800
+     Number of Vehicles
+
+
+
+
+                               600
+
+
+
+                               400
+
+
+
+
+                               200
+
+
+
+
+                                 0
+                                       0         1    2    3     4     5       6        7    8    9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+                                                                                                        Start Hour
+
+                                                                                                                                   Survey Date: Tue, September 26, 2006
+Start Hour By Hour Volume:
+
+
+          0                1      2         3         4     5     6        7        8        9    10     11    12      13    14      15    16    17     18     19     20    21     22      23
+
+     288                  199    147       127       103   209   611   868         940      951   809    898   906     725   757    784   808   851     832    724   706    676    657     461
+
+
+
+Comment:
+
+
+
+
+                                                                                                        Page 9 of 11                                  Printed On: 31 Oct, 2011 7:53:14AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                               Graphical 24-Hour Count Summary Report
+
+   BLOOR ST W/B E OF YONGE ST                                                                                  Station Number: 2237
+
+   Westbound                                                                                                   Artery Code: 2237                  Category: 24 HOUR
+
+
+
+
+                          1000
+
+
+
+
+                               800
+     Number of Vehicles
+
+
+
+
+                               600
+
+
+
+                               400
+
+
+
+
+                               200
+
+
+
+
+                                 0
+                                       0         1    2    3     4     5       6        7    8    9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+                                                                                                        Start Hour
+
+                                                                                                                                    Survey Date: Wed, September 27, 2006
+Start Hour By Hour Volume:
+
+
+          0                1      2         3         4     5     6        7        8        9    10     11    12       13    14      15    16   17      18     19     20    21     22      23
+
+     338                  228    190       107       122   221   604   867         987      847   884    898   864      795   760    734   918   935     882    752   752    716    629     525
+
+
+
+Comment:
+
+
+
+
+                                                                                                        Page 10 of 11                                  Printed On: 31 Oct, 2011 7:53:14AM
+                                                                           City of Toronto - Traffic Data Centre & Safety Bureau
+
+
+                                                                               Graphical 24-Hour Count Summary Report
+
+   BLOOR ST W/B E OF YONGE ST                                                                                  Station Number: 2237
+
+   Westbound                                                                                                   Artery Code: 2237                  Category: 24 HOUR
+
+
+
+
+                          1200
+
+
+
+                          1000
+     Number of Vehicles
+
+
+
+
+                               800
+
+
+
+                               600
+
+
+
+                               400
+
+
+
+                               200
+
+
+
+                                 0
+                                       0         1    2    3     4     5       6        7    8    9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+                                                                                                        Start Hour
+
+                                                                                                                                    Survey Date: Thu, September 28, 2006
+Start Hour By Hour Volume:
+
+
+          0                1      2         3         4     5     6        7        8        9    10     11    12       13    14      15    16    17     18     19     20    21     22      23
+
+     374                  217    184       160       106   218   639   868         963      895   837    868   688      867   741    740   805   876    1009    853   738    745    646     588
+
+
+
+Comment:
+
+
+
+
+                                                                                                        Page 11 of 11                                  Printed On: 31 Oct, 2011 7:53:14AM
+VALCOUSTICS CANADA LTD.                                                           50 Bloor West/Toronto­ Noise Feasibility
+File: 111-002
+
+
+
+
+                                           APPENDIX B
+
+                   MINISTRY OF THE ENVIRONMENT
+                         NOISE GUIDELINES
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                                  50 Bloor West/Toronto­ Noise Feasibility
+File: 111-002
+
+
+
+
+                                                         APPENDIX B
+
+                                   ENVIRONMENTAL NOISE GUIDELINES
+
+
+MINISTRY OF THE ENVIRONMENT (MOE)
+
+Reference:         MOE Publication LU-131, October 1997: "Noise Assessment Criteria in Land
+                   Use Planning".
+
+
+                     SPACE                                      SOURCE                    TIM E PERIOD          CRITERION
+
+
+
+ Living/dining areas of residences,                               Road                    07:00 to 23:00         45 dBA
+ hospitals, schools, nursing/retirem ent                          Rail                    07:00 to 23:00         40 dBA
+ hom es, day-care centres, etc.                                  Aircraft                 24-hour period        NEF/NEP 5
+
+
+
+ Sleeping quarters                                                Road                    23:00 to 07:00         40 dBA
+                                                                  Rail                    23:00 to 07:00         35 dBA
+                                                                 Aircraft                 24-hour period        NEF/NEP 0
+
+
+
+ Outdoor Living Areas                                        Road and Rail                07:00 to 23:00           55 dBA
+
+
+
+ Outdoor Point of Reception                                      Aircraft                 24-hour period       NEF/NEP 30 #
+
+                                                          Stationary Source
+                                                            Class 1 Area                 07:00 to 23:00 (1)       50 * dBA
+                                                            Class 2 Area                 07:00 to 19:00 (2)       50 * dBA
+                                                            Class 2 Area                 19:00 to 23:00 (2)       45 * dBA
+
+
+
+ Plane of a W indow                                       Stationary Source
+                                                            Class 1 Area                 07:00 to 23:00 (1)       50 * dBA
+                                                            Class 2 Area                 07:00 to 19:00 (2)       50 * dBA
+
+
+
+ Plane of a Bedroom W indow                               Stationary Source               23:00 to 07:00          45 * dBA
+
+
+#        m ay not apply to in-fill or re-developm ent.
+*        or the m inim um hourly background sound exposure L e q (1), due to road traffic, if higher.
+(1)      C lass 1 Area : Urban
+(2)      C lass 2 Area : Urban during day; rural-like evening and night
+                                                                                                                     ....../cont'd.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                           50 Bloor West/Toronto­ Noise Feasibility
+File: 111-002
+
+
+
+
+Reference:          MOE Publication ISBN 0-7729-2804-5, 1987: "Environmental Noise
+                    Assessment in Land-Use Planning".
+
+
+ EXCESS ABOVE RECOMMENDED                CHANGE IN SUBJECTIVE          MAGNITUDE OF THE           NOISE CONTROL
+ SOUND LEVEL LIMITS (dBA)                LOUDNESS ABOVE                NOISE PROBLEM              MEASURES (OR ACTION
+                                                                                                  TO BE TAKEN)
+
+ No excess (<55 dBA)                     --                            No expected noise          None
+                                                                       problem
+
+ 1 to 5 inclusive (56 to 60 dBA)         Noticeably louder             Slight noise impact        If no physical measures are
+                                                                                                  taken, then prospective
+                                                                                                  purchasers or tenants
+                                                                                                  should be made aware by
+                                                                                                  suitable warning clauses.
+
+ 6 to 10 inclusive (61 - 65 dBA)         Almost twice as loud          Definite noise impact      Recommended.
+
+ 11 to 15 inclusive (66 - 70 dBA)        Almost three times as loud    Serious noise impact       Strongly Recommended.
+
+ 16 and over (>70 dBA)                   Almost four times as loud     Very serious noise         Strongly Recommended
+                                                                       impact                     (may be mandatory).
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                           50 Bloor West/Toronto­ Noise Feasibility
+File: 111-002
+
+
+
+
+                                           APPENDIX C
+
+     SAMPLE SOUND EXPOSURE CALCULATION
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                           50 Bloor West/Toronto­ Noise Feasibility
+File: 111-002
+
+
+
+STAMSON 5.04        NORMAL REPORT        Date: 21-03-2012 14:10:17
+MINISTRY OF THE ENVIRONMENT / NOISE ASSESSMENT
+
+Filename: g.te                                    Time Period: Day/Night 16/8 hours
+Description:                 Location G
+
+Road data, segment # 1: Bloor (day/night)
+-----------------------------------------
+Car traffic volume : 23305/2589 veh/TimePeriod *
+Medium truck volume :   251/28    veh/TimePeriod *
+Heavy truck volume : 1504/167     veh/TimePeriod *
+Posted speed limit :     50 km/h
+Road gradient       :     0 %
+Road pavement       :     1 (Typical asphalt or concrete)
+
+* Refers to calculated road volumes based on the following input:
+
+      24 hr Traffic Volume (AADT or SADT):                          20688
+      Percentage of Annual Growth        :                           2.00
+      Number of Years of Growth          :                          15.00
+      Medium Truck % of Total Volume     :                           1.00
+      Heavy Truck % of Total Volume      :                           6.00
+      Day (16 hrs) % of Total Volume     :                          90.00
+
+Data for Segment # 1: Bloor (day/night)
+---------------------------------------
+Angle1   Angle2           : -90.00 deg   90.00 deg
+Wood depth                :      0       (No woods.)
+No of house rows          :      0 / 0
+Surface                   :      2       (Reflective ground surface)
+Receiver source distance : 18.00 / 18.00 m
+Receiver height           : 246.00 / 246.00 m
+Topography                :      1       (Flat/gentle slope; no barrier)
+Reference angle           :   0.00
+
+Road data, segment # 2: Bay (day/night)
+---------------------------------------
+Car traffic volume : 25557/2840 veh/TimePeriod *
+Medium truck volume :   544/60    veh/TimePeriod *
+Heavy truck volume : 1088/121     veh/TimePeriod *
+Posted speed limit :     50 km/h
+Road gradient       :     0 %
+Road pavement       :     1 (Typical asphalt or concrete)
+
+* Refers to calculated road volumes based on the following input:
+
+      24 hr Traffic Volume (AADT or SADT):                          23353
+      Percentage of Annual Growth        :                           2.00
+      Number of Years of Growth          :                          13.00
+      Medium Truck % of Total Volume     :                           2.00
+      Heavy Truck % of Total Volume      :                           4.00
+      Day (16 hrs) % of Total Volume     :                          90.00
+
+Data for Segment # 2: Bay (day/night)
+-------------------------------------
+Angle1   Angle2           : -90.00 deg   90.00 deg
+Wood depth                :      0       (No woods.)
+No of house rows          :      0 / 0
+Surface                   :      2       (Reflective ground surface)
+Receiver source distance : 161.00 / 161.00 m
+Receiver height           : 246.00 / 246.00 m
+Topography                :      1       (Flat/gentle slope; no barrier)
+Reference angle           :   0.00
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                           50 Bloor West/Toronto­ Noise Feasibility
+File: 111-002
+
+
+
+Road data, segment # 3: Yonge (day/night)
+-----------------------------------------
+Car traffic volume : 18315/2035 veh/TimePeriod *
+Medium truck volume :   193/21    veh/TimePeriod *
+Heavy truck volume :    771/86    veh/TimePeriod *
+Posted speed limit :     50 km/h
+Road gradient       :     0 %
+Road pavement       :     1 (Typical asphalt or concrete)
+* Refers to calculated road volumes based on the following input:
+      24 hr Traffic Volume (AADT or SADT):                          16559
+      Percentage of Annual Growth        :                           2.00
+      Number of Years of Growth          :                          13.00
+      Medium Truck % of Total Volume     :                           1.00
+      Heavy Truck % of Total Volume      :                           4.00
+      Day (16 hrs) % of Total Volume     :                          90.00
+Data for Segment # 3: Yonge (day/night)
+---------------------------------------
+Angle1   Angle2           : -90.00 deg   90.00 deg
+Wood depth                :      0       (No woods.)
+No of house rows          :      0 / 0
+Surface                   :      1       (Absorptive ground surface)
+Receiver source distance : 63.00 / 63.00 m
+Receiver height           : 246.00 / 246.00 m
+Topography                :      1       (Flat/gentle slope; no barrier)
+Reference angle           :   0.00
+Results segment # 1: Bloor (day)
+--------------------------------
+Source height = 1.57 m
+ROAD (0.00 + 70.10 + 0.00) = 70.10 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+   -90     90   0.00 70.89    0.00 -0.79    0.00   0.00   0.00   0.00 70.10
+----------------------------------------------------------------------------
+Segment Leq : 70.10 dBA
+Results segment # 2: Bay (day)
+------------------------------
+Source height = 1.41 m
+ROAD (0.00 + 59.82 + 0.00) = 59.82 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+   -90     90   0.00 70.13    0.00 -10.31   0.00   0.00   0.00   0.00 59.82
+----------------------------------------------------------------------------
+Segment Leq : 59.82 dBA
+Results segment # 3: Yonge (day)
+--------------------------------
+Source height = 1.41 m
+ROAD (0.00 + 62.24 + 0.00) = 62.24 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+   -90     90   0.00 68.47    0.00 -6.23    0.00   0.00   0.00   0.00 62.24
+----------------------------------------------------------------------------
+Segment Leq : 62.24 dBA
+Total Leq All Segments: 71.09 dBA
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                           50 Bloor West/Toronto­ Noise Feasibility
+File: 111-002
+
+
+
+Results segment # 1: Bloor (night)
+----------------------------------
+
+Source height = 1.56 m
+
+ROAD (0.00 + 63.57 + 0.00) = 63.57 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+------------------------------------------ ------- ------- ------- -------------
+   -90     90   0.00 64.36    0.00 -0.79     0.00    0.00    0.00    0.00 63.57
+----------------------------------------------------------------------------
+
+Segment Leq : 63.57 dBA
+
+Results segment # 2: Bay (night)
+--------------------------------
+
+Source height = 1.41 m
+
+ROAD (0.00 + 53.29 + 0.00) = 53.29 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+------------------------------------------ ------- ------- ------- -------------
+   -90     90   0.00 63.60    0.00 -10.31    0.00    0.00    0.00    0.00 53.29
+----------------------------------------------------------------------------
+
+Segment Leq : 53.29 dBA
+
+Results segment # 3: Yonge (night)
+----------------------------------
+
+Source height = 1.42 m
+
+ROAD (0.00 + 55.72 + 0.00) = 55.72 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+------------------------------------------ ------- ------- ------- -------------
+   -90     90   0.00 61.95    0.00 -6.23     0.00    0.00    0.00    0.00 55.72
+----------------------------------------------------------------------------
+
+Segment Leq : 55.72 dBA
+
+Total Leq All Segments: 64.57 dBA
+
+
+TOTAL Leq FROM ALL SOURCES (DAY): 71.09
+                         (NIGHT): 64.57
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9 Tel: 905-764-5223/Fax: 905-764-6813/E-mail: solutions@valcoustics.com
+
