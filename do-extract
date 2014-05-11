@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./extract toronto/*.txt > counts-toronto.csv

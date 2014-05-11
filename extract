@@ -1,0 +1,105 @@
+#!/usr/bin/perl
+
+use strict;
+
+while (<>) {
+	if (/Turning Movement Count Summary/) {
+		my $date = "";
+		my $name = "";
+		my $time = "";
+		my %count = ();
+
+		while (<>) {
+			chomp;
+
+			if (/Survey *Date: *(.*)/) {
+				$date = $1;
+				$date =~ s/ *\(.*//;
+				$date =~ s/,//g;
+			}
+
+			if (/^ *(.* AT .*)/) {
+				$name = $1;
+
+				$name =~ s/ *Survey Type.*//;
+			}
+
+			if (/Period.*Type/) {
+				s/ //g;
+				if ($_ ne "PeriodTypeExitsLeftThruRightTotalExitsLeftThruRightTotalExitsLeftThruRightTotalExitsLeftThruRightTotalPedsBikeOther") {
+					die "nonstandard format $ARGV $_\n";
+				}
+
+				$time = "";
+				%count = ();
+			}
+
+			if (/^ *(\d\d:\d\d-\d\d:\d\d)/) {
+				$time = $1;
+			}
+			if (/^ *(OFF HR)/) {
+				$time = $1;
+			}
+
+			if (/([NSEW]) +(\d+) +(\d+) +(\d+) *$/) {
+				$count{$1}{"Peds"} = $2;
+				$count{$1}{"Bike"} = $3;
+			}
+
+			if (s/.*(CAR|TRK|BUS) *//) {
+				my @fields = split(/ +/, $_);
+
+				# exits                     0
+				$count{'S'}{'L'} += $fields[1];
+				$count{'S'}{'T'} += $fields[2];
+				$count{'S'}{'R'} += $fields[3];
+				# total                     4
+				# exits                     5
+				$count{'W'}{'L'} += $fields[6];
+				$count{'W'}{'T'} += $fields[7];
+				$count{'W'}{'R'} += $fields[8];
+				# total                     9
+				# exits                     10
+				$count{'N'}{'L'} += $fields[11];
+				$count{'N'}{'T'} += $fields[12];
+				$count{'N'}{'R'} += $fields[13];
+				# total                     14
+				# exits                     15
+				$count{'E'}{'L'} += $fields[16];
+				$count{'E'}{'T'} += $fields[17];
+				$count{'E'}{'R'} += $fields[18];
+				# total                     19
+
+				unless ($fields[20] =~ /[NSEW]/) {
+					die "expected NSEW, not $fields[20] in $_";
+				}
+			}
+
+			if (/TOTAL/) {
+				print "$ARGV,$name,x,$date,$time,";
+
+				my $dir;
+				for $dir ('N', 'E', 'S', 'W') {
+					my $turn;
+					for $turn ('R', 'T', 'L') {
+						print "$count{$dir}{$turn},";
+					}
+				}
+
+				my $mode;
+				for $mode ('Peds', 'Bike') {
+					for $dir ('N', 'E', 'S', 'W') {
+						print "$count{$dir}{$mode},";
+					}
+				}
+
+				print ",\n";
+				%count = ();
+			}
+
+			if (/\015/ || /Intersection Volume/) {
+				last;
+			}
+		}
+	}
+}
