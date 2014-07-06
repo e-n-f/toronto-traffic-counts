@@ -4,6 +4,32 @@ $drivescale = 0.198933;
 $walkscale = 0.209617;
 $usualtime = "17:00-18:00";
 
+open(IN, "scaling");
+while (<IN>) {
+	($drive8, $drivepeak, $walk8, $walkpeak, $bike8, $bikepeak, $drivewhen, $walkwhen, $bikewhen) = split(/ /);
+
+	$drive8_sum += $drive8;
+	$drivepeak_sum += $drivepeak;
+
+	$walk8_sum += $walk8;
+	$walkpeak_sum += $walkpeak;
+
+	$drivewhen{$drivewhen}++;
+	$walkwhen{$walkwhen}++;
+}
+
+@drivewhen = sort { $drivewhen{$b} <=> $drivewhen{$a} } keys(%drivewhen);
+@walkwhen = sort { $walkwhen{$b} <=> $walkwhen{$a} } keys(%walkwhen);
+
+if ($walkwhen[0] ne $drivewhen[0]) {
+	print die "peak disagreement $drivewhen[0] $walkwhen[0]";
+}
+
+$drivescale = $drivepeak_sum / $drive8_sum;
+$walkscale = $walkpeak_sum / $walk8_sum;
+
+print STDERR "$drivescale $walkscale\n";
+
 # cat ../*-traffic-counts/counts*csv | ./accumulate-hour | ./get-walk-peak | ./get-turn | awk '{right += $4; left += $5; thru += $6; sum += $4 + $5 + $6} END {print right/sum, left/sum, thru/sum, sum}'
 $right = 0.129794;
 $left = 0.126032;

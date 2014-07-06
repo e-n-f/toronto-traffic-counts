@@ -17,14 +17,17 @@ while (<>) {
 		if ($dur == 60 || $dur == 630) {
 			if ($walk >= $walk{$name}{$dur}) {
 				$walk{$name}{$dur} = $walk;
+				$walkwhen{$name}{$dur} = "$h1:$m1-$h2:$m2";
 			}
 
 			if ($bike >= $bike{$name}{$dur}) {
 				$bike{$name}{$dur} = $walk;
+				$bikewhen{$name}{$dur} = "$h1:$m1-$h2:$m2";
 			}
 
 			if ($drive >= $drive{$name}{$dur}) {
 				$drive{$name}{$dur} = $walk;
+				$drivewhen{$name}{$dur} = "$h1:$m1-$h2:$m2";
 			}
 		}
 	}
@@ -34,6 +37,10 @@ for $name (keys(%walk)) {
 	print "$drive{$name}{630} $drive{$name}{60} ";
 	print "$walk{$name}{630} $walk{$name}{60} ";
 	print "$bike{$name}{630} $bike{$name}{60} ";
+
+	print "$drivewhen{$name}{60} ";
+	print "$walkwhen{$name}{60} ";
+	print "$bikewhen{$name}{60} ";
 
 	print "# $name\n";
 }
