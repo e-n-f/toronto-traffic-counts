@@ -51,7 +51,7 @@ while (<IN>) {
 	if ($name3 ne "") {
 		print " AND $name3";
 	}
-	print ",$id,$date,$usualtime,";
+	print ",$id (extrapolated),$date,$usualtime,";
 
 	for ($i = 0; $i < 4; $i++) {
 		printf("%d,%d,%d,", $drive / 4 * $right, $drive / 4 * $thru, $drive / 4 * $left);
