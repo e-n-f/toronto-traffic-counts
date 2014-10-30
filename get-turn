@@ -1,0 +1,57 @@
+#!/usr/bin/perl
+
+sub out {
+	my ($fmt, @arg) = @_;
+	my $any = 0;
+
+	# Check only this leg, not cross-traffic or contraflow
+	for ($i = 0; $i < 6; $i++) {
+		if ($arg[$i] != 0) {
+			$any = 1;
+		}
+	}
+
+	for ($i = 0; $i <= $#arg; $i++) {
+		if ($arg[$i] =~ /^[0-9]*$/) {
+			if ($arg[$i] != 0) {
+				$arg[$i] += rand(1);
+			}
+		}
+	}
+
+	if ($any) {
+		return printf($fmt, @arg);
+	} else {
+		return "";
+	}
+}
+
+print "# Pedestrians, turns, bikes, right turns, left turns, near parallel, far parallel, leadthru, trailthru\n";
+
+while (<>) {
+	chomp;
+
+	($id1, $name, $id2, $date, $time, @rest) = split(/,/);
+
+        #                    16
+	#                    12
+	#
+	#                0   1   2
+	#           11               3
+	# 19  15    10               4     13   17
+	#            9               5
+	#                8   7   6
+	#
+	#                    14
+        #                    18
+
+	out("%f %f %f %f %f %f %f %f %f %s\n", $rest[12], $rest[3] + $rest[11], $rest[16], $rest[3], $rest[11], $rest[ 4], $rest[10], $rest[ 1], $rest[ 7], "$id1 $name");
+	out("%f %f %f %f %f %f %f %f %f %s\n", $rest[13], $rest[6] + $rest[ 2], $rest[17], $rest[6], $rest[ 2], $rest[ 7], $rest[ 1], $rest[ 4], $rest[10], "$id1 $name");
+	out("%f %f %f %f %f %f %f %f %f %s\n", $rest[14], $rest[9] + $rest[ 5], $rest[18], $rest[9], $rest[ 5], $rest[10], $rest[ 4], $rest[ 7], $rest[ 1], "$id1 $name");
+	out("%f %f %f %f %f %f %f %f %f %s\n", $rest[15], $rest[0] + $rest[ 8], $rest[19], $rest[0], $rest[ 8], $rest[ 1], $rest[ 7], $rest[10], $rest[ 4], "$id1 $name");
+
+	$ped{"n-$id1"} += $rest[12];
+	$ped{"e-$id1"} += $rest[13];
+	$ped{"s-$id1"} += $rest[14];
+	$ped{"w-$id1"} += $rest[15];
+}
