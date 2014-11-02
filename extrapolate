@@ -1,30 +1,32 @@
 #!/usr/bin/perl
 
-open(IN, "scaling");
-while (<IN>) {
-	($drive8, $drivepeak, $walk8, $walkpeak, $bike8, $bikepeak, $drivewhen, $walkwhen, $bikewhen) = split(/ /);
+if (0) {
+	open(IN, "scaling");
+	while (<IN>) {
+		($drive8, $drivepeak, $walk8, $walkpeak, $bike8, $bikepeak, $drivewhen, $walkwhen, $bikewhen) = split(/ /);
 
-	$drive8_sum += $drive8;
-	$drivepeak_sum += $drivepeak;
+		$drive8_sum += $drive8;
+		$drivepeak_sum += $drivepeak;
 
-	$walk8_sum += $walk8;
-	$walkpeak_sum += $walkpeak;
+		$walk8_sum += $walk8;
+		$walkpeak_sum += $walkpeak;
 
-	$drivewhen{$drivewhen}++;
-	$walkwhen{$walkwhen}++;
+		$drivewhen{$drivewhen}++;
+		$walkwhen{$walkwhen}++;
+	}
+
+	@drivewhen = sort { $drivewhen{$b} <=> $drivewhen{$a} } keys(%drivewhen);
+	@walkwhen = sort { $walkwhen{$b} <=> $walkwhen{$a} } keys(%walkwhen);
+
+	if ($walkwhen[0] ne $drivewhen[0]) {
+		print die "peak disagreement $drivewhen[0] $walkwhen[0]";
+	}
+
+	$drivescale = $drivepeak_sum / $drive8_sum;
+	$walkscale = $walkpeak_sum / $walk8_sum;
+
+	print STDERR "$drivescale $walkscale $drivewhen[0]\n";
 }
-
-@drivewhen = sort { $drivewhen{$b} <=> $drivewhen{$a} } keys(%drivewhen);
-@walkwhen = sort { $walkwhen{$b} <=> $walkwhen{$a} } keys(%walkwhen);
-
-if ($walkwhen[0] ne $drivewhen[0]) {
-	print die "peak disagreement $drivewhen[0] $walkwhen[0]";
-}
-
-$drivescale = $drivepeak_sum / $drive8_sum;
-$walkscale = $walkpeak_sum / $walk8_sum;
-
-print STDERR "$drivescale $walkscale $drivewhen[0]\n";
 
 # cat ../landuse/daily/daily.csv | grep -v extrap | ./get-turn | awk '{right += $4; left += $5; thru += $6; sum += $4 + $5 + $6} END {print right/sum, left/sum, thru/sum, sum}'
 $right = 0.130996;
@@ -36,8 +38,8 @@ while (<IN>) {
 	s/,//g;
 	($id, $name1, $mid, $name2, $name3, $since, $lat, $lon, $date, $walk, $drive) = split(/\t */);
 
-	$drive = $drive * $drivescale;
-	$walk = $walk * $walkscale;
+	# $drive = $drive * $drivescale;
+	# $walk = $walk * $walkscale;
 
 	print "toronto-extrapolated,$name1 AT ";
 	if ($mid ne "") {
@@ -47,7 +49,7 @@ while (<IN>) {
 	if ($name3 ne "") {
 		print " AND $name3";
 	}
-	print ",$id (extrapolated),$date,$drivewhen[0],";
+	print ",$id (extrapolated),$date,07:30-09:30/10:00-12:00/13:00-15:00/16:00-18:00,";
 
 	for ($i = 0; $i < 4; $i++) {
 		printf("%.2f,%.2f,%.2f,", $drive / 4 * $right, $drive / 4 * $thru, $drive / 4 * $left);

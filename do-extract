@@ -2,6 +2,4 @@
 
 ./extract toronto/*.txt > counts-toronto.csv
 
-cat counts-toronto.csv | ./get-scaling > scaling
-
 ./extrapolate > counts-toronto-extrapolated.csv
