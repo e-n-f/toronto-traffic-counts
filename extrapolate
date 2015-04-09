@@ -33,32 +33,38 @@ $right = 0.130996;
 $left = 0.126988;
 $thru = 0.742016;
 
-open(IN, "allday/signalizedTrafficPedestrianVolumes20120216.tsv");
-while (<IN>) {
-	s/,//g;
-	($id, $name1, $mid, $name2, $name3, $since, $lat, $lon, $date, $walk, $drive) = split(/\t */);
+for $file ("allday/signalizedTrafficPedestrianVolumes20120216.tsv", "allday/2012.csv", "allday/2013.csv") {
+	open(IN, "$file");
+	while (<IN>) {
+		if ($file =~ /tsv/) {
+			s/,//g;
+			($id, $name1, $mid, $name2, $name3, $since, $lat, $lon, $date, $walk, $drive) = split(/\t */);
+		} else {
+			($id, $name1, $mid, $name2, $name3, $since, $lat, $lon, $date, $drive, $walk) = split(/, */);
+		}
 
-	# $drive = $drive * $drivescale;
-	# $walk = $walk * $walkscale;
+		# $drive = $drive * $drivescale;
+		# $walk = $walk * $walkscale;
 
-	print "toronto-extrapolated,$name1 AT ";
-	if ($mid ne "") {
-		print "$mid ";
+		print "toronto-extrapolated,$name1 AT ";
+		if ($mid ne "") {
+			print "$mid ";
+		}
+		print "$name2";
+		if ($name3 ne "") {
+			print " AND $name3";
+		}
+		print ",$id (extrapolated),$date,07:30-09:30/10:00-12:00/13:00-15:00/16:00-18:00,";
+
+		for ($i = 0; $i < 4; $i++) {
+			printf("%.2f,%.2f,%.2f,", $drive / 4 * $right, $drive / 4 * $thru, $drive / 4 * $left);
+		}
+
+		for ($i = 0; $i < 4; $i++) {
+			printf("%.2f,", $walk / 4);
+		}
+
+		print ",,,,$lat,$lon";
+		print "\n";
 	}
-	print "$name2";
-	if ($name3 ne "") {
-		print " AND $name3";
-	}
-	print ",$id (extrapolated),$date,07:30-09:30/10:00-12:00/13:00-15:00/16:00-18:00,";
-
-	for ($i = 0; $i < 4; $i++) {
-		printf("%.2f,%.2f,%.2f,", $drive / 4 * $right, $drive / 4 * $thru, $drive / 4 * $left);
-	}
-
-	for ($i = 0; $i < 4; $i++) {
-		printf("%.2f,", $walk / 4);
-	}
-
-	print ",,,,$lat,$lon";
-	print "\n";
 }
