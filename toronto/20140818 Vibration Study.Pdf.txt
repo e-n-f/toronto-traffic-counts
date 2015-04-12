@@ -1,0 +1,1409 @@
+VALCOUSTICS CANADA LTD.                                         235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289
+
+
+
+                                             TABLE OF CONTENTS
+
+EXECUTIVE SUMMARY.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+1.0      INTRODUCTION.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+2.0      ENVIRONMENTAL NOISE ASSESSMENT.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+         2.1  NOISE SOURCES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+              2.1.1 Transportation Sources. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+              2.1.2 Stationary Sources. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+         2.2  ENVIRONMENTAL NOISE GUIDELINES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+              2.2.1 Architectural Elements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+              2.2.2 Ventilation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+              2.2.3 Outdoors. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+         2.3  NOISE IMPACT ASSESSMENT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+3.0      NOISE ABATEMENT REQUIREMENTS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+         3.1   INDOORS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+               3.1.1 Architectural Elements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+               3.1.2 Ventilation Requirements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+         3.2   OUTDOORS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+         3.3   WARNING CLAUSES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+4.0      THE EFFECT OF THE PROJECT ON THE NEIGHBOURHOOD. . . . . . . . . . . . . . . . . . 6
+
+5.0      THE EFFECT OF THE PROJECT ON ITSELF. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+         5.1   COMMON BOUNDARIES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+         5.2   BUILDING SERVICES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+6.0      NOISE CONTROL RECOMMENDATIONS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+         6.1   MINIMUM REQUIREMENTS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+         6.2   OTHER NOISE CONTROL CONSIDERATIONS. . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+7.0      TTC STREETCAR VIBRATION ASSESSMENT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+8.0      CONCLUSIONS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+9.0      REFERENCES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+LIST OF TABLES
+
+TABLE 1            ROAD TRAFFIC DATA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+TABLE 2            PREDICTED UNMITIGATED SOUND EXPOSURES OUTDOORS.. . . . . . . . . 13
+
+TABLE 3            MINIMUM NOISE ABATEMENT MEASURES. . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+TABLE 4            TYPICAL INDOOR NOISE CONTROL DESIGN GUIDELINES
+                   FOR CONTINUOUS BUILDING SERVICES(1). . . . . . . . . . . . . . . . . . . . . . . . . . 15
+                                                                                                 ....cont’d
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9                Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289
+
+
+
+                                 TABLE OF CONTENTS (continued)
+LIST OF FIGURES
+
+FIGURE 1          KEY PLAN
+
+FIGURE 2          SITE PLAN AND SOUND BARRIER LOCATIONS
+
+LIST OF APPENDICES
+
+APPENDIX A ROAD TRAFFIC DATA
+
+APPENDIX B SUMMARY OF MOE NOISE GUIDELINES NPC-300
+
+APPENDIX C SAMPLE SOUND EXPOSURE CALCULATION
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                Page 1
+
+
+
+
+                 Environmental Noise and Vibration
+                         Feasibility Study
+
+                  235 Jarvis Street and
+             175 to 191 Dundas Street East
+                      Proposed Condominium Development
+             Southeast corner of Jarvis Street and Dundas Street East
+                                                City of Toronto
+
+
+
+EXECUTIVE SUMMARY
+
+Valcoustics Canada Ltd. (VCL) was retained to prepare an Environmental Noise and Vibration
+Assessment to address the potential impact from road sources onto the
+proposed development. The development will consist of a 47-storey condominium building with
+retail space at grade. Both common indoor and outdoor amenity spaces will be provided for the
+development.
+
+The transportation noise sources with potential to impact the proposed development are road traffic
+on Jarvis Street and Dundas Street East, as well as the Toronto Transit Commission (TTC)
+streetcar traffic on Dundas Street East.
+
+The vibration source is the TTC streetcar traffic on Dundas Street East.
+
+The sound exposures on site have been determined and compared with the applicable Ministry of
+the Environment (MOE) noise guideline limits to determine the need for noise mitigation.
+
+To meet the applicable transportation noise source guideline limits:
+
+•        All residential suites within the development require mandatory air conditioning for noise
+         control purposes.
+
+•        Exterior wall construction meeting a Sound Transmission Class (STC) rating up to 54 may
+         be required for parts of the facade without vision glass.
+
+•        Upgraded windows with STC ratings as high as STC 36 are expected.
+
+•        A minimum 1.1 m high parapet sound barrier, as shown on Figure 2, would be required at
+         the 2nd and 3rd floors outdoor amenity areas.
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                Page 2
+
+
+
+
+•        Final requirements should be checked when detailed building plans are available. This is
+         usually done as a condition for obtaining a building permit.
+
+Based on the vibration measurements done, including within the existing building on-site,
+ground-borne vibration due to TTC streetcar movements is expected to be below the reference
+limits at the residential suites in the proposed building. Thus, vibration mitigation is not required
+as part of the site design.
+
+1.0      INTRODUCTION
+This report has been prepared as part of the re-zoning application submission to the City of
+Toronto. The proposed development will consist of a 47-storey condominium building with retail
+space at grade. Both common indoor and outdoor amenity areas will be provided on the 2nd and
+3rd floors. A private terrace is located on the 5th floor, on the southwest corner of the tower.
+
+The potential sound exposures predicted to be experienced on the subject site and noise mitigation
+measures needed for the proposed development to comply with the MOE noise guidelines are
+outlined herein.
+
+The site is located at the southeast corner of Jarvis Street and Dundas Street East. There are
+existing two-storey commercial buildings on the site which will be demolished as part of the
+development. The site is bounded by:
+
+•        Dundas Street East, with a hotel and existing residential developments beyond, to the
+         north;
+•        existing residential developments, with George Street beyond, to the east;
+•        a hotel and existing residential developments to the south; and
+•        Jarvis Street, with a future residential building (currently under construction) beyond, to the
+         west.
+
+Figure 1 shows a Key Plan.
+
+This report is based on the architectural drawings prepared by Page + Steele IBI Group Architects,
+dated August 13, 2014. Figure 2 shows the Site Plan in reduced form.
+
+2.0      ENVIRONMENTAL NOISE ASSESSMENT
+
+2.1      NOISE SOURCES
+
+2.1.1    Transportation Sources
+
+The main transportation noise sources with potential for noise impact on the proposed development
+will be road traffic on Jarvis Street and Dundas Street East, as well as TTC streetcar traffic on
+Dundas Street East.
+
+Road traffic volumes applicable to the year 2011 for Jarvis Street and Dundas Street East were
+obtained from the City of Toronto Traffic Safety Unit. Daily (24-hour) volumes were obtained by
+multiplying the 8-hour intersection turning count movement data by a factor of 2.2. A day/night split
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                          235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                    Page 3
+
+
+
+of 90%/10% was used as is typical for well travelled roadways. A growth rate of 2%, compounded
+annually, was applied to obtain future (year 2024) traffic volumes. Truck percentages were
+obtained from the turning movement counts. The ratio of heavy trucks to medium trucks was
+assumed to be 60%/40%. Buses were considered as medium trucks.
+
+The streetcar traffic data on Dundas Street East (505 Dundas) was obtained from the TTC
+website. The volumes were escalated to the year 2024 design condition at a rate of 2%
+compounded annually.
+
+The road traffic data is summarized in Table 1. Correspondence is included as Appendix A.
+
+2.1.2    Stationary Sources
+
+There are commercial/retail uses in the vicinity. It is noted that there are existing residential
+developments located closer to these establishments than the proposed development and thus by
+default, the noise guidelines would be expected to be met on the site. Noise impact from these
+establishments is not anticipated to create adverse impact and has not been considered further in
+this assessment.
+
+2.2      ENVIRONMENTAL NOISE GUIDELINES
+
+The applicable noise guidelines for new residential development are those in MOE
+Publication NPC-300, “Environmental Noise Guideline, Stationary and Transportation Sources -
+Approval and Planning”.
+
+The newly released (October 21, 2013 but dated August 2013) MOE Publication NPC-300 noise
+guideline has replaced four existing noise guidelines in Ontario (Publications LU-131, NPC-205 and
+NPC-232, as well as Noise Assessment Criteria in Land Use Planning: Requirements, Procedures
+and Implementation).
+
+The environmental noise guidelines of the MOE, as provided in Publication NPC-300, are
+discussed briefly below and summarized in Appendix B.
+
+2.2.1    Architectural Elements
+
+In the daytime (0700 to 2300), the indoor criterion for road noise is Leq Day(1) of 45 dBA for sensitive
+spaces such as living/dining rooms, dens and bedrooms. At night, the indoor criterion for road
+noise is Leq Night(2) of 45 dBA for sensitive spaces such as living/dining rooms and dens and 40 dBA
+for bedrooms. The architectural design of the building envelope (walls, windows, etc.) must provide
+adequate sound isolation to achieve these indoor sound exposure limits, based on the applicable
+outdoor sound exposure on the facades.
+
+2.2.2    Ventilation
+
+In accordance with the MOE noise guideline for road traffic sources, if the daytime sound energy
+exposure, Leq Day(1), at the exterior face of a noise sensitive window is greater than 65 dBA, means
+
+
+(1)      Leq Day:     16-hour energy equivalent sound level (0700-2300 hours).
+(2)      Leq Night:   8-hour energy equivalent sound level (2300-0700 hours).
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9                 Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                Page 4
+
+
+
+must be provided so that windows can be kept closed for noise control purposes and central air
+conditioning is required. For daytime sound exposures between 56 dBA and 65 dBA inclusive,
+there need only be the provision for adding air conditioning at a later date. A warning clause
+advising the occupant of the potential interference with some activities is also required. At
+nighttime, air conditioning would be required when the sound exposure exceeds 60 dBA (Leq Night(2))
+at a noise sensitive window (provision for adding air conditioning is required when greater than
+50 dBA).
+
+2.2.3    Outdoors
+
+For OLA’s, the guideline is Leq Day (0700 to 2300 hours) of 55 dBA, with an excess not exceeding
+5 dBA considered acceptable if it is technically not practicable to achieve the 55 dBA objective,
+providing warning clauses are registered on title. Note that for road traffic sources, a balcony is
+not considered an OLA, unless it is the only OLA for the occupant and it is:
+
+•        at least 4 m in depth; and
+•        unenclosed.
+
+2.3      NOISE IMPACT ASSESSMENT
+
+Using the road traffic data in Table 1, the sound energy exposures, in terms of Leq Day and Leq Night,
+were determined using STAMSON V5.04 – ORNAMENT, the computerized road traffic noise
+prediction models of the MOE.
+
+Traffic congestion during the day in urban areas may result in speeds below the limit while
+decreased traffic at night allows speeds at or above the limit. To be conservative, the traffic flow
+speed has been assumed to be at the posted speed throughout the 24-hour day.
+
+The daytime and nighttime sound exposures at the building facades were taken at the top floor
+windows, the worst case locations. The daytime OLA sound exposures were taken at a standing
+height, 1.5 m above the grade and at the centre of the outdoor amenity area. Inherent screening
+of each building face due to its orientation to the noise source was taken into account.
+
+Table 2 summarizes the predicted sound energy exposures outdoors at specific locations.
+
+A sample sound exposure calculation is included in Appendix C.
+
+The highest daytime/nighttime sound exposures of 72 dBA/66 dBA would occur at the north and
+west facades of the building, immediately adjacent to Dundas Street East and Jarvis Street. The
+highest unmitigated daytime OLA sound exposure of 61 dBA is predicted to occur at the 2nd and
+3rd floors common outdoor amenity areas at the south side of the building. The unmitigated
+daytime OLA sound exposure on the 5th floor private terrace is predicted to be 56 dBA.
+
+3.0      NOISE ABATEMENT REQUIREMENTS
+
+The noise control measures can generally be classified into two categories which are interrelated,
+but which can be treated separately for the most part:
+
+         (a)      Architectural elements to achieve acceptable indoor noise guidelines for
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                Page 5
+
+
+
+                  transportation sources; and
+
+         (b)      Design features to protect the OLA’s.
+
+Noise abatement requirements are summarized in Table 3 and the notes to Table 3.
+
+3.1      INDOORS
+
+3.1.1    Architectural Elements
+
+The indoor noise exposure guidelines for the transportation sources can be achieved by using
+appropriate construction for exterior walls, windows and doors. In determining the worst-case
+architectural requirements, wall and window areas were each assumed to be 50% of the associated
+floor area, on the facades directly exposed to and at an angle to the noise sources, for both
+living/dining rooms and bedrooms.
+
+Based on the predicted sound exposures, exterior wall construction meeting an STC of up to 54
+would be required to meet the indoor noise guideline criteria of the MOE.
+
+If the building is designed such that corner units have windows on both facades, then:
+
+•        suites at the northwest corner would require windows with STC ratings up to 36;
+•        suites at the northeast and southwest corners would required windows with STC ratings up
+         to 33; and
+•        suites at the southeast corner would require windows meeting an STC rating of 31.
+
+For non-corner suites:
+
+•        suites at the north and west facades require windows with STC ratings up to 33; and
+•        suites at the south and east facades required windows meeting an STC rating of STC 31.
+
+For windows, double-glazing configurations meeting the minimum non-acoustical requirements of
+the OBC should be adequate to meet STC 31. Note, the window frames themselves must also be
+designed to ensure that the overall sound isolation performance for the entire window unit meets
+the sound isolation requirement. This will need to be confirmed by the window manufacturer
+through the submission of acoustical test data.
+
+The final sound isolation requirements should be reviewed when architectural plans are developed.
+Wall and window constructions should also be reviewed at this point to ensure that they will meet
+the required sound isolation performance. This is typically required by the City at the time of
+building permit application.
+
+3.1.2    Ventilation Requirements
+
+Based on the predicted daytime and nighttime sound exposures, all residential suites require
+mandatory air conditioning to allow windows to be closed for noise control purposes.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                Page 6
+
+
+
+3.2      OUTDOORS
+
+The unmitigated daytime OLA sound exposure at the 2nd and 3rd floors common outdoor amenity
+areas is predicted to slightly exceed the 60 dBA upper limit of the MOE noise guidelines. Thus,
+sound barriers would be required.
+
+A minimum 1.1 m high parapet sound barrier on the 2nd and 3rd floors outdoor amenity spaces, as
+shown on Figure 2, will mitigate the daytime OLA sound exposure to 55 dBA.
+
+The unmitigated daytime OLA sound exposures at the 5th floor private terrace is predicted to be
+56 dBA. This is within the maximum permitted by the MOE noise guideline, provided warning
+clauses are registered on the title. To mitigate the predicted sound exposures to below 55 dBA,
+a minimum 1.1 m high parapet sound barrier could be used. However, this is not considered
+mandatory as the predicted unmitigated sound exposure is within the allowable 9 dBA leeway in
+the MOE guidelines, provided warning clauses are registered on title.
+
+The parapet sound barrier must be of solid construction with no gaps, cracks or holes and must
+have a minimum surface weight of 20 kg/m². A variety of materials are available, including
+concrete, masonry, glass, wood, specialty composite materials, or a combination of the above.
+
+3.3      WARNING CLAUSES
+
+Where the sound exposure guidelines are exceeded, appropriate MOE warning clauses should be
+registered on title and make future occupants aware of the potential noise situation. Locations
+requiring warning clauses and the appropriate wording are given in Table 3 and in the notes to
+Table 3, respectively.
+
+4.0      THE EFFECT OF THE PROJECT ON THE NEIGHBOURHOOD
+
+The main sources of noise associated with this development, with the potential for adverse impact
+on surrounding buildings, are mechanical equipment.
+
+Mechanical equipment interfacing to the outdoors must comply with Chapter 591 (Noise) of the City
+of Toronto Municipal Code and the MOE noise guideline limits in NPC-300. By proper engineering
+design, all requirements can be met and no adverse noise impact would be created for surrounding
+uses. Appropriate choice of location, equipment type, and noise control features should be
+considered during detailed design for such items as rooftop equipment and air intakes and
+exhausts, including underground parking garage ventilation systems. Any parking garage air shafts
+located immediately adjacent to residential uses, in addition to appropriate choice of fan type, may
+need special noise control treatment such as acoustically lining the shaft or providing silencers.
+
+For any emergency generators, appropriate steps should be taken to ensure that the placement,
+treatment, and routine testing schedule will not generate adverse noise impact on neighbouring
+properties.
+
+The additional road traffic generated on the public roadways by this project will be small relative
+to existing traffic volumes within the general area, and is not expected to create adverse noise
+impact.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                Page 7
+
+
+
+5.0      THE EFFECT OF THE PROJECT ON ITSELF
+Consideration should be given to control of airborne and/or structure-borne noise generated within
+the building. The major items requiring attention are the common boundaries and building
+services.
+
+The common boundaries, in general, are those between adjacent residential units, and between
+units and noisy service areas. Building services include mechanical equipment, plumbing, parking
+garage activities, etc.
+
+5.1      COMMON BOUNDARIES
+
+The minimum acceptable Sound Transmission Class (STC) rating for the construction of
+boundaries between residential suites, as well as between residential suites and other spaces
+where noise may be generated, is specified in the OBC as STC 50. This is considered to be “good”
+sound isolation. For modern living conditions, an STC rating greater than 50 for demising
+boundaries may be desirable, but is not considered mandatory.
+
+There are no requirements for impact noise control in the OBC. However, a minimum Impact
+Insulation Class (IIC) rating for floors between residential suites of 55 is recommended in the OBC.
+This rating procedure, the IIC, is deliberately configured so that the significance of the IIC number
+is similar to the STC rating system for airborne sound.
+
+Adequate sound isolation can only be achieved if pertinent details of design and construction are
+followed consistently. Included in these details, for example, is careful closure of all cracks by
+caulking or equivalent and the sealing of all wall penetrations, including electrical outlets. Attention
+must be paid to items which can degrade the performance of the boundaries such as services
+passing through or mounted to the walls or floors/ceilings (e.g., plumbing). Outlets serving two
+different units should not be within the same stud space or masonry cavity.
+
+Consideration should be given to the noise impact at the residential suites in the vicinity of
+potentially noisy areas (e.g., mechanical penthouse, garbage room, ramp to parking garage, indoor
+recreational spaces, transformer vaults). High sound isolation construction may be required to
+adequately mitigate any potential noise impacts. The incorporation of secondary sound isolation
+ceilings, floating floors, or cavity walls are some examples.
+
+With proper design and construction, a satisfactory environment is readily achievable.
+
+5.2      BUILDING SERVICES
+
+The building services will have an insignificant effect on the occupants, except potentially the
+occupants in close proximity to any mechanical equipment areas and in those areas affected by
+sound transmitted by ducts and other paths, from mechanical equipment. In these cases, the
+isolation of vibration and sound will be a matter of proper design of the mechanical system and of
+the sound control associated with it. With proper design and construction, a satisfactory
+environment is readily achievable.
+
+The OBC requires construction between residential suites and defined building services (refuse
+chutes and elevator shafts) to have a minimum STC rating of 55. This can be achieved with a
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                Page 8
+
+
+
+cavity wall construction using commonly available materials.
+
+Refuse chutes/compactors, stairwells, elevator shafts, plumbing systems and transformer vaults
+are all possible sources of annoyance with respect to both airborne and structure-borne noise.
+Design considerations to reduce the potential noise impact are discussed in Section 6.0.
+
+In some locations, like spaces that do not stack vertically, may require horizontal pipe runs for
+bathrooms and kitchens. Precautions in this regard are required with respect to both airborne and
+structure-borne noise if plumbing from one unit runs in the ceiling space (or equivalent) of an
+adjacent unit.
+
+Ventilation systems for kitchens and bathrooms should be designed to minimize sound
+transmission between suites through the "speaking tube" effect and to minimize propagation of
+outdoor noise sources into the suites.
+
+Table 4 indicates generally accepted guidelines for indoor sound levels from continuous building
+services such as air handling units, cooling towers, chillers and pumps. These criteria are specified
+in terms of Noise Criteria (NC) curves which indicate the maximum desirable sound level at the
+recipient in the various frequency bands, based on the use of the space in question.
+
+Please note that with exception to the minimum OBC demising boundary requirements for STC
+ratings, other aspects governing internal noise control are not covered by the OBC requirements,
+but are a matter of good design and practice. Thus, these other aspects are not considered
+mandatory requirements.
+
+6.0      NOISE CONTROL RECOMMENDATIONS
+
+The normal City of Toronto process requires review of working drawings by a qualified acoustical
+engineer prior to issuing building permits. This allows for verification of the sound isolation
+requirements and resolution of details not available at the time of the site plan approval application.
+It is recommended that this practice be followed for this development.
+
+6.1      MINIMUM REQUIREMENTS
+
+The development is feasible in terms of achieving the applicable indoor and outdoor MOE noise
+guidelines.
+
+To indicate the noise mitigation requirements and provide guidelines for subsequent design,
+preliminary recommendations/requirements are summarized below. These are considered
+mandatory to comply with the OBC or the MOE noise guidelines.
+
+•        Mandatory air conditioning is required for all suites to allow windows to remain closed for
+         noise control purposes.
+
+•        Warning clauses advising the occupants of the residential suites of the potential noise
+         situation should be placed in all occupancy agreements.
+
+•        Exterior wall construction meeting an STC rating of up to 54 and window construction with
+         STC ratings up to 36 would be required to provide adequate sound isolation to meet the
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                Page 9
+
+
+
+         MOE indoor noise guidelines for the residential suites.
+
+•        To comply with the OBC, construction providing an STC rating of not less than 50 must be
+         used for boundaries between residential units, or between residential units and other
+         general spaces in which noise may be generated. Where a suite is adjacent to building
+         services (i.e., an elevator shaft, refuse chute), the separating construction must have an
+         STC rating of at least 55.
+
+•        Mechanical equipment interfacing with the outside environment must comply with Chapter
+         591 (Noise) of the City of Toronto Municipal Code and the MOE noise guideline limits in
+         NPC-300. During detailed design, noise from the mechanical equipment should be
+         assessed to ensure compliance with the Municipal Code and NPC-300. Noise mitigation
+         may be required.
+
+•        Construction activities and equipment must comply with Chapter 591 (Noise) of the City of
+         Toronto Municipal Code.
+
+6.2      OTHER NOISE CONTROL CONSIDERATIONS
+
+These items are not governed by specific “formal” requirements. They are not mandatory, but are
+desirable and should be considered in the building design. However, in some cases, in order to
+meet the mandatory requirements, these design aspects should be considered.
+
+•        During the design process of any mechanical systems, the control of noise and vibration
+         should be addressed to minimize any adverse impact. Appropriate silencing and vibration
+         isolation mountings should be determined for major pieces of mechanical equipment.
+
+•        Mechanical systems should be designed to the generally accepted indoor noise guidelines
+         as given in Table 4.
+
+•        Emergency generators should be fitted with a “critical residential” or higher grade muffler.
+         Careful consideration should be given to the location of the exhaust point and the means
+         of supplying cooling and combustion air, which are potential paths for noise propagation.
+
+•        Garage or other exhaust fans should be selected, located or treated acoustically to avoid
+         excess noise within the project or on neighbouring properties and passing pedestrians.
+
+•        Wherever concrete block is used in partitions providing sound isolation, an improvement
+         in the sound isolation performance can be achieved if one face is sealed air-tight by
+         parging, plastering or painting with three coats (minimum) of latex block filler.
+
+•        If there is a common wall between the elevator and garbage chute shafts and inhabited
+         spaces, it should be of cavity wall construction. This can consist of appropriate
+         combinations of masonry and drywall materials where the wall on the occupied side is not
+         in direct contact with the shaft wall. The garbage chute itself should be free of bends and
+         isolated from the structure at all points by an air space or by resilient supports.
+
+•        Where poured concrete walls are intended and adequate sound isolation must be provided,
+         holes left by form-work pull-out ties should be fully filled with non-shrink grout.
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                               Page 10
+
+
+
+
+•        Electrical services in party walls (including T.V. cable or communication boxes) should not
+         be installed in the same stud space or masonry cavity for both units.
+
+•        Sensitive uses adjacent to recreational and mechanical service rooms should have a high
+         degree of sound isolation. Some recreational spaces adjacent to mechanical sources may
+         also require consideration. Potential control measures include sound isolation ceilings,
+         floating floors and special wall construction.
+
+•        Where plumbing from one unit runs in the ceiling space (or equivalent) of an independent
+         residential unit, it may be necessary to acoustically enclose the pipe runs in the ceiling
+         space.
+
+•        The OBC does not have any requirements for impact noise control, which is often the
+         source of many noise complaints. However, the use of floor construction having an IIC
+         rating of 55 or greater is recommended.
+
+7.0      TTC STREETCAR VIBRATION ASSESSMENT
+
+VCL completed measurements of the ground-borne vibration from the TTC streetcar movements
+at the subject site, on July 24, August 7 and August 13, 2014. The measurements were used to
+determine whether vibration isolation is warranted as part of the building/project design.
+
+The proposed building is setback approximately 9 m from the centerline of the eastbound streetcar
+tracks and approximately 12 m from the centerline of the westbound tracks on Dundas Street East.
+
+The vibration measurements were done:
+
+•        At several locations outside at grade (concrete sidewalk) along the northern and western
+         facade of the existing building on site. The locations correspond to the northern facade of
+         the proposed building and the approximate midpoint of the building on the western facade;
+         and
+
+•        At two locations inside the existing building in the basement, which is slab on grade.
+
+The TTC has no vibration reference limits for assessing vibration impact. However, there are
+various authorities who have adopted vibration limits for use in assessing vibration impacts on
+residential occupancies. These reference limits have been used for assessing the need for
+vibration mitigation measures relative to the TTC rail sources. These include references from the
+Canadian National Railways (CNR), Canadian Pacific Railways (CPR) and the International
+Standards Organization (ISO).
+
+Based on the vibration measurements done within the existing building, it is expected that the
+vibration amplitude within the residential suites in the building (which start on the second floor) will
+be below all reference guideline limits.
+
+Thus, vibration mitigation is not requires as part of the site design.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                                 235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                          Page 11
+
+
+
+8.0          CONCLUSIONS
+
+With the incorporation of the recommended noise mitigation measures, the applicable MOE noise
+guidelines can be met and a suitable acoustical environment provided for the occupants.
+
+Vibration mitigation is not required for this site.
+
+The approvals and administrative procedures are available to ensure that the noise requirements
+are implemented.
+
+9.0          REFERENCES
+
+1.           PC STAMSON 5.04, “Computer Program for Road Traffic Noise Assessment”, Ontario
+             Ministry of the Environment.
+
+2.           Building Practice Note No. 56: "Controlling Sound Transmission into Buildings", by
+             J. D. Quirt, Division of Building Research, National Council of Canada, September 1985.
+
+3.           City of Toronto Municipal Code, Chapter 591, Noise.
+
+4.           “Sound Level Limits for Stationary Sources in Class 1 and 2 Areas (URBAN)”, Ontario
+             Ministry of the Environment, Publication NPC-205, October 1995.
+
+5.           MOE Publication NPC-300, “ Stationary and Transportation Sources - Approval and
+             Planning” Ontario Ministry of the Environment, August 2013.
+
+6.           “Chapter 48 - Noise and Vibration Control”, ASHRAE Handbook - HVAC Applications, 2011.
+
+7.           “Guidelines for New Development in Proximity to Railway Operations”, Prepared for The
+             Federation of Canadian Municipalities and the Railway Association of Canada, May 2013.
+
+8.           “Proposed Provincial Policy on the Environmental Protection of New Residential
+             Development Adjacent to Railways”, Canadian Pacific Railways, February 1983.
+
+9.           “Evaluation of Human Exposure to Whole-Body Vibration, Part 2", International Standard,
+             ISO 2631-2.
+CDS\SN\ML\mk
+J:\2014\114289\000\Reports\235 Jarvi s St - Noise & Vibration Fnl.wpd
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9                      Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                            235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                     Page 12
+
+
+
+
+                                                            TABLE 1
+
+                                                 ROAD TRAFFIC DATA
+
+                                                                               % Trucks             Day/Night           Speed
+           Roadway                    Year           AADT(1)
+                                                                      Medium          Heavy            (%)            Limit (kph)
+
+         Jarvis Street(2)             2011            29 166             1.5            1.6            90/10               50
+
+      Dundas Street East(2)           2011            16 016             4.2            2.1            90/10               50
+
+       TTC Streetcar on
+      Dundas Street East              2014              374                -              -            87/13               50
+        (505 Dundas)(3)
+
+Notes:
+
+(1)        AADT – Annual Average Daily Traffic.
+(2)        Obtained from City of Toronto Traffic Safety Unit. Traffic data shown was escalated to the year 2024, using a growth rate of
+           2%, compounded annually. Ratio of heavy to medium trucks was assumed to be 60%/40%. Buses were considered as
+           medium trucks.
+(3)        Obtained from TTC website. Traffic data shown was escalated to the year 2024, using a growth rate of 2%, compounded
+           annually.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9                     Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                           235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                    Page 13
+
+
+
+
+                                                           TABLE 2
+
+               PREDICTED UNMITIGATED SOUND EXPOSURES OUTDOORS(1)
+
+        Location(2)                       Source                       Distance (m)(3)         Leq Day (dBA)      Leq Night (dBA)
+
+                               Jarvis Street (Northbound)                     11                    64                  58
+
+                               Jarvis Street (Southbound)                     17                    62                  56
+  Northwest Corner
+                                   Dundas Street East                         10                    69                  63
+    (North Face)
+                             TTC Streetcar (505 Dundas )                      10                    66                  61
+
+                                           Total                               -                    72                  66
+
+                               Jarvis Street (Northbound)                     11                    67                  61
+
+                               Jarvis Street (Southbound)                     17                    65                  59
+  Northwest Corner
+                                   Dundas Street East                         10                    66                  60
+    (West Face)
+                             TTC Streetcar (505 Dundas )                      10                    63                  58
+
+                                           Total                               -                    72                  65
+
+                               Jarvis Street (Northbound)                     12                    64                  57
+  Southwest Corner
+                               Jarvis Street (Southbound)                     19                    62                  55
+    (South Face)
+                                           Total                               -                    66                  59
+
+                                   Dundas Street East                         13                    65                  58
+      Northeast Corner
+        (East Face)          TTC Streetcar (505 Dundas )                      13                    62                  57
+
+                                           Total                               -                    67                  61
+
+                               Jarvis Street (Northbound)                     35                    59                   -
+  2nd and 3 rd Floors
+  Common Outdoor
+                               Jarvis Street (Southbound)                     41                    58                   -
+       Amenity
+                                           Total                               -                    61                   -
+
+                               Jarvis Street (Northbound)                     17                    51                   -
+
+                               Jarvis Street (Southbound)                     23                    52                   -
+         5th Floor
+      Private Terrace              Dundas Street East                         38                    49                   -
+
+                             TTC Streetcar (505 Dundas )                      38                    46                   -
+
+                                           Total                               -                    56                   -
+
+Notes:
+
+(1)        Daytime/nighttime receptors were taken at the top floor windows. OLA receptor was taken at 1.5 m above the top of grade.
+(2)        See Figure 2 for receptor locations.
+(3)        Distance indicated is from the centreline of the noise sources to facade or OLA.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9                  Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                           235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                                    Page 14
+
+
+
+
+                                                           TABLE 3
+
+                                  MINIMUM NOISE ABATEMENT MEASURES
+
+
+                                 Air               Exterior      Window STC                                     Warning
+        Location                                                                       Sound Barrier(4)
+                            Conditioning(1)         Wall(2)        Rating(3)                                    Clauses(5)
+
+                                                                                       minimum 1.1 m
+                                                                                      high parapet at 2nd
+      All residential                               Up to
+                               Mandatory                          up to STC 36           and 3rd floors          A+B+C
+           suites                                  STC 54
+                                                                                       outdoor amenity
+                                                                                            areas
+
+
+Notes:
+
+(1)        Where methods must be provided to allow windows to remain closed for noise control purposes, a commonly
+           used technique is that of air conditioning. Air conditioning equipment must comply with Chapter 591 (Noise)
+           of the City of Toronto Municipal Code.
+
+(2)        STC - Sound Transmission Class Rating (Reference ASTM-E413). Analyses were based upon the assumption
+           that all wall and window areas are 50% of their respective corresponding room floor areas. Requirements
+           should be checked once floor plans have been finalized and exterior wall construction details are defined.
+
+(3)        STC values are based upon the assumption that all wall and window areas are 50% of their corresponding
+           respective room floor areas. Requirements should be checked once floor plans have been finalized and
+           exterior wall construction details are defined.
+
+(4)        Sound barriers must be of solid construction with no gaps cracks or holes, and must meet a minimum surface
+           density of 20 kg/m². Suitable material can include wood, concrete metal sandwich panel, glazing or a
+           combination of these.
+
+(5)        The warning clauses to be registered on title and be included in Offers of Purchase and Sale for designated
+           lots:
+
+           A.           “Purchasers/tenants are advised that despite the inclusion of noise control features in the development
+                        and within the building units, sound levels due to increasing road traffic may on occasions interfere
+                        with some activities of the dwelling occupants as the sound levels exceed the sound level limits of the
+                        Municipality and the Ministry of the Environment.”
+
+           B.           “This dwelling unit has been supplied with a central air conditioning system which will allow windows
+                        and exterior doors to remain closed, thereby ensuring that the indoor sound levels are within the sound
+                        level limits of the Municipality and the Ministry of the Environment.”
+
+           C.           “Purchasers/occupants are advised that due to the proximity of the existing commercial developments,
+                        sound from these facilities may, at times, be audible.”
+
+(6)        All exterior doors shall be fully weatherstripped.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9                 Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289                                                                                               Page 15
+
+
+
+
+                                                    TABLE 4
+
+                 TYPICAL INDOOR NOISE CONTROL DESIGN GUIDELINES
+
+                            FOR CONTINUOUS BUILDING SERVICES(1)
+
+
+                                                                             Recommended Maximum
+                          Type of Space
+                                                                            NC (Noise Criteria) Curves(2)
+
+  Residences, Apartments, Condominiums
+        - Living areas                                                                         30
+        - Bathrooms, kitchens, utility rooms                                                   35
+  Hotels/Motels
+         - Individual rooms or suites                                                          30
+         - Meeting/banquet rooms                                                               30
+         - Corridors and lobbies                                                               40
+         - Service/support area                                                                40
+  Office Buildings
+          - Executive and private offices                                                      30
+          - Conference rooms                                                                   30
+          - Teleconference rooms                                                               25
+          - Open-plan offices                                                                  40
+          - Corridors and lobbies                                                              40
+
+
+Note:
+
+(1)      Mechanical and electrical systems.
+(2)      Taken from Reference 6. Each number rating typically represents a range of ± 5 dB for the design target.
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289
+
+
+
+
+                                       APPENDIX A
+
+                                ROAD TRAFFIC DATA
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+                                                                           City of Toronto - Traffic Safety Unit
+
+                                                                          Turning Movement Count Summary Report
+                                                                                                                                   Survey Date:            2011-May-18           (Wednesday)
+ DUNDAS ST AT JARVIS ST (PX 8)
+                                                                                                                                   Survey Type:            Routine Hours
+
+   Time         Vehicle                NORTHBOUND                            EASTBOUND                        SOUTHBOUND                                     WESTBOUND
+  Period         Type      Exits      Left Thru Right Total       Exits    Left Thru Right Total       Exits Left Thru Right           Total   Exits       Left Thru Right Total             Peds    Bike   Other
+                  CAR         830       0    706     26     732     259      45   229     52     326         990   4    890       72    966        568       48     496     79    623    N     259    36          0
+ 08:00-09:00
+                  TRK          37       1     31      1      33      17       2    16      4      22          27   0     22        3     25         18        1      14      4     19    S     152    33          0
+ AM PEAK          BUS           1       0      1      0       1      12       0    12      0      12           6   0         6     0      6         12        0      12      0     12    E     143    40          0
+                                                                                                                                                                                         W      75    23          0
+
+               TOTAL:         868       1    738     27    766      288      47   257     56     360     1,023      4   918       75    997        598        49    522     83    654
+
+                  CAR         992       1    877     23     901     608      58   582     44     684         793   3    702       72    777        377       47     304     57    408    N     499    35          0
+ 16:45-17:45
+                  TRK          12       0      5      2       7      12       6    10      0      16          13   0     12        0     12            2      1       2      1      4    S     307    19          0
+ PM PEAK          BUS           5       0      5      0       5      15       0    15      0      15           4   0         4     0      4         10        0      10      0     10    E     161    33          0
+                                                                                                                                                                                         W     125    51          0
+
+               TOTAL:       1,009       1    887     25    913      635      64   607     44     715         810    3   718       72    793        389        48    316     58    422
+
+                  CAR         756       2    644     32     678     386      47   349     72     468         787   5    679       65    749        319       36     252     65    353    N     289    33          0
+ OFF HR
+ AVG              TRK          23       0     18      1      19      21       3    20      4      27          30   0     24        1     25            9      2       8      2     12    S     178    22          0
+                  BUS           3       0      2      0       2      13       1    13      1      15           4   0         2     0      2         11        1      11      0     12    E     104    43          0
+                                                                                                                                                                                         W      87    28          0
+
+               TOTAL:         782       2    664     33    699      420      51   382     77     510         821    5   705       66    776        339        39    271     67    377
+
+                  CAR       1,575       1 1,359      43   1,403     504      77   451     97     625     1,969     10 1,789      152   1,951       996       83     843    139   1,065   N     459    73          0
+ 07:30-09:30
+                  TRK          63       1     52      5      58      44       4    39      8      51          55   0     45        5     50         33        2      27      7     36    S     264    62          0
+ 2 HR AM          BUS           9       0      7      0       7      27       1    27      0      28          11   0     10        0     10         26        1      26      1     28    E     233    75          0
+                                                                                                                                                                                         W     134    53          0
+
+               TOTAL:       1,647       2   1,418    48   1,468     575      82   517    105     704     2,035     10 1,844      157   2,011      1,055       86    896    147   1,129
+
+                  CAR       1,848       1 1,611      39   1,651    1,195    125 1,145     96   1,366     1,502     11 1,324      134   1,469       691       82     556    112    750    N     877    66          0
+ 16:00-18:00
+                  TRK          16       0      9      4      13      21       6    17      1      24          29   0     26        0     26            6      2       6      1      9    S     545    50          0
+ 2 HR PM          BUS          10       0      9      0       9      25       1    25      2      28           7   0         5     0      5         21        0      21      0     21    E     309    75          0
+                                                                                                                                                                                         W     201    98          0
+
+               TOTAL:       1,874       1   1,629    43   1,673    1,241    132 1,187     99   1,418     1,538     11 1,355      134   1,500       718        84    583    113    780
+
+                  CAR       6,446       10 5,546    211   5,767    3,241    389 2,991    481   3,861     6,617     39 5,827      545   6,411      2,961     309    2,406   511   3,226   N    2,492 269           0
+ 07:30-18:00
+                  TRK         171       1    133     14     148     148      23   134    23      180         200   0    167        7    174         73       10      65     15     90    S    1,519 201           0
+ 8 HR SUM         BUS          31       0     25      0      25     103       4   103      6     113          33   0     24        0     24         92        3      92      2     97    E     959 321            0
+                                                                                                                                                                                         W     681 261            0
+
+               TOTAL:       6,648      11   5,704   225   5,940    3,492    416 3,228    510   4,154     6,850     39 6,018      552   6,609      3,126      322   2,563   528   3,413
+
+Total 8 Hour Vehicle Volume: 20,116                                                     Total 8 Hour Bicycle Volume: 1,052                                     Total 8 Hour Intersection Volume: 21,168
+Comment:
+
+
+
+                                                                                               Page 1 of 1                                                                  Printed On: 22 Jul, 2014 10:24:33AM
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289
+
+
+
+
+                                       APPENDIX B
+
+          SUMMARY OF MOE NOISE GUIDELINES
+                     NPC-300
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289
+
+
+
+
+                                                 APPENDIX B
+
+                              ENVIRONMENTAL NOISE GUIDELINES
+
+                             MINISTRY OF THE ENVIRONMENT (MOE)
+
+Reference:        MOE Publication NPC-300, August 2013: "Environmental Noise
+                  Guideline, Stationary and Transportation Source - Approval and
+                  Planning".
+
+
+
+                   SPACE                              SOURCE                  TIME PERIOD            CRITERION
+
+
+ Living/dining, den areas of residences,                 Road                 07:00 to 23:00           45 dBA
+ hospitals, nursing homes, schools,                      Rail                 07:00 to 23:00           40 dBA
+ daycare centres, etc.                                  Aircraft              24-hour period          NEF/NEP 5
+ Living/dining, den areas of residences,                 Road                 23:00 to 07:00           45 dBA
+ hospitals, nursing homes, etc. (except                  Rail                 23:00 to 07:00           40 dBA
+ schools or daycare centres)                            Aircraft              24-hour period          NEF/NEP 5
+
+
+ Sleeping quarters                                       Road                 07:00 to 23:00           45 dBA
+                                                         Rail                 07:00 to 23:00           40 dBA
+                                                        Aircraft              24-hour period          NEF/NEP 0
+ Sleeping quarters                                       Road                 23:00 to 07:00           40 dBA
+                                                         Rail                 23:00 to 07:00           35 dBA
+                                                        Aircraft              24-hour period          NEF/NEP 0
+
+
+ Outdoor Living Areas                               Road and Rail             07:00 to 23:00            55 dBA
+
+
+ Outdoor Point of Reception                             Aircraft              24-hour period         NEF/NEP 30#
+
+                                                  Stationary Source
+                                                    Class 1 Area             07:00 to 19:00(1)          50* dBA
+                                                                             19:00 to 23:00(1)          50* dBA
+                                                    Class 2 Area             07:00 to 19:00(2)          50* dBA
+                                                                             19:00 to 23:00(2)          45* dBA
+                                                    Class 3 Area             07:00 to 19:00(3)          45* dBA
+                                                                             19:00 to 23:00(3)          40* dBA
+                                                    Class 4 Area             07:00 to 19:00(4)          55* dBA
+                                                                             19:00 to 23:00(4)          55* dBA
+
+
+                                                                                                          ....../cont'd
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                          235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289
+
+
+
+
+                     SPACE                                   SOURCE                  TIME PERIOD             CRITERION
+
+
+ Plane of a Window of                                   Stationary Source
+ Noise Sensitive Spaces                                   Class 1 Area               07:00 to 19:00(1)          50* dBA
+                                                                                     19:00 to 23:00(1)          50* dBA
+                                                                                     23:00 to 07:00(1)          45* dBA
+                                                           Class 2 Area              07:00 to 19:00(2)          50* dBA
+                                                                                     19:00 to 23:00(2)          50* dBA
+                                                                                     23:00 to 07:00(2)          45* dBA
+                                                           Class 3 Area              07:00 to 19:00(3)          45* dBA
+                                                                                     19:00 to 23:00(3)          45* dBA
+                                                                                     23:00 to 07:00(3)          40* dBA
+                                                           Class 4 Area              07:00 to 19:00(4)          60* dBA
+                                                                                     19:00 to 23:00(4)          60* dBA
+                                                                                     23:00 to 07:00(4)          55* dBA
+
+
+
+#        may not apply to in-fill or re-development.
+*        or the minimum hourly background sound exposure Leq(1), due to road traffic, if higher.
+(1)      Class 1 Area : Urban
+(2)      Class 2 Area : Urban during day; rural-like evening and night
+(3)      Class 3 Area : Rural
+(4)      Class 4 Area: Subject to land use planning authority’s approval
+
+
+
+
+Reference:          MOE Publication ISBN 0-7729-2804-5, 1987: "Environmental Noise
+                    Assessment in Land-Use Planning".
+
+
+ EXCESS ABOVE RECOMMENDED                CHANGE IN SUBJECTIVE            MAGNITUDE OF THE          NOISE CONTROL
+ SOUND LEVEL LIMITS (dBA)                LOUDNESS ABOVE                  NOISE PROBLEM             MEASURES (OR ACTION
+                                                                                                   TO BE TAKEN)
+
+ No excess (<55 dBA)                     —                               No expected noise         None
+                                                                         problem
+
+ 1 to 5 inclusive (56 to 60 dBA)         Noticeably louder               Slight noise impact       If no physical measures are
+                                                                                                   taken, then prospective
+                                                                                                   purchasers or tenants
+                                                                                                   should be made aware by
+                                                                                                   suitable warning clauses.
+
+ 6 to 10 inclusive (61 - 65 dBA)         Almost twice as loud            Definite noise impact     Recommended.
+
+ 11 to 15 inclusive (66 - 70 dBA)        Almost three times as loud      Serious noise impact      Strongly Recommended.
+
+ 16 and over (>70 dBA)                   Almost four times as loud       Very serious noise        Strongly Recommended
+                                                                         impact                    (may be mandatory).
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9                 Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289
+
+
+
+
+                                       APPENDIX C
+
+    SAMPLE SOUND EXPOSURE CALCULATION
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289
+
+
+STAMSON 5.04        NORMAL REPORT        Date: 06-08-2014 18:07:11
+MINISTRY OF THE ENVIRONMENT / NOISE ASSESSMENT
+
+Filename: nw_nf.te             Time Period: Day/Night 16/8 hours
+Description: Northwest Corner - North Facade
+
+Road data, segment # 1: Jarvis NB (day/night)
+---------------------------------------------
+Car traffic volume : 16452/1828 veh/TimePeriod *
+Medium truck volume :   255/28    veh/TimePeriod *
+Heavy truck volume :    272/30    veh/TimePeriod *
+Posted speed limit :     50 km/h
+Road gradient       :     0 %
+Road pavement       :     1 (Typical asphalt or concrete)
+
+* Refers to calculated road volumes based on the following input:
+
+     24 hr Traffic Volume (AADT or SADT):                        14583
+     Percentage of Annual Growth        :                         2.00
+     Number of Years of Growth          :                        13.00
+     Medium Truck % of Total Volume     :                         1.50
+     Heavy Truck % of Total Volume      :                         1.60
+     Day (16 hrs) % of Total Volume     :                        90.00
+
+Data for Segment # 1: Jarvis NB (day/night)
+-------------------------------------------
+Angle1   Angle2           :   0.00 deg   90.00 deg
+Wood depth                :      0       (No woods.)
+No of house rows          :      0 / 0
+Surface                   :      2       (Reflective ground surface)
+Receiver source distance : 15.00 / 15.00 m
+Receiver height           : 10.50 / 10.50 m
+Topography                :      1       (Flat/gentle slope; no barrier)
+Reference angle           :   0.00
+
+Road data, segment # 2: Jarvis SB (day/night)
+---------------------------------------------
+Car traffic volume : 16452/1828 veh/TimePeriod *
+Medium truck volume :   255/28    veh/TimePeriod *
+Heavy truck volume :    272/30    veh/TimePeriod *
+Posted speed limit :     50 km/h
+Road gradient       :     0 %
+Road pavement       :     1 (Typical asphalt or concrete)
+
+* Refers to calculated road volumes based on the following input:
+
+     24 hr Traffic Volume (AADT or SADT):                        14583
+     Percentage of Annual Growth        :                         2.00
+     Number of Years of Growth          :                        13.00
+     Medium Truck % of Total Volume     :                         1.50
+     Heavy Truck % of Total Volume      :                         1.60
+     Day (16 hrs) % of Total Volume     :                        90.00
+
+Data for Segment # 2: Jarvis SB (day/night)
+-------------------------------------------
+Angle1   Angle2           :   0.00 deg   90.00 deg
+Wood depth                :      0       (No woods.)
+No of house rows          :      0 / 0
+Surface                   :      2       (Reflective ground surface)
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289
+
+
+Receiver source distance              :    17.00 / 17.00 m
+Receiver height                       :    10.50 / 10.50 m
+Topography                            :        1       (Flat/gentle slope; no barrier)
+Reference angle                       :     0.00
+
+Road data, segment # 3: Dundas (day/night)
+------------------------------------------
+Car traffic volume : 17472/1941 veh/TimePeriod *
+Medium truck volume :   783/87    veh/TimePeriod *
+Heavy truck volume :    392/44    veh/TimePeriod *
+Posted speed limit :     50 km/h
+Road gradient       :     0 %
+Road pavement       :     1 (Typical asphalt or concrete)
+
+* Refers to calculated road volumes based on the following input:
+
+     24 hr Traffic Volume (AADT or SADT):                        16016
+     Percentage of Annual Growth        :                         2.00
+     Number of Years of Growth          :                        13.00
+     Medium Truck % of Total Volume     :                         4.20
+     Heavy Truck % of Total Volume      :                         2.10
+     Day (16 hrs) % of Total Volume     :                        90.00
+
+Data for Segment # 3: Dundas (day/night)
+----------------------------------------
+Angle1   Angle2           : -90.00 deg   90.00 deg
+Wood depth                :      0       (No woods.)
+No of house rows          :      0 / 0
+Surface                   :      2       (Reflective ground surface)
+Receiver source distance : 15.00 / 15.00 m
+Receiver height           : 10.50 / 10.50 m
+Topography                :      1       (Flat/gentle slope; no barrier)
+Reference angle           :   0.00
+
+Results segment # 1: Jarvis NB (day)
+------------------------------------
+
+Source height = 1.13 m
+
+ROAD (0.00 + 62.76 + 0.00) = 62.76 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+     0     90   0.00 65.77    0.00   0.00 -3.01    0.00   0.00   0.00 62.76
+----------------------------------------------------------------------------
+
+Segment Leq : 62.76 dBA
+
+Results segment # 2: Jarvis SB (day)
+------------------------------------
+
+Source height = 1.13 m
+
+ROAD (0.00 + 62.21 + 0.00) = 62.21 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+     0     90   0.00 65.77    0.00 -0.54 -3.01     0.00   0.00   0.00 62.21
+----------------------------------------------------------------------------
+
+Segment Leq : 62.21 dBA
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289
+
+
+Results segment # 3: Dundas (day)
+---------------------------------
+
+Source height = 1.20 m
+
+ROAD (0.00 + 67.34 + 0.00) = 67.34 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+   -90     90   0.00 67.34    0.00   0.00   0.00   0.00   0.00   0.00 67.34
+----------------------------------------------------------------------------
+
+Segment Leq : 67.34 dBA
+
+Total Leq All Segments: 69.53 dBA
+
+
+Results segment # 1: Jarvis NB (night)
+--------------------------------------
+
+Source height = 1.12 m
+
+ROAD (0.00 + 56.21 + 0.00) = 56.21 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+     0     90   0.00 59.22    0.00   0.00 -3.01    0.00   0.00   0.00 56.21
+----------------------------------------------------------------------------
+
+Segment Leq : 56.21 dBA
+
+Results segment # 2: Jarvis SB (night)
+--------------------------------------
+
+Source height = 1.12 m
+
+ROAD (0.00 + 55.66 + 0.00) = 55.66 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+     0     90   0.00 59.22    0.00 -0.54 -3.01     0.00   0.00   0.00 55.66
+----------------------------------------------------------------------------
+
+Segment Leq : 55.66 dBA
+
+Results segment # 3: Dundas (night)
+-----------------------------------
+
+Source height = 1.21 m
+
+ROAD (0.00 + 60.83 + 0.00) = 60.83 dBA
+Angle1 Angle2 Alpha RefLeq P.Adj D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------------
+   -90     90   0.00 60.83    0.00   0.00   0.00   0.00   0.00   0.00 60.83
+----------------------------------------------------------------------------
+
+Segment Leq : 60.83 dBA
+
+Total Leq All Segments: 63.00 dBA
+
+
+RT/Custom data, segment # 1: TTC Dundas (day/night)
+---------------------------------------------------
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+VALCOUSTICS CANADA LTD.                                      235 Jarvis Street & 175-191 Dundas St E/Toronto – Noise
+File: 114-289
+
+
+1 - CLRV:
+Traffic volume            :     395/61         veh/TimePeriod
+Speed                     :      50 km/h
+
+Data for Segment # 1: TTC Dundas (day/night)
+--------------------------------------------
+Angle1   Angle2           : -90.00 deg   90.00 deg
+Wood depth                :      0       (No woods.)
+No of house rows          :      0 / 0
+Surface                   :      2       (Reflective ground surface)
+Receiver source distance : 15.00 / 15.00 m
+Receiver height           : 10.50 / 10.50 m
+Topography                :      1       (Flat/gentle slope; no barrier)
+Reference angle           :   0.00
+
+Results segment # 1: TTC Dundas (day)
+-------------------------------------
+
+Source height = 0.50 m
+
+RT/Custom (0.00 + 64.59 + 0.00) = 64.59 dBA
+Angle1 Angle2 Alpha RefLeq D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------
+   -90     90   0.00 64.59    0.00   0.00   0.00   0.00   0.00 64.59
+----------------------------------------------------------------------
+
+Segment Leq : 64.59 dBA
+
+Total Leq All Segments: 64.59 dBA
+
+Results segment # 1: TTC Dundas (night)
+---------------------------------------
+
+Source height = 0.50 m
+
+RT/Custom (0.00 + 59.49 + 0.00) = 59.49 dBA
+Angle1 Angle2 Alpha RefLeq D.Adj F.Adj W.Adj H.Adj B.Adj SubLeq
+----------------------------------------------------------------------
+   -90     90   0.00 59.49    0.00   0.00   0.00   0.00   0.00 59.49
+----------------------------------------------------------------------
+
+Segment Leq : 59.49 dBA
+
+Total Leq All Segments: 59.49 dBA
+
+
+TOTAL Leq FROM ALL SOURCES (DAY): 70.74
+                         (NIGHT): 64.60
+
+Distance Adjustments:
+      - Jarvis Street            Northbound                              : + 1.35 dB
+      - Jarvis Street            Southbound                              :      0 dB
+      - Dundas Street            West                                    : + 1.76 dB
+      - TTC Streetcar            on Dundas Street West                   : + 1.76 dB
+
+TOTAL Leq FROM ALL SOURCES AFTER ADJUSTMENTS (DAY): 72.22
+                                           (NIGHT): 66.11
+
+
+
+
+30 Wertheim Court, Unit 25, Richmond Hill, Ontario L4B 1B9           Tel: 905-764-5223/E-mail: solutions@valcoustics.com
+

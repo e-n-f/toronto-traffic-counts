@@ -1,0 +1,660 @@
+NOISE AND VIBRATION FEASIBILITY STUDY
+              316 BLOOR STREET WEST
+            CITY OF TORONTO, ONTARIO
+
+                                     Prepared for:
+
+                            State Building Group
+                                Attn.: John Guanti
+                      2700 Dufferin Street, Unit 34
+                                  Toronto, Ontario
+                                          M6B 4J3
+
+                                      Prepared by
+
+
+
+
+                     Darryl McCumber, BASc, EIT
+
+
+                                               and
+
+
+
+
+                     Brian V. Chapnik, PhD, PEng
+
+
+
+
+                                 October 28, 2014
+                                                                                                                           Table of Contents
+
+1       Introduction and Summary.............................................................................................. 1 
+
+2       Site and Area Description ................................................................................................ 2 
+
+3       Noise and Vibration Criteria ............................................................................................ 3 
+     3.1  ROAD NOISE ....................................................................................................................... 3 
+     3.2  VIBRATION CRITERIA ........................................................................................................... 4 
+4       Road Traffic Noise Assessment..................................................................................... 5 
+     4.1  ROAD TRAFFIC DATA .......................................................................................................... 5 
+     4.2  ROAD TRAFFIC NOISE PREDICTIONS .................................................................................. 5 
+     4.3  TRANSPORTATION NOISE - RECOMMENDATIONS ............................................................... 6 
+        4.3.1      Ventilation Requirements ....................................................................................................................... 6 
+        4.3.2      Building Constructions .......................................................................................................................... 7 
+        4.3.3      Outdoor Living Areas (OLAs) ................................................................................................................ 7 
+5       Ground-borne Vibration Assessment........................................................................... 8 
+     5.1  SITE MEASUREMENTS ......................................................................................................... 8 
+     5.2  VIBRATION CONTROL .......................................................................................................... 9 
+6       Recommended Warning Clauses ................................................................................ 10 
+
+7       Impact of the Development on the Environment ..................................................... 11 
+
+8       Impact of the Development on Itself ........................................................................... 11 
+
+9       Implementation ................................................................................................................. 12 
+
+10  Conclusions....................................................................................................................... 12 
+
+
+FIGURE 1: KEY PLAN
+FIGURE 2: LOCATION OF SUBWAY LINES
+FIGURE 3: LOCATION OF LRT TURNAROUND LOOP
+FIGURE 4: SITE PLAN
+FIGURE 5.1 TO 5.2: MEASURED GROUND-BORNE VIBRATION LEVELS
+FIGURE 6: MEASURED SOUND LEVELS
+APPENDIX A: ROAD TRAFFIC DATA
+316 Bloor Street West, Toronto                                                              Page 1
+Noise and Vibration Feasibility Study                                             October 28, 2014
+
+
+1 Introduction and Summary
+Howe Gastmeier Chapnik Limited (HGC Engineering) was retained by State Building Group to
+perform a Noise and Vibration Feasibility Study for the proposed mixed-use development to be
+located at 316 Bloor Street West in Toronto.
+
+The site is just south of the Toronto Transit Commission’s (TTC) Bloor subway line and Spadina
+subway line, and the Spadina LRT turnaround loop borders the site to the north, east and south.
+Site measurements indicate that vibration from these sources will be below the threshold of
+tactile perceptibility, however, re-radiated sound is anticipated to be clearly audible in the new
+building unless isolation materials are introduced into the design of the foundation.
+
+Road traffic noise from Bloor Street and Spadina Road is also of concern. Appropriate sound
+insulation measures will need to be integrated into the design of the building envelope to
+maintain acceptable indoor sound levels, in accordance with MOE guidelines. Standard glazing
+assemblies are anticipated to be sufficient, assuming a typical amount of glazing within the
+suites. Noise levels in outdoor amenity areas re expected to be within the target criteria,
+assuming a standard solid parapet or railing is included.
+
+Thus, with suitable controls integrated into the building plans, it is concluded that the proposed
+development will meet MOE guidelines from the perspective of traffic noise, and reasonable
+standards with respect to subway and LRT vibration impact, and is therefore feasible. Details of
+the assessment leading to this conclusion are provided herein.
+316 Bloor Street West, Toronto                                                                Page 2
+Noise and Vibration Feasibility Study                                               October 28, 2014
+
+
+2 Site and Area Description
+The subject property is located in Toronto, just east of Spadina Road, on the north-west corner of
+the intersection of Madison Avenue and Bloor Street West. The nearby land uses include
+commercial buildings and residential buildings. The Spadina subway station is located north-
+west of the site. A public park (“Ecology Park”) separates the site from properties to the north.
+To the east of the site, the Spadina line lies directly above the Bloor line, but then turns
+northward and tunnels deeper below Ecology Park.
+
+The TTC’s Bloor and Spadina subway tunnels are located north of the development,
+approximately 15-20 m from the property line, below Ecology Park. The Spadina light rail
+transit (LRT) line accesses the Spadina station below grade, via a tunnel which includes a
+turnaround loop which abuts the site to the north and east, coming to within a few metres at some
+locations. A key plan is attached as Figure 1. The locations of the subway lines and the LRT
+turnaround loop are shown in Figures 2 and 3.
+
+There is an existing 3 storey concrete and masonry building on site, with 1 level of basement
+below. This building will be demolished to make way for the new development. According to
+the preliminary drawings dated September 24, 2014, the development will consist of a single 42-
+storey residential tower, above a 6-storey podium, over four levels of underground parking. The
+ground floor is shown to include some retail uses. The 2nd and 3rd floors are shown to include
+amenity and storage spaces. Residential suites begin on the 4th floor. Outdoor amenity areas are
+shown on the 3rd, 7th, and 43rd floors of the building. A site plan is attached as Figure 4.
+
+A site visit was conducted by HGC Engineering on September 18, 2014 to take vibration
+measurements on the site, and to see the property and the surrounding area. During the visit,
+there were no audible sounds noted from any surrounding commercial facilities. Nevertheless, a
+warning clause is recommended to inform the future residents of the potential for occasional
+audible noise from any surrounding commercial uses. The area is considered to be Class I
+(urban) in terms of its acoustical environment.
+316 Bloor Street West, Toronto                                                                Page 3
+Noise and Vibration Feasibility Study                                               October 28, 2014
+
+
+3 Noise and Vibration Criteria
+
+3.1 Road Noise
+Criteria for acceptable levels of traffic noise are contained in the Ontario Ministry of
+Environment (MOE) publication NPC-300, "Stationary and Transportation Sources - Approval
+and Planning”, October 2013. Sound level limits from road traffic sources are summarized in
+Table I below.
+                          Table I: Road Traffic Noise Criteria [dBA]
+
+   Area                                       Daytime LEQ (16 hour)        Night-time LEQ(8 hour)
+   Outdoor Living Area                                   55                          --
+   Living or dining areas of residences                  45                         45
+   Sleeping Quarters (bedrooms)                          45                         40
+
+
+Daytime refers to the period between 07:00 and 23:00. Night-time refers to the period between
+23:00 and 07:00. Living areas include dining rooms, dens, studies, etc. Kitchens, corridors and
+washrooms are usually not considered to be noise-sensitive areas.
+
+The term "Outdoor Living Area" (OLA) is used in reference to an outdoor patio, a backyard, a
+terrace, a playground, or common areas associated with high-rise multi-unit buildings where
+passive outdoor recreation is expected to occur. Balconies with a depth of less than 4 meters
+(measured perpendicular to the building façade) are not considered OLAs under MOE
+guidelines, and accordingly the noise criteria are not applicable there.
+
+In cases where a minor excess (up to 5 dB) over the sound level limit in an OLA is anticipated,
+MOE guidelines allow the excess to be addressed by including a warning clause in the titles,
+deeds or tenancy agreements for the affected dwellings. Where OLA sound levels exceed 60
+dBA, physical noise control measures, such as an acoustical barrier, are required.
+
+Where the road traffic noise level (LEQ) outside bedroom windows is greater than 60 dBA at
+night-time, windows must be designed to achieve the indoor sound level criterion of 40 dBA. In
+addition, for living room and bedroom windows, where the road traffic noise level (LEQ) is
+316 Bloor Street West, Toronto                                                                Page 4
+Noise and Vibration Feasibility Study                                               October 28, 2014
+
+
+greater than 65 dBA during the daytime, windows must be designed to achieve the indoor sound
+level criterion of 45 dBA. Otherwise, any glazing meeting the Ontario Building Code is
+considered adequate according to the MOE guidelines.
+
+Where the predicted night-time and daytime sound levels exceed the criteria, central air
+conditioning is required so that windows can remain closed against the noise.
+
+3.2 Vibration Criteria
+Vibration from the passage of the subways may be transmitted via the ground and then
+transferred up through the structure. Vibration intrusions that are potentially unacceptable in the
+residential suites could take the form of either vibration which is clearly perceptible to the touch
+and/or which produces radiated noise levels in excess of the ambient acoustic environment. From
+a vibration impact perspective, the lower residential suites are the critical receptors.
+
+Vibration levels are typically measured in terms of oscillatory velocity or acceleration. The
+levels discussed in this report are presented in dBG, which refers to decibels of acceleration
+relative to the acceleration of gravity, as a function of one-third octave band frequencies (Hz).
+The levels have been plotted against American National Standards Institute (ANSI) criteria and
+International Standards Organization (ISO) criteria – ANSI-S3.29/ISO-2631-2 – for human
+perception of tactile vibration while seated. Conformance with these criteria does not guarantee
+that vibration levels will be imperceptible to all individuals under all conditions, but is
+nonetheless a reasonable standard for acceptability. Note that these criteria are for the base
+structure only and do not account for amplification by lightweight structures, finishes, furniture,
+etc.
+
+The ANSI/ISO criteria do not address noise; vibrations at frequencies over 20 Hz are also of
+concern for re-radiated noise, even at levels well below the tactile perceptibility threshold.
+Experience suggests that while the subway pass-bys may be audible in the building to some
+extent, if the levels are confined to about NC-30 (35 dBA) or lower, the audibility of the pass-
+bys may be considered reasonable. This criterion level is similar to what is used by the TTC to
+assess the potential for intrusions from future undertakings (subway expansions), and similar to
+316 Bloor Street West, Toronto                                                               Page 5
+Noise and Vibration Feasibility Study                                              October 28, 2014
+
+
+criteria used by the US Federal Transit Administration to assess ground-borne noise intrusions
+from subways and trains.
+
+
+4 Road Traffic Noise Assessment
+
+4.1 Road Traffic Data
+Traffic data for Spadina Road and Bloor Street West was obtained from the City of Toronto, in
+the form of 8 hour turning volumes for the year 2013. The available traffic data is provided in
+Appendix A.
+
+In accordance with standard procedures, road traffic data was forecasted to the year 2024 using
+an assumed annual percentage growth rate of 2.5%. A day/night split of 90% / 10% was
+assumed. The posted speed limit of 50 km/h was used for both Spadina Road and Bloor Street
+West. Projected hourly traffic volumes are listed in Table II below.
+
+                  Table II: Projected Hourly Road Traffic Data (Year 2024)
+                                                            Medium         Heavy
+              Road Name                        Cars                                        Total
+                                                            Trucks         Trucks
+                                Daytime        1001           93             14            1108
+Bloor Street West:
+                              Night-time        223           21             3             247
+East of Spadina Road
+                                  Total        1224          114             17            1355
+Spadina Road:                   Daytime        1297           42             28            1367
+North of Bloor Street         Night-time        288            9             6             303
+West                              Total        1585           51             34            1670
+
+
+4.2 Road Traffic Noise Predictions
+To assess the levels of traffic noise which will impact the site in the future, predictions were
+made using a numerical computer modeling package (Cadna-A version 4.4.145). The model is
+based on the methods from ISO Standard 9613-2.2, “Acoustics - Attenuation of Sound During
+Propagation Outdoors”, which accounts for reduction in sound level with distance due to
+geometrical spreading, air absorption, ground attenuation and acoustical shielding by intervening
+structures.
+316 Bloor Street West, Toronto                                                              Page 6
+Noise and Vibration Feasibility Study                                             October 28, 2014
+
+
+The road noise sources have been included in the model using the basic road element included in
+Cadna-A, which follows the German guideline RLS-90 for road traffic noise predictions. The
+model road traffic values have been qualified on similar projects to be within 1-2 dBA of those
+predicted in STAMSON 5.04, a computer algorithm developed by the MOE.
+
+Predictions of overall sound levels from all road sources were made at each of the building
+facades. The highest results for each façade are summarized in Table III.
+
+
+        Table III: Predicted Future Façade Sound Levels Due to Road Traffic [dBA]
+                                           Daytime        Night-time
+                               Façade
+                                           LEQ (16 hr)     LEQ (8 hr)
+                             Tower
+                              North            58             52
+                              South            66             60
+                               West            65             58
+                               East            62             55
+                             Podium
+                              North            58             52
+                              South            68             61
+                               West            66             59
+                               East            64             57
+
+
+4.3 Transportation Noise - Recommendations
+The following discussion outlines preliminary recommendations for building façade
+constructions and ventilation requirements to achieve the noise criteria stated in Table I.
+Warning clauses are further discussed in Section 6.
+
+
+4.3.1 Ventilation Requirements
+
+At some of the building facades, the predicted night-time sound levels exceed 60 dBA and the
+daytime levels exceed 65 dBA; therefore, central air conditioning systems are required so that
+windows may remain closed.
+316 Bloor Street West, Toronto                                                               Page 7
+Noise and Vibration Feasibility Study                                              October 28, 2014
+
+
+4.3.2 Building Constructions
+
+Floor plans and elevations have not yet been sufficiently developed for the detailed acoustical
+specification of the building envelope. For the purposes of this preliminary analysis, typical
+window-to-floor areas were assumed to be 80% (i.e. 70% fixed, 10% operable relative to floor
+area). Based upon these assumptions, it was determined that the glazing along the south side of
+the development must achieve a sound transmission class (STC) rating of at least 35 in order to
+achieve the target indoor sound level criteria. Operable doors and windows must have good
+seals, selected to achieve an installed acoustical performance of at least STC-32. These
+requirements imply fairly standard glazing assemblies.
+
+Façades with less exposure to Bloor Street West and Spadina Road are somewhat less impacted,
+and accordingly a lower STC would be acceptable while still meeting the indoor targets.
+However, in an urban environment such as this, we do not typically recommend less than STC-
+34. Conversely, if more glazing is incorporated, higher STC requirements may apply.
+Acoustical criteria for different façades can be optimized as part of the detail design of the
+building envelope, if required.
+
+
+4.3.3 Outdoor Living Areas (OLAs)
+
+Outdoor amenity spaces are shown on the 3rd, 7th, and 43rd floors. These outdoor living areas are
+subject to the MOE criteria outlined in Table I.
+
+Assuming a 1.07 m high parapet or other solid perimeter barrier along the edge of these spaces,
+the predicted sound level in the centre of each space is less than 60 dBA. Thus, additional
+mitigation measures are not anticipated to be required. Balconies are not shown on the current
+drawings, but are assumed to be less than 4 m in depth; therefore, the OLA limits do not apply
+there.
+316 Bloor Street West, Toronto                                                               Page 8
+Noise and Vibration Feasibility Study                                              October 28, 2014
+
+
+5 Ground-borne Vibration Assessment
+
+5.1 Site Measurements
+To assess the potential ground-borne vibration impact on the development due to the Bloor and
+Spadina subway lines and the Spadina LRT turnaround loop, HGC Engineering measured
+vibration levels impacting the site. Vibration measurements were conducted outside at grade, and
+inside the existing building, on the basement and ground floor levels. Sound levels were
+simultaneously measured with vibration levels inside the building. Pass-bys were clearly audible
+on each floor of the building. It is clear, from the frequency of events, that most of the audible
+pass-bys were attributable to subways, however it was not possible to separately distinguish LRT
+pass-bys, either audibly or by acoustic signature.
+
+The vibration data was analyzed and compared to criteria as outlined in Section 3.2. Some
+additional predictions were also undertaken, adjusting the measured levels to account for the
+different factors likely to affect the vibration path in the new development. These adjustments
+include higher foundation losses due to coupling of the soil to the new heavier building
+foundation (i.e., assumed to be poured concrete on caissons), and floor-to-floor attenuation up to
+the first residential level (4th floor).
+
+Measured and predicted maximum vibration levels are shown in Figures 5.1 and 5.2. A curve is
+plotted on each figure representing the ANSI criteria for human perception of vibration in
+structures, up to a frequency of 63 Hz, and NC curves for audible sound at frequencies above
+that. Measured vibration levels approached the ANSI/ISO criteria for tactile perception in the
+40-63 Hz range outdoors and on the ground floor of the building, but not in the basement.
+However, vibration at audible frequencies in the 100-200 Hz range was high in the basement as
+well as outdoors. Measured vibration levels inside the building peaked at NC-40 in the audible
+range, exceeding the NC-30 criteria, and predicted vibration levels on the 4th floor, are also
+expected to meet or exceed this threshold. Thus subway (and possibly LRT) pass-bys are
+expected to be audible and at the limit of acceptability in the nearest suites on the lower levels of
+the new tower, if no vibration control measures are included.
+316 Bloor Street West, Toronto                                                               Page 9
+Noise and Vibration Feasibility Study                                              October 28, 2014
+
+
+We note that the predicted re-radiated noise corresponded reasonably well with measured sound
+levels in the basement (NC-40 to NC-45) and the ground floor (NC-35 to NC-40). Measured
+sound levels of several representative pass-bys in the basement level are shown in Figure 6. Note
+that mechanical equipment in the boiler room on this floor contributed to the ambient sound
+level at some locations.
+
+It is further noted from review of the data that measured vibration levels were highest at the
+north side of the building, with lesser levels seen on the south side, suggesting vibration from the
+subway is dominant over vibration from the LRT.
+
+5.2 Vibration Control
+As discussed above, re-radiated sound produced by subway pass-bys was clearly audible in the
+existing building on the site, and is anticipated to be audible to some extent in the proposed
+building as well, with predicted sound levels at the nearest residential suites approaching or
+potentially exceeding the target range outlined above. The actual degree of vibration
+transmission into the new structure will depend on the design of the foundation and the shoring.
+
+In this instance, the depth of the underground will be at a similar or lower level than the subway
+tunnels, rather than above the tunnels as were the locations where the measurements were
+conducted on the site, at grade and in the existing basement. If no isolation material is provided,
+vibration in the soil will transmit effectively into the foundation walls, which will couple into the
+parking slabs and thus be transmitted into the building structure (reducing with distance up the
+building and resulting in some low-level audibility in the nearest suites, as discussed above).
+Consideration can be given to integrating some vibration isolation materials to help reduce or
+eliminate the audible noise. In this case, the isolation materials would likely be deployed
+mainly along the north side of the site, wrapping back for some distance along the east and west
+sides, with potentially more extensive treatment along the east side and the south-east corner to
+address the LRT tunnel. Given the complexity of the various tunnels around this site, additional
+vibration measurements on the shoring walls after excavation is complete would be helpful to
+optimize the recommended extent of the applied treatments.
+316 Bloor Street West, Toronto                                                                Page 10
+Noise and Vibration Feasibility Study                                                October 28, 2014
+
+
+With respect to isolation methods, one possible approach is to use bridge bearing pads to
+separate the parking slabs from the foundation wall, suitably designed to provide a reasonable
+degree of isolation while at the same time resisting the horizontal and vertical loads at the
+foundation wall. Another approach that could be considered is to place a resilient sheet materials
+(e.g., 75 mm thick Ethafoam slabs or similar) between the foundation wall and the shoring wall.
+This approach requires additional columns at the perimeter to support the slab edge. This latter
+method is generally more effective where the shoring system includes a caisson wall, as
+otherwise the footings of the foundation wall are exposed and this limits the performance of the
+system. In either case, the pads or the resilient sheet materials will have to be carefully selected
+based on the soil and structural loading to ensure that the proper stiffness is achieved and that
+they are not crushed. Selected measures can be developed further, as required, during detail
+design.
+
+As outlined above, the criteria for both sound and vibration are considered to be reasonable
+standards for acceptability. However, conformance with these standards does not imply that
+vibration levels will be imperceptible and/or sound levels will be inaudible. Therefore,
+consideration should be given to including warning clauses in all sales or rental agreements, and
+in development agreements with the municipality.
+
+
+
+6 Recommended Warning Clauses
+MOE guidelines recommend that appropriate warning clauses be included in the development
+agreements registered on property titles, and in purchase and sale agreements or tenancy
+agreements of properties where anticipated traffic sound level excesses are identified. The actual
+wording of the warning clause depends on the nature of the excess, and may be altered as
+necessary to suit the City’s requirements, or as recommended by the owner’s legal advisors. For
+this site, several clauses are recommended as follows:
+
+(a)       Purchasers/tenants are advised that despite the inclusion of noise control features in
+          the development and within the building units, sound levels due to increasing road
+          traffic may on occasion interfere with some activities of the dwelling occupants as
+          the sound levels exceed the Municipality’s and the Ministry of the Environment’s
+316 Bloor Street West, Toronto                                                             Page 11
+Noise and Vibration Feasibility Study                                             October 28, 2014
+
+
+       noise criteria. This building has been supplied with a central air conditioning system
+       which will allow windows and exterior doors to remain closed, thereby ensuring that
+       the indoor sound levels are within the Ministry of Environment’s noise criteria.
+(b)    This development is located adjacent to the Toronto Transit Commission’s Bloor and
+       Spadina subway lines and Spadina LRT. Noise and vibration from subway and LRT
+       operations may occasionally be perceptible and/or audible in the dwelling units.
+(c)    Purchasers/tenants are advised that due to the proximity of this development to
+       nearby retail and commercial facilities, sound levels from the facilities may at times
+       be audible.
+
+
+7 Impact of the Development on the Environment
+It is expected that any increase in local traffic associated with the development will not be
+substantial enough to affect area noise levels significantly.
+
+Criteria for acceptable noise emissions from building mechanical and electrical equipment are
+provided by City of Toronto Municipal Code, Chapter 591, and MOE Publication NPC-300, and
+should be taken into account during the detail design of the building. At the time of this study,
+the design of the proposed building was in its initial stages, and the mechanical and electrical
+systems had not yet been developed. An acoustical consultant should review the design of the
+mechanical and electrical building systems and the equipment selections when they have been
+determined, to help ensure that the noise levels emitted by the development to the environment
+will meet the City of Toronto by-law requirements, as well as any MOE requirements.
+
+
+8 Impact of the Development on Itself
+The impact of the development on itself can be categorized into noise intrusions transmitted
+between adjacent spaces, and noise generated by mechanical and/or electrical systems, or other
+equipment within the building.
+
+The Ontario Building Code (OBC) specifies the minimum required sound insulation
+characteristics for demising partitions, in terms of Sound Transmission Class (STC) values. In
+order to maintain adequate acoustical privacy between separate suites in a multi-tenant building,
+inter-suite demising assemblies must meet or exceed STC-50. Walls separating a suite from a
+noisy space such as a refuse chute, or elevator shaft, must meet or exceed STC-55. In addition, it
+316 Bloor Street West, Toronto                                                              Page 12
+Noise and Vibration Feasibility Study                                              October 28, 2014
+
+
+is recommended that the floor/ceiling constructions separating suites from amenity spaces and
+retail spaces also meet or exceed STC-55. It is generally recommended that partitions be selected
+3 to 4 points above these requirements so that performance in the field meets these minimum
+specifications.
+
+In addition to the partition selections, as the design and selection of the building mechanical
+systems are completed, they should be reviewed by a qualified acoustical consultant, to help
+ensure that these systems do not result in excessive noise intrusions in the occupied areas of the
+building.
+
+
+9 Implementation
+Upon review and approval of this feasibility study by the City, all recommendations set forth in
+the study should be secured through the Conditions of Site Plan Approval, to the satisfaction of
+the City.
+
+Prior to the issuance of occupancy permits for this development, the City’s building inspector or
+a Professional Engineer qualified to perform acoustical engineering services in the province of
+Ontario should certify that the noise control measures have been properly incorporated, installed,
+and constructed.
+
+
+10 Conclusions
+Measurements and modelling have been undertaken to assess the noise and vibration impact of
+surrounding sources on the proposed mixed-use development at 316 Bloor Street West in
+Toronto. Road traffic on Bloor Street West and Spadina Road generates moderate levels of
+noise, which must be mitigated by including glazing assemblies with reasonable sound insulation
+performance as recommended in Section 4.3.2. Vibration from LRT and subway pass-bys has
+been assessed, and while low-frequency vibrations perceptible to the touch are expected to be
+within acceptable limits, re-radiated audbile noise levels are anticipated to meet or exceed the
+target criteria at the nearest residential suites. Consideration can be given to including isolation
+measures in the design of the building foundations to address these impacts.
+316 Bloor Street West, Toronto                                                    Page 13
+Noise and Vibration Feasibility Study                                    October 28, 2014
+
+
+
+
+                                            Madison Pub            Ecology
+                                            and Hotel              Park
+
+
+
+                                                                      Spadina
+                                                                      Subway Line
+
+
+
+
+                                                                       Bloor
+                                                                       Subway Line
+                                  Spadina
+                                  Station
+
+                                                     Site
+
+
+
+
+                     Low-rise
+                     commercial
+                     buildings                                       High-rise office
+                                                                     building
+
+
+
+        Figure 1: Key Plan showing subject site and nearby transportation sources.
+316 Bloor Street West, Toronto                                                 Page 14
+Noise and Vibration Feasibility Study                                 October 28, 2014
+
+
+
+
+                                                                Spadina
+                                                                Subway Line
+
+
+
+
+                                                                 Bloor
+                                                                 Subway Line
+
+
+                                                                     Site
+
+
+
+
+                              Figure 2: Subway Line Locations
+316 Bloor Street West, Toronto                                             Page 15
+Noise and Vibration Feasibility Study                             October 28, 2014
+
+
+
+
+                                                                               Site
+
+
+
+
+                        Figure 3: LRT Turnaround Loop Location.
+316 Bloor Street West, Toronto                                         Page 16
+Noise and Vibration Feasibility Study                         October 28, 2014
+
+
+
+
+                                        Figure 4: Site Plan
+316 Bloor Street West, Toronto                                                  Page 17
+Noise and Vibration Feasibility Study                                  October 28, 2014
+
+
+
+
+              Figure 5.1: Vibration Levels and Reference Curves – Outdoors
+
+
+
+
+    Figure 5.2: Vibration Levels and Reference Curves – Basement and Ground Floor
+316 Bloor Street West, Toronto                                                 Page 18
+Noise and Vibration Feasibility Study                                 October 28, 2014
+
+
+
+
+           Figure 6: Measured Sound Levels – Basement (Average over Pass-by)
+316 Bloor Street West, Toronto                         Page 19
+Noise and Vibration Feasibility Study         October 28, 2014
+
+
+
+
+                               APPENDIX A
+                          Road Traffic Data
+                                                                            City of Toronto - Traffic Safety Unit
+
+                                                                           Turning Movement Count Summary Report
+                                                                                                                                    Survey Date:            2013-Aug-15           (Thursday)
+ BLOOR ST AT SPADINA AVE & SPADINA RD (PX 281)
+                                                                                                                                    Survey Type:            Routine Hours
+
+   Time         Vehicle                NORTHBOUND                             EASTBOUND                        SOUTHBOUND                                     WESTBOUND
+  Period         Type      Exits      Left Thru Right Total        Exits    Left Thru Right Total       Exits Left Thru Right           Total   Exits       Left Thru Right Total             Peds     Bike   Other
+                  CAR         285       44    205     86     335    1,042     52   841     84     977         674   115   524      35    674        325       66     246     28    340    N     316     16      0
+ 08:15-09:15
+                  TRK          10        1      8      3      12      34       2    27      5      34          16     4       8     2     14         14        3      11      0     14    S     195     50      0
+ AM PEAK          BUS          27        0     27      0      27       0       0     0      0       0          35     0    33       0     33            0      2       0      0      2    E     323 127         0
+                                                                                                                                                                                          W     399 41          0
+
+               TOTAL:         322      45     240     89    374     1,076     54   868     89   1,011         725   119   565      37    721        339        71    257     28    356
+
+                  CAR         642       83    514     89     686     490      39   379     57     475         426    22   270      42    334        650       99     525     89    713    N     762     47      0
+ 17:00-18:00
+                  TRK           6        1      3      0       4       3       0     3      0       3           4     0       3     0      3         10        1       9      3     13    S     583     29      0
+ PM PEAK          BUS          40        0     36      0      36      10       0     2      2       4          38     8    36       0     44            2      0       2      4      6    E     535 78          0
+                                                                                                                                                                                          W     592 177         0
+
+               TOTAL:         688      84     553     89    726      503      39   384     59     482         468    30   309      42    381        662       100    536     96    732
+
+                  CAR         369       53    268    102     423     539      47   374     60     481         441    63   295      47    405        385       86     285     54    425    N     543     18      0
+ OFF HR
+ AVG              TRK          15        4      9      5      18      28       2    19      5      26          16     4       6     2     12         25        5      19      4     28    S     359     24      0
+                  BUS          34        1     28      2      31       8       0     1      0       1          29     5    27       0     32            2      2       1      6      9    E     297     78      0
+                                                                                                                                                                                          W     376     62      0
+
+               TOTAL:         418      58     305    109    472      575      49   394     65     508         486    72   328      49    449        412        93    305     64    462
+
+                  CAR         541       88    371    159     618    1,845     99 1,494    147   1,740     1,234     192   951      63   1,206       651      136     500     71    707    N     541     27      0
+ 07:30-09:30
+                  TRK          24        5     13      9      27      68       5    52      5      62          31     7    19       4     30         40        7      31      6     44    S     310     85      0
+ 2 HR AM          BUS          52        1     51      0      52       0       0     0      0       0          66     0    62       0     62            2      4       1      1      6    E     503 185         0
+                                                                                                                                                                                          W     631 76          0
+
+               TOTAL:         617      94     435    168    697     1,913    104 1,546    152   1,802     1,331     199 1,032      67   1,298       693       147    532     78    757
+
+                  CAR       1,213      163    969    191   1,323     998      86   739    110     935         817    68   528      87    683       1,244     179     994    158   1,331   N    1,444    72      0
+ 16:00-18:00
+                  TRK          13        3      7      5      15      18       0    11      1      12           9     2       6     0      8         25        2      22      6     30    S    1,070    59      0
+ 2 HR PM          BUS          81        0     72      2      74      16       0     2      2       4          72    12    70       0     82            3      0       3      9     12    E    1,038 158        0
+                                                                                                                                                                                          W    1,138 286        0
+
+               TOTAL:       1,307     166    1,048   198   1,412    1,032     86   752    113     951         898    82   604      87    773       1,272      181   1,019   173   1,373
+
+                  CAR       3,229      462 2,413     759   3,634    4,998    373 3,729    495   4,597     3,813     510 2,659     339   3,508      3,434     659    2,633   443   3,735   N    4,157 172        0
+ 07:30-18:00
+                  TRK          98       23     56     34     113     194      14   137    25      176         103    23    49      10     82        161       29     128     28    185    S    2,814 241        0
+ 8 HR SUM         BUS         266        6    234      9     249      45       0     6      3       9         252    30   239       1    270         15       10       8     32     50    E    2,730 655        0
+                                                                                                                                                                                          W    3,274 608        0
+
+               TOTAL:       3,593     491    2,703   802   3,996    5,237    387 3,872    523   4,782     4,168     563 2,947     350   3,860      3,610      698   2,769   503   3,970
+
+Total 8 Hour Vehicle Volume: 16,608                                                      Total 8 Hour Bicycle Volume: 1,676                                     Total 8 Hour Intersection Volume: 18,284
+Comment:
+
+
+
+                                                                                                Page 1 of 1                                                                  Printed On: 22 Sep, 2014 11:25:14AM
+

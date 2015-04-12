@@ -1,0 +1,1190 @@
+              Noise and Vibration Feasibility Study
+On the Park, Leslie Street and Eglinton Avenue East
+                                  Toronto, Ontario
+
+
+                                              Prepared for:
+                                              Deltera Inc.
+                                       4800 Dufferin Street
+                                          Toronto, Ontario
+                                                 M3H 5S9
+
+                                              Prepared by
+
+
+
+
+                                  Sheeba Paul, MEng, PEng
+
+
+
+                                              Reviewed by
+
+
+
+
+                                  Brian Chapnik, PhD, PEng
+
+
+
+                                           January 19, 2015
+                                                                        CONTENTS
+
+1    INTRODUCTION AND SUMMARY................................................................................. 1 
+2    SITE AND AREA DESCRIPTION ..................................................................................... 2 
+3    NOISE AND VIBRATION CRITERIA ............................................................................. 3 
+  3.1  ROAD AND RAIL NOISE ........................................................................................................ 3 
+  3.2  GROUND-BORNE VIBRATION ............................................................................................... 4 
+  3.3  RAILWAY CONDITIONS FOR RESIDENTIAL DEVELOPMENTS ................................................. 5 
+4  TRANSPORTATION NOISE ............................................................................................. 5 
+  4.1  ROAD TRAFFIC DATA........................................................................................................... 5 
+  4.2  RAIL TRAFFIC DATA ............................................................................................................ 6 
+  4.3  TRANSPORTATION NOISE PREDICTIONS ............................................................................... 6 
+  4.4  TRANSPORTATION NOISE - RECOMMENDATIONS ................................................................. 8 
+      4.5.1  Outdoor Living Areas ............................................................................................................................ 8 
+      4.5.2  Ventilation Requirements ....................................................................................................................... 8 
+      4.5.3  Building Constructions .......................................................................................................................... 8 
+      Exterior Wall Constructions................................................................................................................................. 9 
+      Glazing ................................................................................................................................................................. 9 
+      4.5.4  Warning Clauses .................................................................................................................................. 10 
+5    GROUND-BORNE VIBRATION ASSESSMENT .......................................................... 11 
+  5.1  SITE MEASUREMENTS ........................................................................................................ 11 
+6  IMPLEMENTATION ........................................................................................................ 12 
+7  CONCLUSIONS ................................................................................................................. 12 
+
+FIGURE 1: KEY PLAN
+FIGURE 2A: SITE PLAN
+FIGURE 2B: OUTDOOR AMENITY SPACE BARRIER REQUIREMENTS
+FIGURE 3: VIBRATION MEASUREMENT LOCATIONS
+FIGURE 4: VIBRATION LEVELS AND REFERENCE CURVES
+
+APPENDIX A: RAIL TRAFFIC DATA
+APPENDIX B: RAIL GUIDELINES
+APPENDIX C: ROAD TRAFFIC DATA
+Deltera Inc., On the Park                                                                 Page 1
+Leslie Street and Eglinton Ave E, Toronto, ON                                    January 19, 2015
+
+
+1   INTRODUCTION AND SUMMARY
+HGC Engineering was retained by Deltera Inc. to perform a Noise and Vibration Feasibility
+Study for a proposed mixed-use development to be located on the east side of Leslie Street and
+north of Eglinton Avenue East in the City of Toronto, to support an application for rezoning
+(ZBA) and Plan of Subdivision. The site is also on the west side of a Canadian Pacific (CP)
+railway line.
+Road traffic on Eglinton Avenue East, Leslie Street, rail traffic on the CP railway line and future
+GO Transit operations on the railway corridor to the east are considered as the main sources of
+transportation noise in this area, with road traffic on Don Mills Road and the Don Valley
+Parkway (DVP) being secondary. Noise from these transportation sources requires that
+appropriate sound insulation measures be considered for integration into the design of the
+building envelope to maintain acceptable indoor sound levels. These requirements will be met
+through the use of appropriate wall and glazing assemblies, which will be implemented during
+the building design.
+Predicted sound levels in the large outdoor amenity space on the 4th floor between Tower A and
+Tower B facing the railway exceed MOE criteria. A 3.0 m high barrier is required in order to
+reduce sound levels to within acceptable limits. A 1.1 m high barrier is required for the amenity
+areas at the northwest and southwest of Towers A and B.
+Vibration levels measured at the development site indicate that ground-borne vibrations from the
+rail corridor to the east satisfy the CP criteria. Additional isolation measures are not anticipated
+to be required to mitigate vibration from rail pass-bys.
+Thus, with suitable controls integrated into the building plans, the proposed development is
+anticipated to meet MOE and CP guidelines for traffic noise impact. Details of the assessment
+leading to this conclusion are provided herein.
+Deltera Inc., On the Park                                                                  Page 2
+Leslie Street and Eglinton Ave E, Toronto, ON                                     January 19, 2015
+
+
+2   SITE AND AREA DESCRIPTION
+The site is located east of Leslie Street, north of Eglinton Avenue East and west of the CP
+railway line. Don Mills Road and the DVP are beyond. An embankment, approximately 5 to 11
+metres tall, separates the site from Eglinton Avenue East. An embankment, approximately 7.5
+metres tall, separates the site from Leslie Street. The railway tracks are approximately 12 m east
+of the site and approximately 20 m east of the closest building wall. A key plan is attached as
+Figure 1.
+There are five existing buildings to the north of the site, including a 2-storey Fire Hall, 13-storey,
+16-storey and 20-storey residential buildings and 2-storey parking structure. There are three
+existing buildings to the south of the subject site containing car dealerships (Toyota on the Park
+and Lexus on the Park). Currently on the site is the Inn on the Park hotel building and
+convention centre, which are in the process of being demolished to make way for the new
+development. The area is considered to be Class I (urban) in terms of its acoustical environment.
+The railway corridor to the east of the site is a principal mainline operated by CP railway and
+includes two tracks. The railway line is a combination of the North Toronto Subdivision and the
+Bala Subdivision. The North Toronto Subdivision is a line that runs in parallel to Dupont Street
+and currently includes freight trains only. As indicated by GO Transit personnel there are no GO
+Trains on the North Toronto corridor but to protect future operations, future GO Trains have
+been considered. The Bala Subdivision has two tracks. One track splits north of Gerrard Street
+and goes eastward away from the subject site. The second track of the Bala Subdivision runs
+north south runs alongside the subject site. The Bala Subdivision (GO Richmond Hill line) is
+located beyond 300 m of the subject site and therefore the GO Trains on this line have not been
+included in the analysis. The Bala Subdivision includes operations of the Ontario Northland
+Railway (ONR), which operates a couple of freight trains during the daytime hours and CP rail
+that includes freight trains during the nighttime hours.
+A site plan dated December 3, 2014 was provided to us electronically. These drawings indicate
+that the development includes four towers (Tower A is 29-storeys, Tower B is 39-storeys, Tower
+C is 34-storeys and Tower D is 28-storeys) above 3-storey podiums. There are two blocks of 3-
+storey townhouses in the centre of the development and 1-storey townhouses along Leslie Street
+incorporated into the podium of Tower D. Residential suites are shown throughout the
+development. The ground floor of Tower D shows some retail spaces.
+A site plan prepared by Graziani + Corazza Architects Inc. is attached as Figure 2A. Outdoor
+amenity areas are shown at ground level, east of the townhouses, on the roof of the 1-storey
+portion between Tower C and Tower D, on the roof of the podium at the southwest and
+northwest corners of Tower A and Tower B and on the roof of the 3-storey parking garage next
+to the railway.
+Deltera Inc., On the Park                                                               Page 3
+Leslie Street and Eglinton Ave E, Toronto, ON                                  January 19, 2015
+
+Site visits were conducted by HGC Engineering on November 28, 2014 and December 5, 2014
+to take vibration measurements on site, and to observe the property and surrounding areas. Two
+car dealerships neighbour the development site on the south side. During our visit, no audible
+noise from the car dealership buildings was detected. Nevertheless, a warning clause to inform
+the future residents of the potential for occasional audible noise is recommended.
+
+
+3   NOISE AND VIBRATION CRITERIA
+
+3.1 Road and Rail Noise
+Criteria for acceptable levels of traffic noise are contained in the Ontario Ministry of
+Environment (MOE) publication NPC-300, "Environmental Noise Guideline: Stationary and
+Transportation Sources - Approval and Planning”, October 2013. Sound level limits from road
+and rail traffic sources are summarized in Table I below.
+                      Table I: Road/Rail Traffic Noise Criteria [dBA]
+
+    Area                                    Daytime LEQ (16 hour)     Night-time LEQ(8 hour)
+
+    Outdoor Living Area                               55                         --
+    Living or dining areas of residences            45 / 40                   45 /40
+    Sleeping Quarters (bedrooms)                    45 / 40                   40 / 35
+
+
+Daytime refers to the period between 07:00 and 23:00. Night-time refers to the period between
+23:00 and 07:00. Living areas include dining rooms, dens, studies, etc. Corridors and washrooms
+are usually not considered to be noise-sensitive areas.
+The term "Outdoor Living Area" (OLA) is used in reference to an outdoor patio, a backyard, a
+terrace, a playground, or common areas associated with high-rise multi-unit buildings where
+passive outdoor recreation is expected to occur. Balconies with a depth of less than 4 meters
+(measured perpendicular to the building façade) are not considered OLAs under MOE
+guidelines, and accordingly the noise criteria are not applicable there.
+In cases where a minor excess (up to 5 dB) over the sound level limit in an OLA is anticipated,
+MOE guidelines allow the excess to be addressed by including a warning clause in the titles,
+deeds or tenancy agreements for the affected dwellings. Where OLA sound levels exceed 60
+dBA, physical noise control measures, such as an acoustical barrier, are required.
+Where the road traffic noise level (LEQ) outside bedroom windows is greater than 60 dBA at
+night-time, windows must be designed to achieve the indoor sound level criterion of 40 dBA. In
+addition, for living room and bedroom windows, where the road traffic noise level (LEQ) is
+Deltera Inc., On the Park                                                                 Page 4
+Leslie Street and Eglinton Ave E, Toronto, ON                                    January 19, 2015
+
+greater than 65 dBA during the daytime, windows must be designed to achieve the indoor sound
+level criterion of 45 dBA. Otherwise, any glazing meeting the Ontario Building Code is
+considered adequate under MOE guidelines.
+The indoor and outdoor sound level limits for rail sources are 5 dB more stringent than for road
+sources, to account for the additional low-frequency (rumble) components of locomotives, hence
+the façade sound insulation requirements are calculated separately and then combined.
+Where the predicted night-time and daytime sound levels exceed the criteria, central air
+conditioning is required so that windows can remain closed against the noise.
+
+3.2 Ground-Borne Vibration
+Criteria for rail vibrations are not provided by the MOE, but are stipulated in guideline
+documents circulated by CP railway and GO Transit (see Appendix B). These guidelines require
+that a vibration assessment be performed for any dwelling within 75 m of the railway right-of-
+way, and that measured levels on the site during any part of a train pass-by should not exceed
+0.14 mm/s. Further, GO stipulate that where measured levels on the ground exceed this
+threshold, isolation measures will be required to ensure that vibration levels impacting
+residential living areas do not exceed 0.14 mm/s (RMS).
+Vibration levels are typically measured in terms of oscillatory velocity or acceleration. The
+levels discussed in this report are presented in dBG, which refers to decibels of acceleration
+relative to the acceleration of gravity, as a function of one-third octave band frequencies (Hz).
+The levels have been plotted against American National Standards Institute (ANSI) criteria and
+International Standards Organization (ISO) criteria – ANSI-S3.29/ISO-2631-2 – for human
+perception of tactile vibration while seated. Conformance with these criteria does not guarantee
+that vibration levels will be imperceptible to all individuals under all conditions, but is
+nonetheless a reasonable standard for acceptability. Note that these criteria are for the base
+structure only and do not account for amplification by lightweight structures, finishes, furniture,
+etc.
+The ANSI/ISO criteria do not address noise; vibrations at frequencies over 20 Hz are also of
+concern for re-radiated noise, even at levels well below the tactile perceptibility threshold.
+Experience suggests that while the train pass-bys may be audible in the building to some extent,
+if the levels are confined to about NC-30 (35 dBA) or lower, the audibility of the pass-bys may
+be considered reasonable. This is consistent with criteria used by the US Federal Transit
+Administration to assess ground-borne noise intrusions from subways and trains.
+    Deltera Inc., On the Park                                                                Page 5
+    Leslie Street and Eglinton Ave E, Toronto, ON                                   January 19, 2015
+
+    3.3 Railway Conditions for Residential Developments
+    Notwithstanding the noise and vibration criteria outlined above, CP railway and GO Transit
+    publish a recommended list of generic conditions, including specific setbacks, berm heights, and
+    warning clauses, to reduce the incompatibility of residential developments adjacent or in
+    proximity to the railway right-of-way. A copy of this list is included in Appendix B of this
+    report. Some of the listed items relate to noise and vibration control.
+
+
+    4    TRANSPORTATION NOISE
+
+    4.1 Road Traffic Data
+    Traffic data for the key roads in the vicinity of the site were recently obtained from the City of
+    Toronto Traffic Safety Unit and are provided in Appendix C. These data were provided in the
+    form of 24-hour counts and turning movement counts. Traffic volumes were conservatively
+    assumed to grow at a typical rate of 2.5%/year on all roadways, and future average daytime
+    (07:00 to 23:00) and night-time (23:00 to 07:00) hourly volumes that will exist in 10 years
+    (2025) were calculated. An assumed day/night split of 90%/10% was used for roadways without
+    24-hour traffic data. Commercial percentages were calculated based on turning movement
+    counts, or were assumed based on previous experience, where not available. The posted speed
+    limit on most of the roadways is 60 km/h with the exception of the Don Valley Parkway which
+    has a posted speed limit of 90 km/h. Smaller roadways were not included in this study, as traffic
+    on these small roadways is anticipated to be acoustically insignificant when compared to the
+    other major roadways. Table II summarizes the future traffic volume data used in this study.
+                            Table II: 2025 Projected Road Traffic Data
+                                              Day (Hourly Average         Night (Hourly Average
+                                                                                                     Speed
+                 Location                         7am-11pm)                   11pm – 7am)
+                                                                                                     (kph)
+                                            Cars   Trucks    Truck %     Cars   Trucks   Truck %
+Eglinton Avenue East                        2982      69       2.3 %     648      15        2.3%         60
+Leslie Street                                941      22       2.3 %     209       5        2.3%         60
+Don Mills Road                              2197      68        3%       488      15        3%           60
+Don Valley Parkway northbound               3686     551       13 %      631      94        13 %         90
+Don Valley Parkway southbound               2435     364       13 %      675      101       13 %         90
+Deltera Inc., On the Park                                                                                Page 6
+Leslie Street and Eglinton Ave E, Toronto, ON                                                   January 19, 2015
+
+4.2 Rail Traffic Data
+Rail traffic data for the North Toronto Subdivision was obtained from similar projects along the
+same railway line and was originally obtained from Canadian Pacific Railway (provided in
+Appendix A). As indicated by GO Transit personnel, currently there are no GO Trains operating
+on the North Toronto line, but to protect their future operations, GO trains have been considered.
+For GO trains, “ultimate” future volumes were supplied by GO transit, and these volumes were
+used in this analysis. Rail traffic data for the Bala Subdivision was obtained from similar projects
+along the railway line and was originally obtained from CP railway and ONR. The Bala
+Subdivision includes freight train traffic from the ONR and CP. The maximum speed, as well as
+the average number of cars and locomotives per train was used in the traffic noise analysis to
+yield a worst cast estimate of train noise. The data was projected to the year 2025 using a 2.5%
+per year growth rate. The rail volumes used in this study are summarized in Table III.
+
+
+                                    Table III: Future Rail Traffic Data
+                                                               Average No.
+                                     No. of    No. of                              Average No.
+                      Type of                                  of Pass-bys
+  Subdivision                       engines     cars                                Pass-bys         Speed (km/h)
+                       Train                                     (07:00-
+                                   (average) (average)                            (23:00-07:00)
+                                                                  23:00)
+                       ONR              2             3              2.7                 0                  96
+      Bala*
+                        CPR             2            15              0                  2.7                 96
+     North              GO              1            10              36                  4                  72
+    Toronto+             CP             2            41              40                 19                  72
+Note:
+* This track is used for occasional freight traffic from CP and ONR to and from downtown Toronto.
++ This is an extension of the busy CP freight line that runs along Dupont Street. There are future provisions to use
+this line for GO Transit commuter traffic.
+
+
+4.3 Transportation Noise Predictions
+To assess the levels of traffic noise which will impact the site in the future, predictions were
+made using a numerical computer modelling package (Cadna-A version 4.4.145). The model is
+based on the methods from ISO Standard 9613-2.2, “Acoustics - Attenuation of Sound During
+Propagation Outdoors”, which accounts for reduction in sound level with distance due to
+geometrical spreading, air absorption, ground attenuation and acoustical shielding by intervening
+structures.
+Deltera Inc., On the Park                                                               Page 7
+Leslie Street and Eglinton Ave E, Toronto, ON                                  January 19, 2015
+
+The rail lines were included in the model as line sources with sound power levels equivalent to
+those published by the MOE in the publication entitled, “Sound from Trains – Environmental
+Analysis Method (STEAM)”, predicted using STAMSON 5.04, a computer algorithm developed
+by the MOE. The road noise sources have been included in the model using the basic road
+element included in Cadna-A, which follows the German guideline RLS-90 for road traffic noise
+predictions. Past experience suggests that train sound levels predicted by STEAM are
+conservative, while road sound levels predicted by RLS-90 are reasonably accurate. The model
+road traffic values have been qualified on this project and similar projects to be within 1-2 dBA
+of those predicted in STAMSON 5.04.
+Predictions of overall sound levels from all road/rail sources were made at representative facades
+of each building in the proposed development. The results of these predictions are summarized in
+Table IV.
+       Table IV: Maximum Sound Level Predictions [dBA] from Future Traffic
+                             Day (Average Hour 7am-11pm)        Night (Average Hour 11pm-7am)
+ Location    Description
+                             Road         Rail        Total       Road        Rail        Total
+
+                North          56          68          68          50          69          69
+                 East          59          71          71          52          71          71
+ Tower A
+                South          55          64          64          48          64          64
+                 West          55          52          56          48          53          54
+
+                North          57          69          69          50          69          69
+                 East          60          72          72          53          72          72
+ Tower B
+                South          58          68          68          53          68          68
+                 West          58          59          61          51          60          60
+
+ Tower C        South          59          62          63          52          62          62
+
+ Tower D         West          66          42          66          59          42          59
+
+Townhouses      North          52          55          57          45          55          56
+
+
+
+Rail traffic noise is anticipated to be dominant with lesser contributions from Eglinton Avenue
+East and Leslie Street.
+Deltera Inc., On the Park                                                                Page 8
+Leslie Street and Eglinton Ave E, Toronto, ON                                   January 19, 2015
+
+4.4 Transportation Noise - Recommendations
+The following discussion outlines preliminary recommendations for barriers, building façade
+constructions, alternative ventilation requirements, and warning clauses to achieve the noise
+criteria stated in Table I.
+4.5.1   Outdoor Living Areas
+The main outdoor amenity space is a public walkway and outdoor amenity between the
+townhouses and Tower A. The predicted sound level is less than 55 dBA in this area due to
+shielding provided by the proposed and existing buildings.
+The predicted sound levels in the outdoor amenity areas on the 3rd floor roof at the southwest and
+northwest corners of Tower A and Tower B, and on the roof of the 3-storey parking garage next
+to the railway, exceed 60 dBA. Calculations indicate a 1.1 m high barrier would be required at
+the southwest and northwest amenity areas to reduce the sound level to less than 60 dBA (See
+Figure 2B). Calculations indicate a 3.0 m high barrier would be required on the 3rd floor roof of
+the podium between Tower A and Tower B facing the railway line (see Figure 2B) to reduce
+sound levels to 60 dBA.
+The remaining balconies and private terraces in the development all appear to be less than 4 m in
+depth; therefore, the OLA limits do not apply.
+4.5.2   Ventilation Requirements
+The predicted night-time sound levels at most building facades exceed 60 dBA, and thus central
+air conditioning systems are required so that windows may remain closed.
+The predicted nighttime sound levels at the 3-storey townhouses in the center of the site are less
+than 60 dBA and forced air ventilation systems with ductwork sized for the future installation of
+central air conditioning by the occupant is required so that windows may remain closed.
+Installation of central air conditioning systems meets and exceeds the requirement.
+4.5.3   Building Constructions
+Floor plans and elevations have not yet been sufficiently developed for the detailed acoustical
+specification of the building envelope.
+Deltera Inc., On the Park                                                                             Page 9
+Leslie Street and Eglinton Ave E, Toronto, ON                                                January 19, 2015
+
+Exterior Wall Constructions
+Elevation drawings are not yet available, but the building exterior walls may consist largely of
+metal or glass spandrel panels with some areas of precast concrete or masonry. Exterior walls
+that are not glazed should have sufficient acoustical insulation value such that the noise
+transmitted through is negligible in comparison with the windows. Spandrel or metal panels
+with typical sound insulation rating of STC-50 or higher, backed by an independent insulated
+drywall assembly, should meet these requirements.
+Glazing
+For the purposes of this preliminary analysis, typical window-to-floor areas were assumed to be
+50% (i.e. 40% fixed, 10% operable relative to floor area). Based upon this assumption, the
+glazing for residential suites with direct exposure to CP rail line should achieve the sound
+transmission class ratings shown in Table V.
+                          Table V: Preliminary Glazing Requirements*
+
+                                                                        Glazing STC
+                      Location         Description     Space
+                                                                       Requirement**
+                                                      LR/DR                    34
+                                          North
+                                                       BR                      40
+                                                      LR/DR                    37
+                                           East
+                                                       BR                     42
+                       Tower A
+                                                      LR/DR                   30
+                                          South
+                                                       BR                     35
+                                                      LR/DR                  OBC
+                                          West
+                                                       BR                    OBC
+                                                      LR/DR                   35
+                                          North
+                                                       BR                     40
+                                                      LR/DR                   38
+                                           East
+                                                       BR                     43
+                       Tower B
+                                                      LR/DR                   34
+                                          South
+                                                       BR                     39
+                                                      LR/DR                  OBC
+                                          West
+                                                       BR                     32
+                                                      LR/DR                   30
+                       Tower C            South
+                                                       BR                     33
+                                                      LR/DR                  OBC
+                       Tower D            West
+                                                       BR                    OBC
+                     Townhouses                       LR/DR                  OBC
+                     (at center of        North        BR                    OBC
+                          site)
+Note: Based on assumed 50% window-to-floor area ratio
+** Requirements are for fixed glazing units, operable elements (windows/doors) can be up to 3 points lower without
+affecting these recommendations.
+Deltera Inc., On the Park                                                                  Page 10
+Leslie Street and Eglinton Ave E, Toronto, ON                                      January 19, 2015
+
+These results indicate that the glazing along the east side of the development (east facades of
+Tower B and Tower A) facing the rail line must achieve a sound transmission class (STC) rating
+of at least 40 for the living/dining rooms and at least 42/43 for the bedrooms in order to achieve
+the target indoor sound level criteria. Lower STC rating may be achieved by using smaller
+window areas relative to the floor area especially in bedrooms. Façades with less exposure to the
+rail corridor are less impacted, and accordingly a lower STC would be acceptable while still
+meeting the indoor targets. Acoustical criteria for different facades can be optimized as part of
+the detail design of the building envelope, if required.
+These calculations assume insignificant sound transmission through the walls in comparison
+with the windows; exterior wall assemblies with a rating of STC-50 or higher should be
+incorporated.
+4.5.4   Warning Clauses
+MOE guidelines recommend that appropriate warning clauses be included in the property titles,
+purchase and sale agreements, and tenancy agreements of properties where anticipated traffic
+sound level excesses are identified. The actual wording of the warning clause depends on the
+nature of the excess. For this site, two clauses are recommended as follows.
+(a)     Purchasers/tenants are advised that despite the inclusion of noise control features in
+        the development and within the building units, sound levels due to increasing
+        road/rail traffic may on occasion interfere with some activities of the dwelling
+        occupants as the sound levels exceed the Municipality’s and the Ministry of the
+        Environment’s noise criteria.
+(b)     This dwelling unit has been supplied with a central air conditioning system which
+        will allow windows and exterior doors to remain closed, thereby ensuring that the
+        indoor sound levels are within the Ministry of Environment’s noise criteria.
+(c)     Purchasers/tenants are advised that due to the proximity of this development to
+        nearby retail and commercial facilities, sound levels from the facilities may at times
+        be audible.
+
+
+CP railway generally require specific warning clauses to protect their interests if the site is close
+to a major railway corridor. Wording for such a clause is included in the guideline document
+provided in Appendix B, and reads as follows:
+Deltera Inc., On the Park                                                                 Page 11
+Leslie Street and Eglinton Ave E, Toronto, ON                                     January 19, 2015
+
+       Warning: CP Railway or its assigns or successors in interest has or have a rights-of-way
+       within 300 metres from the land the subject hereof. There may be alterations to or
+       expansions of the railway facilities on such rights-of-way in the future including the
+       possibility that the railway or its assigns or successors as aforesaid may expand its
+       operations, which expansion may affect the living environment of the residents in the
+       vicinity, notwithstanding the inclusion of any noise and vibration attenuating measures in
+       the design of the development and individual dwelling(s). CP Railway will not be
+       responsible for any complaints or claims arising from the use of such facilities and/or
+       operations on, over or under the aforesaid rights-of-way.
+In addition, GO Transit generally require specific warning clauses to protect their interests if the
+site is close to a major railway corridor. Wording for such a clause is included in the guideline
+document provided in Appendix B, and reads as follows:
+       Warning: GO Transit or its assigns or successors in interest has or have a rights-of-way
+       within 300 metres from the land the subject hereof. There may be alterations to or
+       expansions of the railway facilities on such rights-of-way in the future including the
+       possibility that the railway or its assigns or successors as aforesaid may expand its
+       operations, which expansion may affect the living environment of the residents in the
+       vicinity, notwithstanding the inclusion of any noise and vibration attenuating measures in
+       the design of the development and individual dwelling(s). GO Transit will not be
+       responsible for any complaints or claims arising from the use of such facilities and/or
+       operations on, over or under the aforesaid rights-of-way.
+
+
+5   GROUND-BORNE VIBRATION ASSESSMENT
+
+5.1 Site Measurements
+To assess the potential ground-borne vibration impact on the development due to the Bala and
+North Toronto Subdivisions, HGC Engineering measured vibration levels impacting the
+development site. The measurements were performed during busy morning peak hours on
+November 28, 2014. Vibration measurements were conducted outside at grade. Vibration
+measurement locations are shown in Figure 3. A total of 3 freight train pass-bys were measured
+during our site visit.
+The vibration data was analyzed and compared to criteria as outlined in Section 3.2. Some
+additional predictions were also undertaken, adjusting the measured levels to account for the
+different factors likely to affect the vibration path in the new development. These adjustments
+include higher foundation losses due to coupling of the soil to the new heavier building
+foundation (i.e., assumed to be poured concrete on caissons), floor-to-floor attenuation up to the
+first residential level and amplification due to suspended structures.
+Deltera Inc., On the Park                                                                Page 12
+Leslie Street and Eglinton Ave E, Toronto, ON                                    January 19, 2015
+
+When vibrations from train pass-bys were at a maximum, they were dominated by low-frequency
+peaks in the 20-50 Hz range. Maximum vibration levels from measured train pass-bys are shown
+in Figure 4. The measurements indicate vibration levels are below the ANSI/ISO criteria for
+tactile perceptibility, and were less than the target outlined above with respect to re-radiated
+noise. It is concluded that ground-borne vibration from rail pass-by events is not a concern for
+this development.
+
+
+6   IMPLEMENTATION
+Upon review and approval of this feasibility study by the City, CP railway and GO Transit, all
+recommendations set forth in the study shall be secured through the Conditions of Site Plan
+Approval and/or the Building Permit, to the satisfaction of the City, CP and GO Transit.
+Appropriate warning clauses should be included in all future development agreements for each
+dwelling unit in this development. Suggested wording for warning clauses has been provided
+herein, and may be adjusted as necessary to suit the requirements of the City and the railways.
+
+
+7   CONCLUSIONS
+Measurements and modelling have been undertaken to assess the noise and vibration impact of
+surrounding sources on the proposed development at On the Park at Leslie Street and Eglinton
+Avenue East, in Toronto.
+Background sound levels from future road traffic on the surrounding roadways and rail traffic
+noise in the adjacent rail corridor have been predicted. Preliminary recommendations for suitable
+building constructions are provided in Section 4.5.3 above. Warning clauses are recommended to
+advise residents of road and rail traffic noise concerns.
+Predicted sound levels exceed MOE criteria in the outdoor amenity space on the 4th floor
+between Tower A and Tower B facing the railway. A 3.0 m tall barrier would be required to
+reduce sound levels to within criteria. A 1.1 m high barrier is required for the amenity areas at
+the northwest and southwest of Towers A and B.
+Based on the measurements conducted on site, vibration impacts from by rail traffic on the Bala
+and North Toronto rail line are anticipated to be within reasonable limits, and additional control
+measures are not anticipated to be required.
+With the integration of suitable noise control measures into the building design, compatibility
+with the surrounding environment is anticipated to be achieved. Hence, the proposed
+development is considered to be feasible from a noise and vibration perspective.
+ 
+
+ 
+
+ 
+
+
+
+
+                              parking garage, 2-storey
+
+
+
+
+             SITE
+
+
+
+
+    Toyota/Lexus dealership
+
+
+
+
+                                                          
+
+
+
+
+     Figure 1 - Key Plan
+Figure 2A - Site Plan
+1.1 m high acoustic barrier
+
+
+
+
+                                                           3.0 m high acoustic barrier
+
+
+
+
+1.1 m high acoustic barrier
+
+
+
+
+                     Figure 2B - 4th Floor Amenity Space
+ 
+
+ 
+
+ 
+
+
+
+
+                                                 vibration measurement
+                                                 location
+
+
+
+
+                                                         railway corridor
+
+
+
+
+                                                                             
+
+
+
+
+    Figure 3 - Vibration Measurement Locations
+                              Figure 4 - Vibration Vs. Criteria
+                        -20                                                              NC-60
+
+                        -30                                                              NC-50
+
+                        -40                                                              NC-40
+
+                        -50                                                              NC-30
+Vibration Level, dBG
+
+
+
+
+                        -60                                                              NC-20
+
+                        -70
+
+
+                        -80
+
+
+                        -90
+
+
+                       -100
+
+
+                       -110
+
+
+                       -120
+                                0.8
+                                  1
+                               1.25
+                                1.6
+                                  2
+                                2.5
+                               3.15
+                                  4
+                                  5
+                                6.3
+                                  8
+                                 10
+                               12.5
+                                 16
+                                 20
+                                 25
+                               31.5
+                                 40
+                                 50
+                                 63
+                                 80
+                               100
+                               125
+                               160
+                               200
+                               250
+                               315
+                               400
+                               500
+                               630
+                               800
+                              1000
+                              1250
+                              1600
+                              2000
+                              2500
+                              3150
+                              4000
+                              5000
+                              6300
+                              8000
+                               ANSI Criteria   1/3 Octave Band
+                                                       Freight #1 Mid-Frequency, Hz #2
+                                                                              Freight
+                               Freight #3              predicted
+ APPENDIX A
+Rail Traffic Data
+1                                                          Sheeba Paul                                         18/12/2014 10:57 AM
+
+
+Sheeba Paul
+
+From:                                Adam Snow <Adam.Snow@gotransit.com>
+Sent:                                December-18-14 10:51 AM
+To:                                  Sheeba Paul
+Subject:                             RE: Train Traffic Data Verification (Leslie St and Eglinton Ave E) Toronto
+
+
+Hello Sheeba – As previously noted, GO Transit does not currently operate on the North Toronto corridor – but in the
+interests of protecting for future operations you may use the information provided in July 2010 as the basis for you
+analysis. I do not have speed information for this line but for the purposes of the analysis please assume the freight train
+speed provided by CP.
+
+The Bala Subdivision (GO Richmond Hill line) is located beyond 300 metres from the subject site and as such you do not
+need to consider rail traffic on that line.
+
+I trust that this information meets your needs. Please let me know if you need anything else.
+
+Thanks,
+
+Adam
+
+
+Adam Snow
+Third Party Projects Officer
+GO Transit - Rail Corridor Management Office
+335 Judson Street | Toronto | Ontario | M8Z 1B2
+T: 416-354-7746
+C: 416-528-4864
+F: 416-354-7731
+E-mail: Adam.Snow@gotransit.com
+www.gotransit.com
+
+
+
+
+From: Sheeba Paul [mailto:spaul@hgcengineering.com]
+Sent: Wednesday, December 17, 2014 5:46 PM
+To: Adam Snow; Adam Snow; Adam Snow
+Subject: RE: Train Traffic Data Verification (Leslie St and Eglinton Ave E) Toronto
+ 
+Hello Adam
+
+HGC Engineering is performing a noise study for the site at Inn on the Park in Toronto.  
+
+Please find attached a Google link for your reference.  
+ 
+https://www.google.ca/maps/search/Rowntree+Enterprises/@43.7192221,‐79.3517422,16z 
+ 
+It appears there are 2 railway lines.  
+ 
+1) One is the North Toronto Subdivision which is the main CP freight line. I have data from you from Dupont and Avenue Road 
+project which is attached. 
+ 
+ 
+2                                                                          Sheeba Paul                                       18/12/2014 10:57 AM
+ 
+2) The other line is the Bala Subdivision from the south. I also have data from a site we did at DeFries Street 
+ 
+
+
+
+
+These two lines merge near our site at Leslie Street and Eglinton Avenue East. 
+ 
+The GO Line from downtown Toronto appears to split north of Gerrard Street and goes east and northward far away 
+from our site.  
+ 
+Can you please confirm the rail data for the GO portion of the two railway lines? From what I understand there are no 
+GO Trains on the railway line at Eglinton Ave E and Leslie Street. 
+ 
+Thank you.  
+
+Ms. Sheeba Paul, MEng, PEng
+Senior Engineer, Associate
+
+CELEBRATING 20 YEARS | 1994-2014           
+HGC Engineering NOISE | VIBRATION | ACOUSTICS
+Howe Gastmeier Chapnik Limited
+2000 Argentia Road, Plaza One, Suite 203, Mississauga, Ontario, Canada L5N 1P7
+t: 905.826.4044 e: spaul@hgcengineering.com
+Visit our new website! www.hgcengineering.com Follow Us – LinkedIn | Twitter | YouTube
+
+This e-mail and any attachments may contain confidential and privileged information. If you are not the intended
+recipient, please notify the sender immediately by return e-mail, delete this e-mail and destroy any copies. Any
+dissemination or use of this information by a person other than the intended recipient is unauthorized and may be illegal.
+ 
+                                                                                                        Page 1 of 2
+
+
+
+Sheeba Paul
+
+From:     Adam Snow [Adam.Snow@gotransit.com]
+Sent:     July 8, 2010 11:52 AM
+To:       Sheeba Paul
+Subject: RE: rail traffic data request
+Hi Sheeba - There is no GO service on this line at present, but there are expectations that there will be in
+the future, although we have not established specific numbers. According to the GO 2020 Plan, service
+will include "peak-period, peak direction rail service every thirty minutes or better". For the purposes
+of your analysis you could adopt our standard '40 trains a day' (36 day/4 night) service level that we have
+used in the past, so that at least some level of GO service is considered.
+
+I hope that this helps.
+
+Best regards,
+
+Adam
+
+
+From: Sheeba Paul [mailto:spaul@hgcengineering.com]
+Sent: Thursday, July 08, 2010 11:14 AM
+To: Adam Snow
+Subject: RE: rail traffic data request
+
+Hi Adam
+
+Sorry to bug you about this one.
+
+Please let me know if there are any GO Trains on this line. If there are no GO Trains, then my
+calculations are done. If there are GO Trains, can you let me know when I can expect the data.
+
+Thank you.
+
+Ms. Sheeba Paul, PEng
+
+HGC Engineering
+Howe Gastmeier Chapnik Limited
+2000 Argentia Road
+Plaza One, Suite 203
+Mississauga, Ontario, Canada L5N 1P7
+
+Phone (905) 826-4044
+Fax (905) 826-4940
+
+spaul@hgcengineering.com
+www.hgcengineering.com
+
+This e-mail and any attachments may contain confidential and privileged information. If you are not the
+intended recipient, please notify the sender immediately by return e-mail, delete this e-mail and destroy
+any copies. Any dissemination or use of this information by a person other than the intended recipient is
+unauthorized and may be illegal.
+
+
+
+
+From: Sheeba Paul
+Sent: July 7, 2010 12:58 PM
+
+
+
+
+08/07/2010
+                                                                                                     Page 2 of 2
+
+
+
+To: Adam Snow
+Subject: RE: rail traffic data request
+
+Hi Adam,
+
+I am just wondering if there are GO Trains which use the CP railway line that crosses Avenue Road in the City of
+Toronto. I have attached a Google link for your reference.
+
+http://maps.google.ca/maps?
+f=q&source=s_q&hl=en&geocode=&q=avenue+road+and+pears+avenue,+toronto,+ontario&sll=43.674611,-
+79.396745&sspn=0.002479,0.004801&gl=ca&ie=UTF8&hq=&hnear=Avenue+Rd+%
+26+Pears+Ave,+Toronto,+Toronto+Division,+Ontario&ll=43.675368,-
+79.396906&spn=0.010243,0.019205&t=h&z=16
+
+Please let me know.
+
+Thank you.
+
+
+Ms. Sheeba Paul, PEng
+
+HGC Engineering
+Howe Gastmeier Chapnik Limited
+2000 Argentia Road
+Plaza One, Suite 203
+Mississauga, Ontario, Canada L5N 1P7
+
+Phone (905) 826-4044
+Fax (905) 826-4940
+
+spaul@hgcengineering.com
+www.hgcengineering.com
+
+This e-mail and any attachments may contain confidential and privileged information. If you are not the intended
+recipient, please notify the sender immediately by return e-mail, delete this e-mail and destroy any copies. Any
+dissemination or use of this information by a person other than the intended recipient is unauthorized and may be
+illegal.
+
+
+
+
+08/07/2010
+1                                                                 Sheeba Paul                                                23/08/2012 2:32 PM
+
+
+Sheeba Paul
+
+From:                                    Orest Rojik <Orest_Rojik@cpr.ca>
+Sent:                                    August-23-12 2:31 PM
+To:                                      Sheeba Paul
+Subject:                                 RE: Train Traffic Data Request
+
+
+Sheeba, 
+  
+Please amend the data from 2010 to reflect changes in our operations.  Revised information through July 2012 is as 
+follows: 
+  
+  
+1.            Number of freight trains between 0700 & 2300:                 26 average (20 minimum, 31 maximum) 
+                Number of freight trains between 2300 & 0700:                 13 average (6 minimum, 19 maximum) 
+  
+2.            Number of freight cars per train:                              64 average (150 maximum)  
+                Number of locomotives per train:                            2 average (5 maximum) 
+  
+3.            Whistle signals are not routinely sounded through the study area. 
+  
+4.            Maximum permissible speed:                                    35 mph for westbound trains 
+                                                                                                                45 mph for eastbound trains 
+                                                                                                                (use a 50/50 split for volumes) 
+  
+5.            The double track on this corridor is comprised of continuously welded rail. 
+  
+6.            An additional major noise source to consider is the at‐grade rail crossing between CPR and CNR to the north of 
+the site.  There are two diamond crossings located here which emit considerable noise and vibration. 
+  
+  
+  
+Orest Rojik SR/WA | Right-of-Way Representative Ontario | 800-1290 Central Parkway West, Mississauga, ON L5C 4R3 |  
+Canadian Pacific 905-803-3425 
+  
+  
+  
+  
+  
+         From: Sheeba Paul [mailto:spaul@hgcengineering.com]
+         Sent: Wednesday, August 01, 2012 11:00 AM
+         To: Orest Rojik
+         Subject: re: Train Traffic Data Request 
+           
+         Hi Orest, 
+           
+         HGC Engineering is performing a noise study for a proposed development at 1136 Dupont Street, Toronto, 
+         Ontario.  The railway line abuts the property to the north. A Google link is attached for your reference. 
+           
+         http://maps.google.ca/maps?q=1136+Dupont+Street,+Toronto,+ON&hl=en&ll=43.669742,-
+         79.437976&spn=0.004579,0.010332&sll=43.341722,-
+2                                                       Sheeba Paul                                        23/08/2012 2:32 PM
+       79.795246&sspn=0.036829,0.082655&oq=1136+Dupont+&gl=ca&hnear=1136+Dupont+St,+Toronto,+Ontario+M
+       6H+2A2&t=h&z=17  
+          
+       Typically we need daytime volumes, night-time volumes, number of locomotives, number of cars, speed of trains,
+       speed and whistle information.  
+         
+       We have some rail traffic data for this railway line in our files (from a project at Avenue and Davenport). The data
+       is attached.  
+         
+       Please review and let me know if we need new data. 
+         
+       Also, we need to perform vibration measurements on the site. Do you have an idea when the trains go by more 
+       frequently? Morning, afternoon or evening? 
+         
+       Thank you. 
+         
+       Ms. Sheeba Paul, MEng. PEng.  
+
+
+
+
+                                                
+       HGC Engineering 
+       Howe Gastmeier Chapnik Limited
+       2000 Argentia Road
+       Plaza One, Suite 203
+       Mississauga, Ontario, Canada L5N 1P7
+       Phone (905) 826-4044
+       Fax (905) 826-4940 
+
+------------------------------ IMPORTANT NOTICE - AVIS IMPORTANT ------------------------------ Computer
+viruses can be transmitted via email. Recipient should check this email and any attachments for the presence of
+viruses. Sender and sender company accept no liability for any damage caused by any virus transmitted by this
+email. This email transmission and any accompanying attachments contain confidential information intended
+only for the use of the individual or entity named above. Any dissemination, distribution, copying or action
+taken in reliance on the contents of this email by anyone other than the intended recipient is strictly prohibited.
+If you have received this email in error please immediately delete it and notify sender at the above email
+address. Le courrier electronique peut etre porteur de virus informatiques. Le destinataire doit donc passer le
+present courriel et les pieces qui y sont jointes au detecteur de virus. L' expediteur et son employeur declinent
+toute responsabilite pour les dommages causes par un virus contenu dans le courriel. Le present message et les
+pieces qui y sont jointes contiennent des renseignements confidentiels destines uniquement a la personne ou a l'
+organisme nomme ci-dessus. Toute diffusion, distribution, reproduction ou utilisation comme reference du
+contenu du message par une autre personne que le destinataire est formellement interdite. Si vous avez recu ce
+courriel par erreur, veuillez le detruire immediatement et en informer l' expediteur a l' adresse ci-dessus. ---------
+--------------------- IMPORTANT NOTICE - AVIS IMPORTANT ------------------------------
+APPENDIX B
+Rail Guidelines
+                                                                PRINCIPAL MAIN LINE REQUIREMENTS
+
+
+1.   Berm, or combination berm and noise attenuation fence, having extensions or returns at the ends, to be erected on
+     adjoining property, parallel to the railway right-of-way with construction according to the following:
+
+     a) Minimum total height 5.5 metres above top-of-rail;
+     b) Berm minimum height 2.5 metres and side slopes not steeper than 2.5 to 1.
+     c) Fence, or wall, to be constructed without openings and of a durable material weighing not less than 20 kg. per
+        square metre (4 lb/sq.ft.) of surface area.
+
+     No part of the berm/noise barrier is to be constructed on railway property.
+
+     A clause should be inserted in all offers of purchase and sale or lease, and be registered on title or included in the
+     lease for each dwelling affected by any noise and vibration attenuation measures, advising that any berm, fencing,
+     or vibration isolation features implemented are not to be tampered with or altered, and further that the owner shall
+     have the sole responsibility for and shall maintain these features.
+
+     Dwellings must be constructed such that the interior noise levels meet the criteria of the appropriate Ministry. A
+     noise study should be carried out by a professional noise consultant to determine what impact, if any, railway noise
+     would have on residents of proposed subdivisions and to recommend mitigation measures, if required. The Railway
+     may consider other measures recommended by the study.
+
+2.   Setback of dwellings from the railway right-of-way to be a minimum of 30 metres. While no dwelling should be
+     closer to the right-of-way than the specified setback, an unoccupied building, such as a garage, may be built closer.
+     The 2.5 metre high earth berm adjacent to the right-of-way must be provided in all instances.
+
+3.   Ground vibration transmission to be estimated through site tests. If in excess of the acceptable levels, all dwellings
+     within 75 metres of the nearest track should be protected. The measures employed may be:
+
+     a) Support the building on rubber pads between the foundation and the occupied structure so that the maximum
+        vertical natural frequency of the structure on the pads is 12 Hz;
+     b) Insulate the building from the vibration originating at the railway tracks by an intervening discontinuity or by
+        installing adequate insulation outside the building, protected from the compaction that would reduce its
+        effectiveness so that vibration in the building became unacceptable; or
+     c) Other suitable measures that will retain their effectiveness over time.
+
+4.   A clause should be inserted in all offers of purchase and sale or lease and in the title deed or lease of each dwelling
+     within 300m of the railway right-of-way, warning prospective purchasers or tenants of the existence of the Railway's
+     operating right-of-way; the possibility of alterations including the possibility that the Railway may expand its
+     operations, which expansion may affect the living environment of the residents notwithstanding the inclusion of
+     noise and vibration attenuating measures in the design of the subdivision and individual units, and that the Railway
+     will not be responsible for complaints or claims arising from the use of its facilities and/or operations.
+
+5.   Any proposed alterations to the existing drainage pattern affecting railway property must receive prior concurrence
+     from the Railway, and be substantiated by a drainage report to be reviewed by the Railway.
+
+6.   A 1.83 metre high chain link security fence be constructed and maintained along the common property line of the
+     Railway and the development by the developer at his expense, and the developer is made aware of the necessity of
+     including a covenant running with the lands, in all deeds, obliging the purchasers of the land to maintain the fence in
+     a satisfactory condition at their expense.
+
+7.   Any proposed utilities under or over railway property to serve the development must be approved prior to their
+     installation and be covered by the Railway's standard agreement.
+
+                                             _________________________
+                                                     PRINCIPAL MAIN LINE REQUIREMENTS
+
+A.       Safety setback of dwellings from the railway rights-of-way to be a minimum of 30 metres in conjunction with a
+         safety berm. The safety berm shall be adjoining and parallel to the railway rights-of-way with returns at the ends,
+         2.5 metres above grade at the property line, with side slopes not steeper than 2.5 to 1.
+
+B.       Noise attenuation barrier shall be adjoining and parallel to the railway rights-of-way, having returns at the ends, and
+         a minimum total height of 5.5 metres above top-of-rail. Acoustic fence to be constructed without openings and of a
+         durable material weighing not less than 20 kg. per square metre of surface area. Subject to the review of the noise
+         report, GO Transit may consider other measures recommended by an approved Noise Consultant.
+
+C.       Ground-borne vibration transmission to be evaluated in a report through site testing to determine if dwellings within
+         75 metres of the railway rights-of-way will be impacted by vibration conditions in excess of 0.14 mm/sec RMS
+         between 4 Hz and 200 Hz. The monitoring system should be capable of measuring frequencies between 4 Hz and
+         200 Hz, + 3 dB with an RMS averaging time constant of 1 second. If in excess, isolation measures will be required
+         to ensure living areas do not exceed 0.14 mm/sec RMS on and above the first floor of the dwelling.
+
+D.       The Owner shall install and maintain a chain link fence of minimum 1.83 metre height along the mutual property
+         line.
+
+E.       The following clause should be inserted in all development agreements, offers to purchase, and agreements of
+         Purchase and Sale or Lease of each dwelling unit within 300m of the railway right-of-way.
+
+                    Warning: The Greater Toronto Transit Authority, carrying on business as GO Transit, and its assigns and
+                    successors in interest has or have a right-of-way within 300 metres from the land the subject hereof. There
+                    may be alterations to or expansions of the rail facilities on such right-of-way in the future including the
+                    possibility that GO Transit or any railway entering into an agreement with GO Transit to use the right-of-
+                    way or their assigns or successors as aforesaid may expand their operations, which expansion may affect
+                    the living environment of the residents in the vicinity, notwithstanding the inclusion of any noise and
+                    vibration attenuating measures in the design of the development and individual dwelling(s). GO Transit will
+                    not be responsible for any complaints or claims arising from use of such facilities and/or operations on, over
+                    or under the aforesaid right-of-way.
+
+F.       Any proposed alterations to the existing drainage pattern affecting the railway right-of-way must receive prior
+         concurrence from GO Transit and be substantiated by a drainage report to the satisfaction of GO Transit.
+
+G.       The Owner shall through restrictive covenants to be registered on title and all agreements of purchase and sale or
+         lease provide notice to the public that the safety berm, fencing and vibration isolation measures implemented are not
+         to be tampered with or altered and further that the Owner shall have sole responsibility for and shall maintain these
+         measures to the satisfaction of GO Transit.
+
+H.       The Owner enter into an Agreement stipulating how GO Transit’s concerns will be resolved and will pay GO
+         Transit’s reasonable costs in preparing and negotiating the agreement.
+
+I.       The Owner may be required to grant GO Transit an environmental easement for operational emissions, registered on
+         title against the subject property in favour of GO.
+
+
+
+
+     August, 2006
+ APPENDIX C
+Road Traffic Data
+                                                               City of Toronto - Traffic Safety Unit
+
+                                                                     24-Hour Count Summary Report
+                                                     STAT   ARTERY          COUNT           AM         AM            PM          PM    OFF HOUR            OFF HOUR           24 HOUR
+DON MILLS RD                                         CODE    CODE            DATE          PEAK     PEAK HOUR       PEAK      PEAK HOUR PEAK              PEAK HOUR             Total
+
+Northbound                     Category: 24 HOUR
+DON MILLS RD N/B S OF EGLINTON AVE                 2340       2340     3/11/10 Thu          1,334   08:00 - 09:00    2,037   16:00 - 17:00      1,727   14:30 - 15:30              21,330
+
+
+                                                                     Northbound Total:     1,334                    2,037                       1,727                              21,330
+
+                                                                Northbound Average:        1,334                    2,037                       1,727                              21,330
+
+Southbound                     Category: 24 HOUR
+DON MILLS RD S/B N OF EGLINTON AVE                 2341       2341     3/11/10 Thu          1,696   08:15 - 09:15    1,628   17:15 - 18:15      1,230   10:30 - 11:30              18,939
+
+
+                                                                     Southbound Total:     1,696                    1,628                       1,230                              18,939
+
+                                                                Southbound Average:        1,696                    1,628                       1,230                              18,939
+
+DON MILLS RD                                                                                3,030                   3,665                       2,957                              40,269
+Comment:
+
+
+
+
+                                                                                     Page 1 of 1                                             Printed On: 26 Nov, 2014 11:35:32AM
+                                                                    City of Toronto - Traffic Safety Unit
+
+                                                                   Turning Movement Count Summary Report
+                                                                                                                           Survey Date:             2014-May-03           (Saturday)
+EGLINTON AVE AT LESLIE ST (PX 453)
+                                                                                                                           Survey Type:             Routine Hours
+
+  Time          Vehicle             NORTHBOUND                        EASTBOUND                          SOUTHBOUND                                   WESTBOUND
+ Period          Type     Exits    Left Thru Right Total   Exits    Left Thru Right Total         Exits Left Thru Right         Total   Exits       Left Thru Right Total              Peds   Bike     Other
+                  CAR       813      0     0    0      0     967     505   713       0    1,218         0   254     0    675     929      1,520        0     845    308   1,153   N      14    23         0
+ 08:30-09:30
+                  TRK        15      0     0    0      0      17      11    11      0       22          0     6     0     18      24         37        0      19      4     23    S       0        0      0
+ AM PEAK          BUS         6      0     0    0      0       9       6     9      0       15          0     0     0      7       7         22        0      15      0     15    E      13        3      0
+                                                                                                                                                                                  W      14        0      0
+
+               TOTAL:       834      0     0    0     0      993     522    733      0   1,255          0   260     0    700     960       1,579        0    879    312   1,191
+
+                  CAR      1,335     0     0    0      0    1,750    951 1,253       0    2,204         0   497     0    849    1,346     1,898        0    1,049   384   1,433   N       8        0      0
+ 16:00-17:00
+                  TRK         6      0     0    0      0      13       2     7      0        9          0     6     0      4      10            7      0       3      4      7    S       0        0      0
+ PM PEAK          BUS        10      0     0    0      0      17       9    16      0       25          0     1     0      9      10         28        0      19      1     20    E       6        0      0
+                                                                                                                                                                                  W       6        0      0
+
+               TOTAL:      1,351     0     0    0     0     1,780    962 1,276       0   2,238          0   504     0    862    1,366      1,933        0   1,071   389   1,460
+
+                  CAR      1,152     0     0    0      0    1,638    813 1,197       0    2,010         0   441     0    848    1,289     2,000        0    1,152   339   1,491   N      11        5      0
+ OFF HR
+ AVG              TRK        18      0     0    0      0      24       9    13      0       22          0    11     0      8      19         16        0       8      9     17    S       0        0      0
+                  BUS        10      0     0    0      0      17       9    16      0       25          0     1     0     10      11         27        0      17      1     18    E       8        1      0
+                                                                                                                                                                                  W       8        0      0
+
+               TOTAL:      1,180     0     0    0     0     1,679    831 1,226       0   2,057          0   453     0    866    1,319      2,043        0   1,177   349   1,526
+
+                  CAR      1,318     0     0    0      0    1,631    793 1,163       0    1,956         0   468     0 1,205     1,673     2,593        0    1,388   525   1,913   N      22    23         0
+ 07:30-09:30
+                  TRK        34      0     0    0      0      32      21    16      0       37          0    16     0     27      43         68        0      41     13     54    S       0        0      0
+ 2 HR AM          BUS        12      0     0    0      0      16      12    16      0       28          0     0     0     12      12         33        0      21      0     21    E      14        3      0
+                                                                                                                                                                                  W      15        4      0
+
+               TOTAL:      1,364     0     0    0     0     1,679    826 1,195       0   2,021          0   484     0   1,244   1,728      2,694        0   1,450   538   1,988
+
+                  CAR      2,438     0     0    0      0    3,392   1,725 2,406      0    4,131         0   986     0 1,654     2,640     3,745        0    2,091   713   2,804   N      13        0      0
+ 16:00-18:00
+                  TRK        12      0     0    0      0      27       5    14      0       19          0    13     0      8      21         15        0       7      7     14    S       0        0      0
+ 2 HR PM          BUS        24      0     0    0      0      32      23    31      0       54          0     1     0     17      18         49        0      32      1     33    E      11        1      0
+                                                                                                                                                                                  W      12        0      0
+
+               TOTAL:      2,474     0     0    0     0     3,451   1,753 2,451      0   4,204          0 1,000     0   1,679   2,679      3,809        0   2,130   721   2,851
+
+                  CAR      8,365     0     0    0      0   11,573   5,771 8,356      0   14,127         0 3,217     0 6,249     9,466   14,334         0    8,085 2,594 10,679    N      77    41         0
+ 07:30-18:00
+                  TRK       118      0     0    0      0     152      63    80      0      143          0    72     0     66     138        147        0      81     55    136    S       0        0      0
+ 8 HR SUM         BUS        75      0     0    0      0     116      72   112      0      184          0     4     0     67      71        189        0     122      3    125    E      57        8      0
+                                                                                                                                                                                  W      60        4      0
+
+               TOTAL:      8,558     0     0    0     0    11,841   5,906 8,548      0 14,454           0 3,293     0   6,382   9,675     14,670        0   8,288 2,652 10,940
+
+Total 8 Hour Vehicle Volume: 35,069                                               Total 8 Hour Bicycle Volume: 53                                       Total 8 Hour Intersection Volume: 35,122
+Comment: COUNTED DURING DVP CLOSURE MAY 3, 2014
+
+
+
+                                                                                          Page 1 of 1                                                                Printed On: 26 Nov, 2014 1:07:36PM
+
