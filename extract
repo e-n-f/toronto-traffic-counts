@@ -46,11 +46,17 @@ while (<>) {
 			}
 
 			if (/([NSEW]) +([0-9,]+) +([0-9,]+) +([0-9,]+) *$/) {
-				$count{$1}{"Peds"} = $2;
-				$count{$1}{"Bike"} = $3;
+				my $p2 = $2;
+				my $p3 = $3;
+				$p2 =~ s/,//g;
+				$p3 =~ s/,//g;
+
+				$count{$1}{"Peds"} = $p2;
+				$count{$1}{"Bike"} = $p3;
 			}
 
 			if (s/.*(CAR|TRK|BUS) *//) {
+				s/,//g;
 				my @fields = split(/ +/, $_);
 
 				# exits                     0
