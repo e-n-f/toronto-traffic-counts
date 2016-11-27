@@ -38,7 +38,11 @@ for $file ("allday/signalizedTrafficPedestrianVolumes20120216.tsv", "allday/2012
 	while (<IN>) {
 		if ($file =~ /tsv/) {
 			s/,//g;
-			($id, $name1, $mid, $name2, $name3, $since, $lat, $lon, $date, $walk, $drive) = split(/\t */);
+			if ($file =~ /signalized/) {
+				($id, $name1, $mid, $name2, $name3, $since, $lat, $lon, $date, $walk, $drive) = split(/\t */);
+			} else {
+				($id, $name1, $mid, $name2, $name3, $since, $lat, $lon, $date, $drive, $walk) = split(/\t */);
+			}
 		} else {
 			($id, $name1, $mid, $name2, $name3, $since, $lat, $lon, $date, $drive, $walk) = split(/, */);
 		}
