@@ -47,6 +47,20 @@ for $file ("allday/signalizedTrafficPedestrianVolumes20120216.tsv", "allday/2012
 			($id, $name1, $mid, $name2, $name3, $since, $lat, $lon, $date, $drive, $walk) = split(/, */);
 		}
 
+		$sid = $id;
+		$sid =~ s/\s*//g;
+
+		if ($waslat{$sid} ne "") {
+			if (abs($lat - $waslat{$sid}) > .001 || abs($lon - $waslon{$sid}) > .001) {
+				print STDERR "Used $waslat{$sid},$waslon{$sid} for $lat,$lon\n";
+			}
+			$lat = $waslat{$sid};
+			$lon = $waslon{$sid};
+		} else {
+			$waslat{$sid} = $lat;
+			$waslon{$sid} = $lon;
+		}
+
 		next if $mid =~ /[^\s]/;
 
 		# $drive = $drive * $drivescale;
